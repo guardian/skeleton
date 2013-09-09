@@ -1,0 +1,71 @@
+[ {
+  "displayName" : "Top stories",
+  "style" : "topStories",
+  "section" : "news",
+  "id" : "au/news/top-stories",
+  "max" : "3",
+  "showmore" : "true"
+}, {
+  "displayName" : "Highlights of the last 24 hours",
+  "style" : "highlights",
+  "section" : "news",
+  "id" : "au/news/highlights",
+  "max" : "4",
+  "showmore" : "true"
+}, {
+  "displayName" : "Sport",
+  "style" : "masthead",
+  "section" : "sport",
+  "id" : "au/sport/top-stories",
+  "max" : "4",
+  "showmore" : "true"
+}, {
+  "displayName" : "Comment is free",
+  "style" : "masthead",
+  "section" : "commentisfree",
+  "id" : "au/commentisfree/top-stories",
+  "max" : "4",
+  "showmore" : "true"
+}, {
+  "displayName" : "Culture",
+  "style" : "masthead",
+  "section" : "culture",
+  "id" : "au/culture/top-stories",
+  "max" : "4",
+  "showmore" : "true"
+}, {
+  "displayName" : "Businedd",
+  "style" : "masthead",
+  "section" : "business",
+  "id" : "au/business/top-stories",
+  "max" : "4",
+  "showmore" : "false"
+}, {
+  "displayName" : "Life and style",
+  "style" : "masthead",
+  "section" : "lifeandstyle",
+  "id" : "au/lifeandstyle/top-stories",
+  "max" : "4",
+  "showmore" : "false"
+}, {
+  "displayName" : "Technology",
+  "style" : "masthead",
+  "section" : "technology",
+  "id" : "au/technology/top-stories",
+  "max" : "4",
+  "showmore" : "false"
+}, {
+  "displayName" : "Money",
+  "style" : "masthead",
+  "section" : "money",
+  "id" : "au/money/top-stories",
+  "max" : "4",
+  "showmore" : "false"
+}, {
+  "displayName" : "Travel",
+  "style" : "masthead",
+  "section" : "travel",
+  "id" : "au/travel/top-stories",
+  "max" : "4",
+  "showmore" : "false"
+} ]

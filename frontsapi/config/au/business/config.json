@@ -1,0 +1,8 @@
+[ {
+  "displayName" : "Business",
+  "style" : "featured",
+  "section" : "business",
+  "id" : "au/business/top-stories",
+  "max" : "20",
+  "showmore" : "false"
+} ]

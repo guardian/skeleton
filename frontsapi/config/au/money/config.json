@@ -1,0 +1,8 @@
+[ {
+  "displayName" : "Money",
+  "style" : "featured",
+  "section" : "money",
+  "id" : "au/money/top-stories",
+  "max" : "20",
+  "showmore" : "false"
+} ]

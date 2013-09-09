@@ -1,0 +1,10 @@
+{
+  "lastUpdated" : "2013-09-02T17:52:12.953+01:00",
+  "draft" : [ ],
+  "contentApiQuery" : "sport/mlb?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-media=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true",
+  "id" : "sport/mlb",
+  "areEqual" : true,
+  "live" : [ ],
+  "updatedBy" : "Skeleton",
+  "updatedEmail" : "skeleton.email@theguardian.com"
+}

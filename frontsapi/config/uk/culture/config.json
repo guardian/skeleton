@@ -1,0 +1,57 @@
+[ {
+  "displayName" : "Culture",
+  "style" : "featured",
+  "section" : "culture",
+  "id" : "uk/culture/top-stories",
+  "max" : "5",
+  "showmore" : "true"
+}, {
+  "displayName" : "TV & Radio",
+  "style" : "thumbnail",
+  "section" : "tv-and-radio",
+  "id" : "uk/tv-and-radio/top-stories",
+  "max" : "1",
+  "showmore" : "false"
+}, {
+  "displayName" : "Film",
+  "style" : "thumbnail",
+  "section" : "film",
+  "id" : "uk/film/top-stories",
+  "max" : "1",
+  "showmore" : "false"
+}, {
+  "displayName" : "Music",
+  "style" : "thumbnail",
+  "section" : "music",
+  "id" : "uk/music/top-stories",
+  "max" : "1",
+  "showmore" : "false"
+}, {
+  "displayName" : "Stage",
+  "style" : "thumbnail",
+  "section" : "stage",
+  "id" : "uk/stage/top-stories",
+  "max" : "1",
+  "showmore" : "false"
+}, {
+  "displayName" : "Books",
+  "style" : "headline",
+  "section" : "books",
+  "id" : "uk/books/top-stories",
+  "max" : "1",
+  "showmore" : "false"
+}, {
+  "displayName" : "Art & Design",
+  "style" : "headline",
+  "section" : "artanddesign",
+  "id" : "uk/artanddesign/top-stories",
+  "max" : "1",
+  "showmore" : "false"
+}, {
+  "displayName" : "Games",
+  "style" : "headline",
+  "section" : "technology",
+  "id" : "uk/technology/games/top-stories",
+  "max" : "1",
+  "showmore" : "false"
+} ]

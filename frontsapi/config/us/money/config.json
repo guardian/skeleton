@@ -1,0 +1,8 @@
+[ {
+  "displayName" : "Money",
+  "style" : "featured",
+  "section" : "money",
+  "id" : "us/money/top-stories",
+  "max" : "20",
+  "showmore" : "false"
+} ]

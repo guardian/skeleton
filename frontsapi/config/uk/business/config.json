@@ -1,0 +1,8 @@
+[ {
+  "displayName" : "Business",
+  "style" : "featured",
+  "section" : "business",
+  "id" : "uk/business/top-stories",
+  "max" : "20",
+  "showmore" : "false"
+} ]

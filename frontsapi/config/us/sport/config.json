@@ -1,0 +1,43 @@
+[ {
+  "displayName" : "Sports",
+  "style" : "featured",
+  "section" : "sport",
+  "id" : "us/sport/top-stories",
+  "max" : "5",
+  "showmore" : "true"
+}, {
+  "displayName" : "NFL",
+  "style" : "featured",
+  "section" : "sport",
+  "id" : "us/sport/nfl/top-stories",
+  "max" : "3",
+  "showmore" : "false"
+}, {
+  "displayName" : "MLB",
+  "style" : "thumbnail",
+  "section" : "sport",
+  "id" : "us/sport/mlb/top-stories",
+  "max" : "1",
+  "showmore" : "false"
+}, {
+  "displayName" : "NBA",
+  "style" : "thumbnail",
+  "section" : "sport",
+  "id" : "us/sport/nba/top-stories",
+  "max" : "1",
+  "showmore" : "false"
+}, {
+  "displayName" : "MLS",
+  "style" : "thumbnail",
+  "section" : "football",
+  "id" : "us/football/mls/top-stories",
+  "max" : "1",
+  "showmore" : "false"
+}, {
+  "displayName" : "NHL",
+  "style" : "thumbnail",
+  "section" : "sport",
+  "id" : "us/sport/nhl/top-stories",
+  "max" : "1",
+  "showmore" : "false"
+} ]

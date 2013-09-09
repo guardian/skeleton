@@ -1,0 +1,8 @@
+[ {
+  "displayName" : "Comment is free",
+  "style" : "featured",
+  "section" : "commentisfree",
+  "id" : "au/commentisfree/top-stories",
+  "max" : "20",
+  "showmore" : "false"
+} ]
