@@ -2,37 +2,43 @@
   {
     "displayName" : "Extra Large - Related",
     "id" : "uk/extra-large",
-    "style" : "topStories",
-    "max" : "6"
+    "style" : "masthead",
+    "max" : "6",
+    "showmore" : "true"
   }, 
   {
     "displayName" : "Large - Related",
     "id" : "uk/large",
-    "style" : "topStories",
-    "max" : "6"
+    "style" : "masthead",
+    "max" : "6",
+    "showmore" : "true"
   }, 
   {
     "displayName" : "Medium",
     "id" : "uk/medium",
     "style" : "topStories",
-    "max" : "3"
+    "max" : "3",
+    "showmore" : "true"
   }, 
   {
     "displayName" : "Small",
     "id" : "uk/small",
-    "style" : "topStories",
-    "max" : "4"
+    "style" : "highlights",
+    "max" : "4",
+    "showmore" : "true"
   }, 
   {
     "displayName" : "Extra Small",
     "id" : "uk/extra-small",
-    "style" : "topStories",
-    "max" : "4"
+    "style" : "highlights",
+    "max" : "4",
+    "showmore" : "true"
   }, 
   {
     "displayName" : "Highlights of the last 24 hours",
     "id" : "uk/highlights",
     "style" : "highlights",
-    "max" : "4"
+    "max" : "4",
+    "showmore" : "true"
   }
 ]
