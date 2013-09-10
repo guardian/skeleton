@@ -3,6 +3,7 @@
     "displayName" : "Extra Large - Related",
     "id" : "uk/extra-large",
     "style" : "masthead",
+    "section" : "news",
     "max" : "6",
     "showmore" : "true"
   }, 
@@ -10,6 +11,7 @@
     "displayName" : "Large - Related",
     "id" : "uk/large",
     "style" : "masthead",
+    "section" : "news",
     "max" : "6",
     "showmore" : "true"
   }, 
@@ -17,6 +19,7 @@
     "displayName" : "Medium",
     "id" : "uk/medium",
     "style" : "topStories",
+    "section" : "news",
     "max" : "3",
     "showmore" : "true"
   }, 
@@ -24,6 +27,7 @@
     "displayName" : "Small",
     "id" : "uk/small",
     "style" : "highlights",
+    "section" : "news",
     "max" : "4",
     "showmore" : "true"
   }, 
@@ -31,6 +35,7 @@
     "displayName" : "Extra Small",
     "id" : "uk/extra-small",
     "style" : "highlights",
+    "section" : "news",
     "max" : "4",
     "showmore" : "true"
   }, 
@@ -38,6 +43,7 @@
     "displayName" : "Highlights of the last 24 hours",
     "id" : "uk/highlights",
     "style" : "highlights",
+    "section" : "news",
     "max" : "4",
     "showmore" : "true"
   }
