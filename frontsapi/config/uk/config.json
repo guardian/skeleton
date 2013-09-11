@@ -1,6 +1,8 @@
 [
   {
-    "displayName" : "Extra Large - Related",
+    "roleName" : "Epic story",
+    "roleDescription" : "Single epic story, with related links",
+    "displayName" : "World Happiness Arrives",
     "id" : "uk/extra-large",
     "style" : "masthead",
     "section" : "news",
@@ -8,7 +10,9 @@
     "showmore" : "true"
   }, 
   {
-    "displayName" : "Large - Related",
+    "roleName" : "Major story",
+    "roleDescription" : "Single major story, with related links",
+    "displayName" : "Alien Life Detected",
     "id" : "uk/large",
     "style" : "masthead",
     "section" : "news",
@@ -16,7 +20,9 @@
     "showmore" : "true"
   }, 
   {
-    "displayName" : "Medium",
+    "roleName" : "Regular stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Top Stories",
     "id" : "uk/medium",
     "style" : "topStories",
     "section" : "news",
@@ -24,7 +30,9 @@
     "showmore" : "true"
   }, 
   {
-    "displayName" : "Small",
+    "roleName" : "Lesser stories",
+    "roleDescription" : "Lesser importance stories, unrelated",
+    "displayName" : "Top Stories",
     "id" : "uk/small",
     "style" : "highlights",
     "section" : "news",
@@ -32,7 +40,9 @@
     "showmore" : "true"
   }, 
   {
-    "displayName" : "Extra Small",
+    "roleName" : "Other stories",
+    "roleDescription" : "Other stories, unrelated",
+    "displayName" : "Top Stories",
     "id" : "uk/extra-small",
     "style" : "highlights",
     "section" : "news",
@@ -40,6 +50,8 @@
     "showmore" : "true"
   }, 
   {
+    "roleName" : "Featured stories",
+    "roleDescription" : "Featued content drawn from a longer time period",
     "displayName" : "Highlights of the last 24 hours",
     "id" : "uk/highlights",
     "style" : "highlights",
