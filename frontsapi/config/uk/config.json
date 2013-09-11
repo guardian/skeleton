@@ -38,49 +38,49 @@
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "displayName" : "Top stories",
+    "displayName" : "Sport",
     "id" : "uk/sport/regular-stories"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "displayName" : "Top stories",
+    "displayName" : "Comment is free",
     "id" : "uk/commentisfree/regular-stories"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "displayName" : "Top stories",
+    "displayName" : "Culture",
     "id" : "uk/culture/regular-stories"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "displayName" : "Top stories",
+    "displayName" : "Business",
     "id" : "uk/business/regular-stories"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "displayName" : "Top stories",
+    "displayName" : "Life and style",
     "id" : "uk/lifeandstyle/regular-stories"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "displayName" : "Top stories",
+    "displayName" : "Technology",
     "id" : "uk/technology/regular-stories"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "displayName" : "Top stories",
+    "displayName" : "Money",
     "id" : "uk/money/regular-stories"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "displayName" : "Top stories",
+    "displayName" : "Travel",
     "id" : "uk/travel/section-regular"
   }
 ]
