@@ -3,60 +3,98 @@
     "roleName" : "Epic story",
     "roleDescription" : "Single epic story, with related links",
     "displayName" : "World Happiness Arrives",
-    "id" : "uk/news/story/epic",
-    "style" : "masthead",
-    "section" : "news",
-    "max" : "6",
-    "showmore" : "true"
+    "id" : "uk/news/epic-story",
+    "max" : "6"
   }, 
   {
     "roleName" : "Major story",
     "roleDescription" : "Single major story, with related links",
     "displayName" : "Alien Life Detected",
-    "id" : "uk/news/story/major",
-    "style" : "masthead",
-    "section" : "news",
-    "max" : "6",
-    "showmore" : "true"
+    "id" : "uk/news/major-story",
+    "max" : "6"
   }, 
   {
     "roleName" : "Regular stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Top Stories",
-    "id" : "uk/news/stories/regular",
-    "style" : "topStories",
-    "section" : "news",
-    "max" : "2",
-    "showmore" : "true"
+    "id" : "uk/news/regular-stories",
+    "max" : "2"
   }, 
   {
     "roleName" : "Lesser stories",
     "roleDescription" : "Lesser importance stories, unrelated",
     "displayName" : "Top Stories",
-    "id" : "uk/news/stories/lesser",
-    "style" : "mediumStories",
-    "section" : "news",
-    "max" : "4",
-    "showmore" : "true"
+    "id" : "uk/news/lesser-stories",
+    "max" : "4"
   }, 
   {
     "roleName" : "Other stories",
     "roleDescription" : "Other stories, unrelated",
     "displayName" : "Top Stories",
-    "id" : "uk/news/stories/other",
-    "style" : "smallStories",
-    "section" : "news",
-    "max" : "20",
-    "showmore" : "true"
+    "id" : "uk/news/other-stories",
+    "max" : "20"
   }, 
   {
     "roleName" : "Featured stories",
     "roleDescription" : "Featued content drawn from a longer time period",
     "displayName" : "Highlights of the last 24 hours",
-    "id" : "uk/news/stories/featured",
-    "style" : "highlights",
-    "section" : "news",
-    "max" : "3",
-    "showmore" : "true"
+    "id" : "uk/news/featured-stories",
+    "max" : "3"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Top stories",
+    "id" : "uk/sport/section-stories",
+    "max" : "4"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Top stories",
+    "id" : "uk/commentisfree/section-stories",
+    "max" : "4"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Top stories",
+    "id" : "uk/culture/section-stories",
+    "max" : "4"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Top stories",
+    "id" : "uk/business/section-stories",
+    "max" : "4"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Top stories",
+    "id" : "uk/lifeandstyle/section-stories",
+    "max" : "4"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Top stories",
+    "id" : "uk/technology/section-stories",
+    "max" : "4"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Top stories",
+    "id" : "uk/money/section-stories",
+    "max" : "4"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Top stories",
+    "id" : "uk/travel/section-regular",
+    "max" : "4"
   }
 ]
