@@ -45,49 +45,49 @@
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Top stories",
-    "id" : "uk/sport/section-stories",
+    "id" : "uk/sport/regular-stories",
     "max" : "4"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Top stories",
-    "id" : "uk/commentisfree/section-stories",
+    "id" : "uk/commentisfree/regular-stories",
     "max" : "4"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Top stories",
-    "id" : "uk/culture/section-stories",
+    "id" : "uk/culture/regular-stories",
     "max" : "4"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Top stories",
-    "id" : "uk/business/section-stories",
+    "id" : "uk/business/regular-stories",
     "max" : "4"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Top stories",
-    "id" : "uk/lifeandstyle/section-stories",
+    "id" : "uk/lifeandstyle/regular-stories",
     "max" : "4"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Top stories",
-    "id" : "uk/technology/section-stories",
+    "id" : "uk/technology/regular-stories",
     "max" : "4"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Top stories",
-    "id" : "uk/money/section-stories",
+    "id" : "uk/money/regular-stories",
     "max" : "4"
   }, 
   {
