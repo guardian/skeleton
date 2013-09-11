@@ -2,14 +2,14 @@
   {
     "roleName" : "Epic story",
     "roleDescription" : "Single epic story, with related links",
-    "displayName" : "World Happiness Arrives",
+    "displayName" : "",
     "id" : "uk/news/epic-story",
     "max" : "6"
   }, 
   {
     "roleName" : "Major story",
     "roleDescription" : "Single major story, with related links",
-    "displayName" : "Alien Life Detected",
+    "displayName" : "",
     "id" : "uk/news/major-story",
     "max" : "6"
   }, 
