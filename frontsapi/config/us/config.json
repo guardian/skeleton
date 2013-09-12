@@ -1,0 +1,86 @@
+[
+  {
+    "roleName" : "Epic story",
+    "roleDescription" : "Single epic story, with related links",
+    "displayName" : "",
+    "id" : "us/news/epic-story"
+  }, 
+  {
+    "roleName" : "Major story",
+    "roleDescription" : "Single major story, with related links",
+    "displayName" : "",
+    "id" : "us/news/major-story"
+  }, 
+  {
+    "roleName" : "Regular stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Top Stories",
+    "id" : "us/news/regular-stories"
+  }, 
+  {
+    "roleName" : "Lesser stories",
+    "roleDescription" : "Lesser importance stories, unrelated",
+    "displayName" : "Top Stories",
+    "id" : "us/news/lesser-stories"
+  }, 
+  {
+    "roleName" : "Other stories",
+    "roleDescription" : "Other stories, unrelated",
+    "displayName" : "Top Stories",
+    "id" : "us/news/other-stories"
+  }, 
+  {
+    "roleName" : "Featured stories",
+    "roleDescription" : "Featued content drawn from a longer time period",
+    "displayName" : "Highlights of the last 24 hours",
+    "id" : "us/news/featured-stories"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Sport",
+    "id" : "us/sport/regular-stories"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Comment is free",
+    "id" : "us/commentisfree/regular-stories"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Culture",
+    "id" : "us/culture/regular-stories"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Business",
+    "id" : "us/business/regular-stories"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Life and style",
+    "id" : "us/lifeandstyle/regular-stories"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Technology",
+    "id" : "us/technology/regular-stories"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Money",
+    "id" : "us/money/regular-stories"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Travel",
+    "id" : "us/travel/section-regular"
+  }
+]

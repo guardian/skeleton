@@ -1,0 +1,86 @@
+[
+  {
+    "roleName" : "Epic story",
+    "roleDescription" : "Single epic story, with related links",
+    "displayName" : "",
+    "id" : "au/news/epic-story"
+  }, 
+  {
+    "roleName" : "Major story",
+    "roleDescription" : "Single major story, with related links",
+    "displayName" : "",
+    "id" : "au/news/major-story"
+  }, 
+  {
+    "roleName" : "Regular stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Top Stories",
+    "id" : "au/news/regular-stories"
+  }, 
+  {
+    "roleName" : "Lesser stories",
+    "roleDescription" : "Lesser importance stories, unrelated",
+    "displayName" : "Top Stories",
+    "id" : "au/news/lesser-stories"
+  }, 
+  {
+    "roleName" : "Other stories",
+    "roleDescription" : "Other stories, unrelated",
+    "displayName" : "Top Stories",
+    "id" : "au/news/other-stories"
+  }, 
+  {
+    "roleName" : "Featured stories",
+    "roleDescription" : "Featued content drawn from a longer time period",
+    "displayName" : "Highlights of the last 24 hours",
+    "id" : "au/news/featured-stories"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Sport",
+    "id" : "au/sport/regular-stories"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Comment is free",
+    "id" : "au/commentisfree/regular-stories"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Culture",
+    "id" : "au/culture/regular-stories"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Business",
+    "id" : "au/business/regular-stories"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Life and style",
+    "id" : "au/lifeandstyle/regular-stories"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Technology",
+    "id" : "au/technology/regular-stories"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Money",
+    "id" : "au/money/regular-stories"
+  }, 
+  {
+    "roleName" : "Section stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "displayName" : "Travel",
+    "id" : "au/travel/section-regular"
+  }
+]
