@@ -32,8 +32,14 @@
   {
     "roleName" : "Featured stories",
     "roleDescription" : "Featued content drawn from a longer time period",
+    "displayName" : "Features",
+    "id" : "uk/news/feature-stories"
+  }, 
+  {
+    "roleName" : "Featured stories",
+    "roleDescription" : "Featued content drawn from a longer time period",
     "displayName" : "Highlights of the last 24 hours",
-    "id" : "uk/news/featured-stories"
+    "id" : "uk/news/highlight-stories"
   }, 
   {
     "roleName" : "Section stories",
@@ -81,6 +87,6 @@
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Travel",
-    "id" : "uk/travel/section-regular"
+    "id" : "uk/travel/regular-stories"
   }
 ]
