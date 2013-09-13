@@ -36,12 +36,6 @@
     "id" : "us/news/feature-stories"
   },
   {
-    "roleName" : "Featured stories",
-    "roleDescription" : "Featued content drawn from a longer time period",
-    "displayName" : "Highlights of the last 24 hours",
-    "id" : "us/news/highlight-stories"
-  }, 
-  {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Sport",
