@@ -27,7 +27,8 @@
     "roleName" : "Other stories",
     "roleDescription" : "Other stories, unrelated",
     "displayName" : "Top Stories",
-    "id" : "us/news/other-stories"
+    "id" : "us/news/other-stories",
+    "contentApiQuery": "?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-media=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
   }, 
   {
     "roleName" : "Featured stories",
@@ -39,7 +40,8 @@
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Sport",
-    "id" : "us/sport/regular-stories"
+    "id" : "us/sport/regular-stories",
+    "contentApiQuery": "sport?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-media=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
   }, 
   {
     "roleName" : "Section stories",
@@ -57,30 +59,35 @@
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Business",
-    "id" : "us/business/regular-stories"
+    "id" : "us/business/regular-stories",
+    "contentApiQuery": "business?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-media=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Life and style",
-    "id" : "us/lifeandstyle/regular-stories"
+    "id" : "us/lifeandstyle/regular-stories",
+    "contentApiQuery": "lifeandstyle?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-media=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Technology",
-    "id" : "us/technology/regular-stories"
+    "id" : "us/technology/regular-stories",
+    "contentApiQuery": "technology?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-media=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Money",
-    "id" : "us/money/regular-stories"
+    "id" : "us/money/regular-stories",
+    "contentApiQuery": "money?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-media=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Travel",
-    "id" : "us/travel/regular-stories"
+    "id" : "us/travel/regular-stories",
+    "contentApiQuery": "travel?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-media=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
   }
 ]
