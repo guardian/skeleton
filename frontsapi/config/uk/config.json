@@ -41,55 +41,55 @@
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Sport",
     "id" : "uk/sport/regular-stories",
-    "contentApiQuery": "sport?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-elements=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
+    "contentApiQuery": "sport?page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all&show-story-package=true"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Comment is free",
     "id" : "uk/commentisfree/regular-stories",
-    "contentApiQuery": "commentisfree?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-elements=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
+    "contentApiQuery": "commentisfree?page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all&show-story-package=true"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Culture",
     "id" : "uk/culture/regular-stories",
-    "contentApiQuery": "culture?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-elements=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
+    "contentApiQuery": "culture?page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all&show-story-package=true"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Business",
     "id" : "uk/business/regular-stories",
-    "contentApiQuery": "business?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-elements=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
+    "contentApiQuery": "business?page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all&show-story-package=true"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Life and style",
     "id" : "uk/lifeandstyle/regular-stories",
-    "contentApiQuery": "lifeandstyle?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-elements=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
+    "contentApiQuery": "lifeandstyle?page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all&show-story-package=true"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Technology",
     "id" : "uk/technology/regular-stories",
-    "contentApiQuery": "technology?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-elements=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
+    "contentApiQuery": "technology?page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all&show-story-package=true"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Money",
     "id" : "uk/money/regular-stories",
-    "contentApiQuery": "money?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-elements=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
+    "contentApiQuery": "money?page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all&show-story-package=true"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Travel",
     "id" : "uk/travel/regular-stories",
-    "contentApiQuery": "travel?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-elements=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
+    "contentApiQuery": "travel?page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all&show-story-package=true"
   }
 ]
