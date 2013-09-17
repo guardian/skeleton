@@ -28,7 +28,7 @@
     "roleDescription" : "Other stories, unrelated",
     "displayName" : "Top Stories",
     "id" : "us/news/other-stories",
-    "contentApiQuery": "?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-elements=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
+    "contentApiQuery": "?page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all&show-story-package=true"
   }, 
   {
     "roleName" : "Featured stories",
@@ -41,7 +41,7 @@
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Sport",
     "id" : "us/sport/regular-stories",
-    "contentApiQuery": "sport?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-elements=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
+    "contentApiQuery": "sport?page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all&show-story-package=true"
   }, 
   {
     "roleName" : "Section stories",
@@ -60,34 +60,34 @@
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Business",
     "id" : "us/business/regular-stories",
-    "contentApiQuery": "business?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-elements=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
+    "contentApiQuery": "business?page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all&show-story-package=true"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Life and style",
     "id" : "us/lifeandstyle/regular-stories",
-    "contentApiQuery": "lifeandstyle?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-elements=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
+    "contentApiQuery": "lifeandstyle?page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all&show-story-package=true"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Technology",
     "id" : "us/technology/regular-stories",
-    "contentApiQuery": "technology?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-elements=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
+    "contentApiQuery": "technology?page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all&show-story-package=true"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Money",
     "id" : "us/money/regular-stories",
-    "contentApiQuery": "money?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-elements=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
+    "contentApiQuery": "money?page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all&show-story-package=true"
   }, 
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "displayName" : "Travel",
     "id" : "us/travel/regular-stories",
-    "contentApiQuery": "travel?show-inline-elements=picture,witness,video,embed&page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-tags=all&show-elements=all&show-references=pa-football-competition,pa-football-team,witness-assignment,esa-cricket-match&show-story-package=true"
+    "contentApiQuery": "travel?page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all&show-story-package=true"
   }
 ]
