@@ -13,13 +13,13 @@
     "roleName" : "Regular stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "id" : "uk/news/regular-stories",
-    "contentApiQuery": "?page-size=2&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+    "contentApiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   }, 
   {
     "roleName" : "Lesser stories",
     "roleDescription" : "Lesser importance stories, unrelated",
     "id" : "uk/news/lesser-stories",
-    "contentApiQuery": "?page-size=4&page=2&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+    "contentApiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   }, 
   {
     "roleName" : "Other stories",
