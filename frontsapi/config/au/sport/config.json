@@ -1,32 +1,32 @@
-[ 
+[
   {
     "roleName" : "Epic story",
     "roleDescription" : "Single epic story, with related links",
     "id" : "au/sport/epic-story"
-  }, 
+  },
   {
     "roleName" : "Major story",
     "roleDescription" : "Single major story, with related links",
     "id" : "au/sport/major-story"
-  }, 
+  },
   {
     "roleName" : "Regular stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "id" : "au/sport/regular-stories",
     "contentApiQuery": "sport?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
-  }, 
+  },
   {
     "roleName" : "Lesser stories",
     "roleDescription" : "Lesser importance stories, unrelated",
     "id" : "au/sport/lesser-stories",
     "contentApiQuery": "sport?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
-  }, 
+  },
   {
     "roleName" : "Other stories",
     "roleDescription" : "Other stories, unrelated",
     "id" : "au/sport/other-stories",
     "contentApiQuery": "sport?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
-  }, 
+  },
   {
     "roleName" : "Featured stories",
     "roleDescription" : "Featued content drawn from a longer time period",
@@ -37,7 +37,7 @@
     "roleDescription" : "Regular importance stories, unrelated",
     "id" : "au/sport/football/top-stories",
     "contentApiQuery" : "football?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
-  }, 
+  },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
