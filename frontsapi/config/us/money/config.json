@@ -30,6 +30,6 @@
   {
     "roleName" : "Featured stories",
     "roleDescription" : "Featued content drawn from a longer time period",
-    "id" : "us/money/feature-stories",
+    "id" : "us/money/feature-stories"
   }
 ]

@@ -30,6 +30,6 @@
   {
     "roleName" : "Featured stories",
     "roleDescription" : "Featued content drawn from a longer time period",
-    "id" : "us/commentisfree/feature-stories",
+    "id" : "us/commentisfree/feature-stories"
   }
 ]
