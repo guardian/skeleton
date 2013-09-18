@@ -31,6 +31,5 @@
     "roleName" : "Featured stories",
     "roleDescription" : "Featued content drawn from a longer time period",
     "id" : "uk/commentisfree/feature-stories",
-    "contentApiQuery": ""
   }
 ]
