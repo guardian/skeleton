@@ -35,12 +35,6 @@
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "us/tv-and-radio/top-stories",
-    "contentApiQuery" : "tv-and-radio?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
-  }, 
-  {
-    "roleName" : "Section Stories",
-    "roleDescription" : "Regular importance stories, unrelated",
     "id" : "us/film/top-stories",
     "contentApiQuery" : "film?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
@@ -73,5 +67,11 @@
     "roleDescription" : "Regular importance stories, unrelated",
     "id" : "us/technology/games/top-stories",
     "contentApiQuery" : "technology/games?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
-  }
+  },
+  {
+    "roleName" : "Section Stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "id" : "us/tv-and-radio/top-stories",
+    "contentApiQuery" : "tv-and-radio?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+  } 
 ]
