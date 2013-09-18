@@ -30,7 +30,7 @@
   {
     "roleName" : "Featured stories",
     "roleDescription" : "Featued content drawn from a longer time period",
-    "id" : "us/sport/feature-stories",
+    "id" : "us/sport/feature-stories"
   },
   {
     "roleName" : "Section Stories",

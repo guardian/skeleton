@@ -30,7 +30,7 @@
   {
     "roleName" : "Featured stories",
     "roleDescription" : "Featued content drawn from a longer time period",
-    "id" : "au/culture/feature-stories",
+    "id" : "au/culture/feature-stories"
   },
   {
     "roleName" : "Section Stories",
