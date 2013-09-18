@@ -2,76 +2,76 @@
   {
     "roleName" : "Epic story",
     "roleDescription" : "Single epic story, with related links",
-    "id" : "uk/culture/epic-story"
+    "id" : "us/culture/epic-story"
   }, 
   {
     "roleName" : "Major story",
     "roleDescription" : "Single major story, with related links",
-    "id" : "uk/culture/major-story"
+    "id" : "us/culture/major-story"
   }, 
   {
     "roleName" : "Regular stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "uk/culture/regular-stories",
+    "id" : "us/culture/regular-stories",
     "contentApiQuery": "culture?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   }, 
   {
     "roleName" : "Lesser stories",
     "roleDescription" : "Lesser importance stories, unrelated",
-    "id" : "uk/culture/lesser-stories",
+    "id" : "us/culture/lesser-stories",
     "contentApiQuery": "culture?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   }, 
   {
     "roleName" : "Other stories",
     "roleDescription" : "Other stories, unrelated",
-    "id" : "uk/culture/other-stories",
+    "id" : "us/culture/other-stories",
     "contentApiQuery": "culture?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   }, 
   {
     "roleName" : "Featured stories",
     "roleDescription" : "Featued content drawn from a longer time period",
-    "id" : "uk/culture/feature-stories",
+    "id" : "us/culture/feature-stories",
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "uk/tv-and-radio/top-stories",
+    "id" : "us/tv-and-radio/top-stories",
     "contentApiQuery" : "tv-and-radio?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   }, 
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "uk/film/top-stories",
+    "id" : "us/film/top-stories",
     "contentApiQuery" : "film?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "uk/music/top-stories",
+    "id" : "us/music/top-stories",
     "contentApiQuery" : "music?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "uk/stage/top-stories",
+    "id" : "us/stage/top-stories",
     "contentApiQuery" : "stage?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "uk/books/top-stories",
+    "id" : "us/books/top-stories",
     "contentApiQuery" : "books?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "uk/artanddesign/top-stories",
+    "id" : "us/artanddesign/top-stories",
     "contentApiQuery" : "artanddesign?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "uk/technology/games/top-stories",
+    "id" : "us/technology/games/top-stories",
     "contentApiQuery" : "technology/games?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   }
 ]

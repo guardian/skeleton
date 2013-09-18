@@ -2,34 +2,34 @@
   {
     "roleName" : "Epic story",
     "roleDescription" : "Single epic story, with related links",
-    "id" : "uk/commentisfree/epic-story"
+    "id" : "au/commentisfree/epic-story"
   }, 
   {
     "roleName" : "Major story",
     "roleDescription" : "Single major story, with related links",
-    "id" : "uk/commentisfree/major-story"
+    "id" : "au/commentisfree/major-story"
   }, 
   {
     "roleName" : "Regular stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "uk/commentisfree/regular-stories",
+    "id" : "au/commentisfree/regular-stories",
     "contentApiQuery": "commentisfree?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   }, 
   {
     "roleName" : "Lesser stories",
     "roleDescription" : "Lesser importance stories, unrelated",
-    "id" : "uk/sportlesser-stories",
+    "id" : "au/commentisfree/lesser-stories",
     "contentApiQuery": "commentisfree?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   }, 
   {
     "roleName" : "Other stories",
     "roleDescription" : "Other stories, unrelated",
-    "id" : "uk/commentisfree/other-stories",
+    "id" : "au/commentisfree/other-stories",
     "contentApiQuery": "commentisfree?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   }, 
   {
     "roleName" : "Featured stories",
     "roleDescription" : "Featued content drawn from a longer time period",
-    "id" : "uk/commentisfree/feature-stories",
+    "id" : "au/commentisfree/feature-stories",
   }
 ]

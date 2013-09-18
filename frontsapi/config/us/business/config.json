@@ -2,34 +2,34 @@
   {
     "roleName" : "Epic story",
     "roleDescription" : "Single epic story, with related links",
-    "id" : "uk/business/epic-story"
+    "id" : "us/business/epic-story"
   }, 
   {
     "roleName" : "Major story",
     "roleDescription" : "Single major story, with related links",
-    "id" : "uk/business/major-story"
+    "id" : "us/business/major-story"
   }, 
   {
     "roleName" : "Regular stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "uk/business/regular-stories",
+    "id" : "us/business/regular-stories",
     "contentApiQuery": "business?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   }, 
   {
     "roleName" : "Lesser stories",
     "roleDescription" : "Lesser importance stories, unrelated",
-    "id" : "uk/sportlesser-stories",
+    "id" : "us/business/lesser-stories",
     "contentApiQuery": "business?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   }, 
   {
     "roleName" : "Other stories",
     "roleDescription" : "Other stories, unrelated",
-    "id" : "uk/business/other-stories",
+    "id" : "us/business/other-stories",
     "contentApiQuery": "business?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   }, 
   {
     "roleName" : "Featured stories",
     "roleDescription" : "Featued content drawn from a longer time period",
-    "id" : "uk/business/feature-stories",
+    "id" : "us/business/feature-stories",
   }
 ]
