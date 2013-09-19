@@ -1,0 +1,21 @@
+{
+  "id" : "uk/news/featured-stories",
+  "live" : [ {
+    "id" : "world/2013/sep/12/bushfires-hazard-reduction-burn-closes-m1"
+  }, {
+    "id" : "world/2013/sep/12/third-asylum-boat-since-election"
+  }, {
+    "id" : "world/2013/sep/12/tony-abbott-death-threat-facebook"
+  } ],
+  "draft" : [ {
+    "id" : "world/2013/sep/12/bushfires-hazard-reduction-burn-closes-m1"
+  }, {
+    "id" : "world/2013/sep/12/third-asylum-boat-since-election"
+  }, {
+    "id" : "world/2013/sep/12/tony-abbott-death-threat-facebook"
+  } ],
+  "areEqual" : true,
+  "lastUpdated" : "2013-09-12T10:04:06.565Z",
+  "updatedBy" : "Darren Hurley",
+  "updatedEmail" : "darren.hurley@guardian.co.uk"
+}
