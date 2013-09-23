@@ -1,0 +1,101 @@
+[
+  {
+    "roleName" : "Epic story",
+    "roleDescription" : "Single epic story, with related links",
+    "id" : "uk/sport/epic-story"
+  },
+  {
+    "roleName" : "Major story",
+    "roleDescription" : "Single major story, with related links",
+    "id" : "uk/sport/major-story"
+  },
+  {
+    "roleName" : "Regular stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "id" : "uk/sport/regular-stories",
+    "contentApiQuery": "sport?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+  },
+  {
+    "roleName" : "Lesser stories",
+    "roleDescription" : "Lesser importance stories, unrelated",
+    "id" : "uk/sport/lesser-stories",
+    "contentApiQuery": "sport?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+  },
+  {
+    "roleName" : "Other stories",
+    "roleDescription" : "Other stories, unrelated",
+    "id" : "uk/sport/other-stories",
+    "contentApiQuery": "sport?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+  },
+  {
+    "roleName" : "Featured stories",
+    "roleDescription" : "Featued content drawn from a longer time period",
+    "id" : "uk/sport/feature-stories"
+  },
+  {
+    "roleName" : "Section Stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "id" : "uk/sport/football/top-stories",
+    "contentApiQuery" : "football?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+  },
+  {
+    "roleName" : "Section Stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "id" : "uk/sport/cricket/top-stories",
+    "contentApiQuery" : "sport/cricket?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+  },
+  {
+    "roleName" : "Section Stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "id" : "uk/sport/rugby-union/top-stories",
+    "contentApiQuery" : "sport/rugby-union?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+  },
+  {
+    "roleName" : "Section Stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "id" : "uk/sport/motorsports/top-stories",
+    "contentApiQuery" : "sport/motorsports?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+  },
+  {
+    "roleName" : "Section Stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "id" : "uk/sports/tennis/top-stories",
+    "contentApiQuery" : "sport/tennis?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+  },
+  {
+    "roleName" : "Section Stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "id" : "uk/sport/golf/top-stories",
+    "contentApiQuery" : "sport/golf?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+  },
+  {
+    "roleName" : "Section Stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "id" : "uk/sport/horse-racing/top-stories",
+    "contentApiQuery" : "sport/horse-racing?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+  },
+  {
+    "roleName" : "Section Stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "id" : "uk/sport/rugbyleague/top-stories",
+    "contentApiQuery" : "sport/rugbyleague?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+  },
+  {
+    "roleName" : "Section Stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "id" : "uk/sport/us-sport/top-stories",
+    "contentApiQuery" : "sport/us-sport?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+  },
+  {
+    "roleName" : "Section Stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "id" : "uk/sport/boxing/top-stories",
+    "contentApiQuery" : "sport/boxing?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+  },
+  {
+    "roleName" : "Section Stories",
+    "roleDescription" : "Regular importance stories, unrelated",
+    "id" : "uk/sport/cycling/top-stories",
+    "contentApiQuery" : "sport/cycling?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+  }
+]
