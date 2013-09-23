@@ -35,67 +35,67 @@
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "au/sport/football/top-stories",
+    "id" : "au/sport/football/regular-stories",
     "contentApiQuery" : "football?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "au/sport/cricket/top-stories",
+    "id" : "au/sport/cricket/regular-stories",
     "contentApiQuery" : "sport/cricket?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "au/sport/afl/top-stories",
+    "id" : "au/sport/afl/regular-stories",
     "contentApiQuery" : "sport/afl?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "au/sport/nrl/top-stories",
+    "id" : "au/sport/nrl/regular-stories",
     "contentApiQuery" : "sport/nrl?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "au/sports/rugby-union/top-stories",
+    "id" : "au/sports/rugby-union/regular-stories",
     "contentApiQuery" : "sport/rugby-union?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "au/sport/tennis/top-stories",
+    "id" : "au/sport/tennis/regular-stories",
     "contentApiQuery" : "sport/tennis?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "au/sport/golf/top-stories",
+    "id" : "au/sport/golf/regular-stories",
     "contentApiQuery" : "sport/golf?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "au/sport/motorsports/top-stories",
+    "id" : "au/sport/motorsports/regular-stories",
     "contentApiQuery" : "sport/motorsports?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "au/sport/cycling/top-stories",
+    "id" : "au/sport/cycling/regular-stories",
     "contentApiQuery" : "sport/cycling?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "au/sport/us-sport/top-stories",
+    "id" : "au/sport/us-sport/regular-stories",
     "contentApiQuery" : "sport/us-sport?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "au/sport/boxing/top-stories",
+    "id" : "au/sport/boxing/regular-stories",
     "contentApiQuery" : "sport/boxing?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   }
 ]
