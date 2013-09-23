@@ -13,71 +13,83 @@
     "roleName" : "Regular stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "id" : "au/news/regular-stories",
-    "contentApiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+    "contentApiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+    "displayName": "Latest news"
   },
   {
     "roleName" : "Lesser stories",
     "roleDescription" : "Lesser importance stories, unrelated",
     "id" : "au/news/lesser-stories",
-    "contentApiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+    "contentApiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+    "displayName": ""
   },
   {
     "roleName" : "Other stories",
     "roleDescription" : "Other stories, unrelated",
     "id" : "au/news/other-stories",
-    "contentApiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+    "contentApiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+    "displayName": ""
   },
   {
     "roleName" : "Featured stories",
     "roleDescription" : "Featued content drawn from a longer time period",
-    "id" : "au/news/feature-stories"
+    "id" : "au/news/feature-stories",
+    "displayName": "Features"
   },
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "id" : "au/sport/regular-stories",
-    "contentApiQuery": "sport?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+    "contentApiQuery": "sport?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+    "displayName": "Sport"
   },
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "id" : "au/commentisfree/regular-stories",
-    "contentApiQuery": "commentisfree?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+    "contentApiQuery": "commentisfree?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+    "displayName": "Comment is free"
   },
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "id" : "au/culture/regular-stories",
-    "contentApiQuery": "culture?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+    "contentApiQuery": "culture?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+    "displayName": "Culture"
   },
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "id" : "au/business/regular-stories",
-    "contentApiQuery": "business?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+    "contentApiQuery": "business?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+    "displayName": "Business"
   },
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "id" : "au/lifeandstyle/regular-stories",
-    "contentApiQuery": "lifeandstyle?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+    "contentApiQuery": "lifeandstyle?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+    "displayName": "Life and style"
   },
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "id" : "au/technology/regular-stories",
-    "contentApiQuery": "technology?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+    "contentApiQuery": "technology?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+    "displayName": "Technology"
   },
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "id" : "au/money/regular-stories",
-    "contentApiQuery": "money?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+    "contentApiQuery": "money?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+    "displayName": "Money"
   },
   {
     "roleName" : "Section stories",
     "roleDescription" : "Regular importance stories, unrelated",
     "id" : "au/travel/regular-stories",
-    "contentApiQuery": "travel?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+    "contentApiQuery": "travel?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+    "displayName": "Travel"
   }
 ]
