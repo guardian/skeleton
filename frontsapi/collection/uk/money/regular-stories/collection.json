@@ -1,8 +1,7 @@
 {
-  "id" : "uk/money/regular-stories",
-  "live" : [ ],
-  "lastUpdated" : "2013-09-19T14:53:48.498Z",
-  "updatedBy" : "Stephan Fowler",
-  "updatedEmail" : "stephan.fowler@guardian.co.uk",
-  "displayName" : "Money"
+  "id": "uk/money/regular-stories",
+  "live": [],
+  "lastUpdated": "2013-09-19T14:53:48.498Z",
+  "updatedBy": "Stephan Fowler",
+  "updatedEmail": "stephan.fowler@guardian.co.uk"
 }
