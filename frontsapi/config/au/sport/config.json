@@ -59,7 +59,7 @@
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "au/sports/rugby-union/regular-stories",
+    "id" : "au/sport/rugby-union/regular-stories",
     "contentApiQuery" : "sport/rugby-union?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
