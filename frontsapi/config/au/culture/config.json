@@ -19,12 +19,14 @@
     "roleName": "Lesser stories",
     "roleDescription": "Lesser importance stories, unrelated",
     "id": "au/culture/lesser-stories",
+    "displayName": "",
     "contentApiQuery": "culture?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName": "Other stories",
     "roleDescription": "Other stories, unrelated",
     "id": "au/culture/other-stories",
+    "displayName": "",
     "contentApiQuery": "culture?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {

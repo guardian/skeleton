@@ -19,7 +19,7 @@ var async  = require('async'),
 function jsonFromFile(filename, callback) {
     fs.readFile(filename, 'utf8', function (err,data) {
         if (err) {
-            callback({});
+            callback(false);
         } else {
             callback(parse2json(data));
         }
@@ -46,9 +46,12 @@ walker.on('file', function(root, stat, next) {
                 var colectionFile = collectionsDir + '/' + collConf.id + '/collection.json';
 
                 jsonFromFile(colectionFile, function(collection){
-                    if (typeof collConf.displayName === 'undefined' && collection.displayName) {
-                        console.log('Moving: ' + collection.displayName);
-                        collConf.displayName = collection.displayName;
+                    if (collection) {
+                        if (typeof collConf.displayName === 'undefined' && collection.displayName) {
+                            console.log('Moving: ' + collection.displayName);
+                            collConf.displayName = collection.displayName;
+                        }
+
                         collection.displayName = undefined;
 
                         fs.writeFile(colectionFile, JSON.stringify(collection, null, '  '), function (err) {
