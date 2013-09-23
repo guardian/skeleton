@@ -1,9 +1,11 @@
 /*
+If a collection has a displayName, and a config hasn't, copy it into the config
+
 Usage
 $ node copy-displayName-from-collection-to-config.js {config_dir} {collections_dir}
 
 e.g.
-$  node copy-displayName-from-collection-to-config.js frontsapi/config/ frontsapi/collection/
+$ node copy-displayName-from-collection-to-config.js frontsapi/config/ frontsapi/collection/
 */
 
 var async  = require('async'),
@@ -33,26 +35,34 @@ function parse2json(str) {
 }
 
 walker.on('file', function(root, stat, next) {
-    var filename = root + '/' + stat.name;
+    var configFile = root + '/' + stat.name;
 
-    fs.readFile(filename, 'utf8', function (err,data) {
+    fs.readFile(configFile, 'utf8', function (err,data) {
         var config = parse2json(data);
 
         async.each(
             config,
             function(collConf, callback){
-                jsonFromFile(collectionsDir + '/' + collConf.id + '/collection.json', function(collection){
+                var colectionFile = collectionsDir + '/' + collConf.id + '/collection.json';
+
+                jsonFromFile(colectionFile, function(collection){
                     if (typeof collConf.displayName === 'undefined' && collection.displayName) {
-                        console.log('Adding: ' + collection.displayName);
+                        console.log('Moving: ' + collection.displayName);
                         collConf.displayName = collection.displayName;
+                        collection.displayName = undefined;
+
+                        fs.writeFile(colectionFile, JSON.stringify(collection, null, '  '), function (err) {
+                            if (err) throw err;
+                            console.log('Updated collection: ' + colectionFile);
+                        });
                     }
                     callback();
                 });
             },
             function(err) {
-                fs.writeFile(filename, JSON.stringify(config, null, '  '), function (err) {
+                fs.writeFile(configFile, JSON.stringify(config, null, '  '), function (err) {
                     if (err) throw err;
-                    console.log('Updated: ' + filename);
+                    console.log('Updated config: ' + configFile);
                 });
             }
         );

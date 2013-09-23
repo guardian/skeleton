@@ -1,8 +1,7 @@
 {
-  "id" : "us/culture/regular-stories",
-  "live" : [ ],
-  "lastUpdated" : "2013-09-19T10:25:17.864Z",
-  "updatedBy" : "Darren Hurley",
-  "updatedEmail" : "darren.hurley@guardian.co.uk",
-  "displayName" : "Culture"
+  "id": "us/culture/regular-stories",
+  "live": [],
+  "lastUpdated": "2013-09-19T10:25:17.864Z",
+  "updatedBy": "Darren Hurley",
+  "updatedEmail": "darren.hurley@guardian.co.uk"
 }

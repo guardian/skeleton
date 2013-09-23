@@ -1,8 +1,7 @@
 {
-  "id" : "uk/culture/regular-stories",
-  "live" : [ ],
-  "lastUpdated" : "2013-09-19T14:53:24.749Z",
-  "updatedBy" : "Stephan Fowler",
-  "updatedEmail" : "stephan.fowler@guardian.co.uk",
-  "displayName" : "Culture"
+  "id": "uk/culture/regular-stories",
+  "live": [],
+  "lastUpdated": "2013-09-19T14:53:24.749Z",
+  "updatedBy": "Stephan Fowler",
+  "updatedEmail": "stephan.fowler@guardian.co.uk"
 }
