@@ -19,12 +19,14 @@
     "roleName": "Lesser stories",
     "roleDescription": "Lesser importance stories, unrelated",
     "id": "us/commentisfree/lesser-stories",
+    "displayName": "",
     "contentApiQuery": "commentisfree?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName": "Other stories",
     "roleDescription": "Other stories, unrelated",
     "id": "us/commentisfree/other-stories",
+    "displayName": "",
     "contentApiQuery": "commentisfree?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
