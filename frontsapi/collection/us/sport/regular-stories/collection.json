@@ -1,8 +1,7 @@
 {
-  "id" : "us/sport/regular-stories",
-  "live" : [ ],
-  "lastUpdated" : "2013-09-19T10:25:04.205Z",
-  "updatedBy" : "Darren Hurley",
-  "updatedEmail" : "darren.hurley@guardian.co.uk",
-  "displayName" : "Sport"
+  "id": "us/sport/regular-stories",
+  "live": [],
+  "lastUpdated": "2013-09-19T10:25:04.205Z",
+  "updatedBy": "Darren Hurley",
+  "updatedEmail": "darren.hurley@guardian.co.uk"
 }

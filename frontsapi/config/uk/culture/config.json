@@ -13,8 +13,7 @@
     "roleName": "Regular stories",
     "roleDescription": "Regular importance stories, unrelated",
     "id": "uk/culture/regular-stories",
-    "contentApiQuery": "culture?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-    "displayName": "Culture"
+    "contentApiQuery": "culture?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName": "Lesser stories",
