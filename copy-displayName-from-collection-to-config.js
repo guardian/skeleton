@@ -49,13 +49,14 @@ walker.on('file', function(root, stat, next) {
                     if (typeof collConf.displayName === 'undefined' && collection.displayName) {
                         console.log('Moving: ' + collection.displayName);
                         collConf.displayName = collection.displayName;
-                        collection.displayName = undefined;
-
-                        fs.writeFile(colectionFile, JSON.stringify(collection, null, '  '), function (err) {
-                            if (err) throw err;
-                            console.log('Updated collection: ' + colectionFile);
-                        });
                     }
+
+                    collection.displayName = undefined;
+
+                    fs.writeFile(colectionFile, JSON.stringify(collection, null, '  '), function (err) {
+                        if (err) throw err;
+                        console.log('Updated collection: ' + colectionFile);
+                    });
                     callback();
                 });
             },
