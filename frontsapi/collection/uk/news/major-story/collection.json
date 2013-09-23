@@ -1,7 +1,7 @@
 {
-  "id" : "uk/news/major-story",
-  "live" : [ ],
-  "lastUpdated" : "2013-09-18T16:54:00.054Z",
-  "updatedBy" : "Stephan Fowler",
-  "updatedEmail" : "stephan.fowler@guardian.co.uk"
+  "id": "uk/news/major-story",
+  "live": [],
+  "lastUpdated": "2013-09-18T16:54:00.054Z",
+  "updatedBy": "Stephan Fowler",
+  "updatedEmail": "stephan.fowler@guardian.co.uk"
 }
