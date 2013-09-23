@@ -1,8 +1,11 @@
 {
-  "id" : "uk/news/regular-stories",
-  "live" : [ ],
-  "lastUpdated" : "2013-09-19T14:49:28.609Z",
-  "updatedBy" : "Stephan Fowler",
-  "updatedEmail" : "stephan.fowler@guardian.co.uk",
-  "displayName" : "Latest news"
+  "id": "uk/news/regular-stories",
+  "live": [
+    {
+      "id": "football/2013/sep/19/everton-roberto-martinez-philosophy"
+    }
+  ],
+  "lastUpdated": "2013-09-19T22:02:58.951Z",
+  "updatedBy": "Matt Chadburn",
+  "updatedEmail": "matt.chadburn@guardian.co.uk"
 }
