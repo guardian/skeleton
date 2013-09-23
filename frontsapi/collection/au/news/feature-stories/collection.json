@@ -1,8 +1,7 @@
 {
-  "id" : "au/news/feature-stories",
-  "live" : [ ],
-  "lastUpdated" : "2013-09-19T14:54:29.989Z",
-  "updatedBy" : "Stephan Fowler",
-  "updatedEmail" : "stephan.fowler@guardian.co.uk",
-  "displayName" : "Features"
+  "id": "au/news/feature-stories",
+  "live": [],
+  "lastUpdated": "2013-09-19T14:54:29.989Z",
+  "updatedBy": "Stephan Fowler",
+  "updatedEmail": "stephan.fowler@guardian.co.uk"
 }
