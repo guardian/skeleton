@@ -19,13 +19,15 @@
   {
     "roleName": "Lesser stories",
     "roleDescription": "Lesser importance stories, unrelated",
-    "id": "au/news/lesser-stories", displayName="",
+    "id": "au/news/lesser-stories",
+    "displayName": "",
     "contentApiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName": "Other stories",
     "roleDescription": "Other stories, unrelated",
-    "id": "au/news/other-stories", displayName="",
+    "id": "au/news/other-stories",
+    "displayName": "",
     "contentApiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {

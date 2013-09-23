@@ -1,7 +1,7 @@
 {
-  "id" : "uk/news/lesser-stories", displayName="",
-  "live" : [ ],
-  "lastUpdated" : "2013-09-19T14:49:38.878Z",
-  "updatedBy" : "Stephan Fowler",
-  "updatedEmail" : "stephan.fowler@guardian.co.uk"
+  "id": "uk/news/lesser-stories",
+  "live": [],
+  "lastUpdated": "2013-09-19T14:49:38.878Z",
+  "updatedBy": "Stephan Fowler",
+  "updatedEmail": "stephan.fowler@guardian.co.uk"
 }
