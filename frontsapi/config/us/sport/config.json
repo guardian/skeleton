@@ -35,31 +35,31 @@
   {
     "roleName": "Section Stories",
     "roleDescription": "Regular importance stories, unrelated",
-    "id": "us/sport/nfl/top-stories",
+    "id": "us/sport/nfl/regular-stories",
     "contentApiQuery": "sport/nfl?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName": "Section Stories",
     "roleDescription": "Regular importance stories, unrelated",
-    "id": "us/sport/mlb/top-stories",
+    "id": "us/sport/mlb/regular-stories",
     "contentApiQuery": "sport/mlb?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName": "Section Stories",
     "roleDescription": "Regular importance stories, unrelated",
-    "id": "us/sport/nba/top-stories",
+    "id": "us/sport/nba/regular-stories",
     "contentApiQuery": "sport/nba?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName": "Section Stories",
     "roleDescription": "Regular importance stories, unrelated",
-    "id": "us/sport/mls/top-stories",
+    "id": "us/sport/mls/regular-stories",
     "contentApiQuery": "sport/mls?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName": "Section Stories",
     "roleDescription": "Regular importance stories, unrelated",
-    "id": "us/sports/nhl/top-stories",
+    "id": "us/sport/nhl/regular-stories",
     "contentApiQuery": "sport/nhl?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   }
 ]
