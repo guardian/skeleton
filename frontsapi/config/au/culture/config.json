@@ -35,25 +35,25 @@
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "au/film/top-stories",
+    "id" : "au/film/regular-stories",
     "contentApiQuery" : "film?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "au/music/top-stories",
+    "id" : "au/music/regular-stories",
     "contentApiQuery" : "music?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "au/books/top-stories",
+    "id" : "au/books/regular-stories",
     "contentApiQuery" : "books?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName" : "Section Stories",
     "roleDescription" : "Regular importance stories, unrelated",
-    "id" : "au/technology/games/top-stories",
+    "id" : "au/technology/games/regular-stories",
     "contentApiQuery" : "technology/games?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   }
 ]
