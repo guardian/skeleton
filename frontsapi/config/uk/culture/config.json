@@ -34,7 +34,7 @@
     "roleName": "Featured stories",
     "roleDescription": "Featued content drawn from a longer time period",
     "id": "uk/culture/feature-stories",
-    "displayName": "Features",
+    "displayName": "Features"
   },
   {
     "roleName": "Section Stories",
