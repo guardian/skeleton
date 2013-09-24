@@ -13,6 +13,7 @@
     "roleName": "Regular stories",
     "roleDescription": "Regular importance stories, unrelated",
     "id": "uk/business/regular-stories",
+    "displayName": "Latest news",
     "contentApiQuery": "business?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
@@ -32,6 +33,7 @@
   {
     "roleName": "Featured stories",
     "roleDescription": "Featued content drawn from a longer time period",
-    "id": "uk/business/feature-stories"
+    "id": "uk/business/feature-stories",
+    "displayName": "Features"
   }
 ]
