@@ -33,7 +33,7 @@
   {
     "roleName": "Featured stories",
     "roleDescription": "Featued content drawn from a longer time period",
-    "id": "us/business/feature-stories".
+    "id": "us/business/feature-stories",
     "displayName": "Features"
   }
 ]
