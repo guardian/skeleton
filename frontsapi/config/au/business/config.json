@@ -34,6 +34,6 @@
     "roleName": "Featured stories",
     "roleDescription": "Featued content drawn from a longer time period",
     "id": "au/business/feature-stories",
-    "displayName": "Features",
+    "displayName": "Features"
   }
 ]
