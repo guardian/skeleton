@@ -17,6 +17,11 @@
     "displayName": "Latest news"
   },
   {
+    "roleName": "Special story",
+    "roleDescription": "Special story, related",
+    "id": "au/news/special-story"
+  },
+  {
     "roleName": "Featured stories",
     "roleDescription": "Featued content drawn from a longer time period",
     "id": "au/news/feature-stories",
