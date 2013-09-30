@@ -1,15 +1,5 @@
 [
   {
-    "roleName": "Epic story",
-    "roleDescription": "Single epic story, with related links",
-    "id": "uk/business/epic-story"
-  },
-  {
-    "roleName": "Major story",
-    "roleDescription": "Single major story, with related links",
-    "id": "uk/business/major-story"
-  },
-  {
     "roleName": "Regular stories",
     "roleDescription": "Regular importance stories, unrelated",
     "id": "uk/business/regular-stories",

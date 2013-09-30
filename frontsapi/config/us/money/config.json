@@ -1,15 +1,5 @@
 [
   {
-    "roleName": "Epic story",
-    "roleDescription": "Single epic story, with related links",
-    "id": "us/money/epic-story"
-  },
-  {
-    "roleName": "Major story",
-    "roleDescription": "Single major story, with related links",
-    "id": "us/money/major-story"
-  },
-  {
     "roleName": "Regular stories",
     "roleDescription": "Regular importance stories, unrelated",
     "id": "us/money/regular-stories",
