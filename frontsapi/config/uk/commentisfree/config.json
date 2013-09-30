@@ -3,7 +3,7 @@
     "roleName": "Regular stories",
     "roleDescription": "Regular importance stories, unrelated",
     "id": "uk/commentisfree/regular-stories",
-    "displayName": "Latest news",
+    "displayName": "Comment is free",
     "contentApiQuery": "commentisfree?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
