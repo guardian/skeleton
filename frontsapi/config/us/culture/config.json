@@ -58,7 +58,7 @@
     "roleName": "Section Stories",
     "roleDescription": "Regular importance stories, unrelated",
     "id": "us/tv-and-radio/regular-stories",
-    "displayName": "Tv and radio",
+    "displayName": "TV and radio",
     "contentApiQuery": "tv-and-radio?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   }
 ]
