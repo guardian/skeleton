@@ -36,14 +36,14 @@
   {
     "roleName": "Section Stories",
     "roleDescription": "Regular importance stories, unrelated",
-    "id": "uk/sport/motorsports/regular-stories",    
+    "id": "uk/sport/motorsports/regular-stories",
     "displayName": "Motorsports",
     "contentApiQuery": "sport/motorsports?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName": "Section Stories",
     "roleDescription": "Regular importance stories, unrelated",
-    "id": "uk/sport/tennis/regular-stories",    
+    "id": "uk/sport/tennis/regular-stories",
     "displayName": "Tennis",
     "contentApiQuery": "sport/tennis?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
