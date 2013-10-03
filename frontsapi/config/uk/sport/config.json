@@ -15,7 +15,7 @@
   {
     "roleName": "Section Stories",
     "roleDescription": "Regular importance stories, unrelated",
-    "id": "uk/sport/football/regular-stories",
+    "id": "uk/football/regular-stories",
     "displayName": "Football",
     "contentApiQuery": "football?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
