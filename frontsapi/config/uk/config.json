@@ -5,7 +5,7 @@
     "id": "uk/news/regular-stories",
     "contentApiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
     "displayName": "",
-    "groups": ["major", "minor", "other"]
+    "groups": ["small", "medium", "large"]
   },
   {
     "roleName": "Special story",
