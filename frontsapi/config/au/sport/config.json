@@ -31,7 +31,7 @@
     "roleDescription": "Regular importance stories, unrelated",
     "id": "au/sport/a-league/regular-stories",
     "displayName": "A-League",
-    "contentApiQuery": "sport/a-league?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+    "contentApiQuery": "football/a-league?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName": "Section Stories",
@@ -45,7 +45,7 @@
     "roleDescription": "Regular importance stories, unrelated",
     "id": "au/sport/rugby-league/regular-stories",
     "displayName": "Rugby league",
-    "contentApiQuery": "sport/rugby-league?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+    "contentApiQuery": "sport/rugbyleague?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName": "Section Stories",
