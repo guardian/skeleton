@@ -50,7 +50,7 @@
     "roleDescription": "Regular importance stories, unrelated",
     "id": "uk/lifeandstyle/regular-stories",
     "contentApiQuery": "lifeandstyle?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-    "displayName": "Life and Style"
+    "displayName": "Life and style"
   },
   {
     "roleName": "Section stories",
