@@ -39,7 +39,7 @@
     "id": "au/sport/tennis/regular-stories",
     "displayName": "Tennis",
     "contentApiQuery": "sport/tennis?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
-  }, 
+  },
   {
     "roleName": "Section Stories",
     "roleDescription": "Regular importance stories, unrelated",
@@ -53,7 +53,7 @@
     "id": "au/sport/afl/regular-stories",
     "displayName": "AFL",
     "contentApiQuery": "sport/afl?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
-  }, 
+  },
   {
     "roleName": "Section Stories",
     "roleDescription": "Regular importance stories, unrelated",
