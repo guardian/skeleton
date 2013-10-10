@@ -29,7 +29,7 @@
   {
     "roleName": "Section Stories",
     "roleDescription": "Regular importance stories, unrelated",
-    "id": "au/sport/a-league/regular-stories",
+    "id": "au/football/a-league/regular-stories",
     "displayName": "A-League",
     "contentApiQuery": "football/a-league?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
@@ -43,7 +43,7 @@
   {
     "roleName": "Section Stories",
     "roleDescription": "Regular importance stories, unrelated",
-    "id": "au/sport/rugby-league/regular-stories",
+    "id": "au/sport/rugbyleague/regular-stories",
     "displayName": "Rugby league",
     "contentApiQuery": "sport/rugbyleague?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
