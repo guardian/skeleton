@@ -1,0 +1,11 @@
+{
+  "id" : "uk/news/regular-stories",
+  "live" : [ {
+    "id" : "uk-news/2013/oct/10/royal-mail-share-price-and-allocation-announced-live"
+  }
+  ],
+  "lastUpdated" : "2013-10-10T16:40:52.195+01:00",
+  "updatedBy" : "Stephan Fowler",
+  "updatedEmail" : "stephan.fowler@guardian.co.uk",
+  "displayName" : "Top Stories"
+}
