@@ -1,0 +1,24 @@
+{
+  "id" : "uk/news/regular-stories",
+  "live" : [ {
+    "id" : "uk-news/2013/oct/10/royal-mail-share-price-and-allocation-announced-live"
+  }, {
+    "id" : "uk-news/2013/oct/10/immigration-bill-would-mean-identity-checks-for-all"
+  }, {
+    "id" : "film/2013/oct/10/why-i-love-bourne-tangier-chase"
+  }, {
+    "id" : "world/2013/oct/02/silvio-berlusconi-u-turn-italy-coalition-letta"
+  }, {
+    "id" : "world/2013/oct/09/the-gambia-accuses-us-uk-coup-attempts"
+  }, {
+    "id" : "news/datablog/2013/oct/09/worlds-wealthy-where-russia-rich-list"
+  }, {
+    "id" : "world/2013/oct/09/chelsea-manning-not-a-pacifist"
+  }, {
+    "id" : "uk-news/2013/oct/09/headteacher-arrested-assault-pupil-special-needs-academy-williams"
+  } ],
+  "lastUpdated" : "2013-10-10T16:40:52.195+01:00",
+  "updatedBy" : "Stephan Fowler",
+  "updatedEmail" : "stephan.fowler@guardian.co.uk",
+  "displayName" : "Top Stories"
+}
