@@ -29,13 +29,6 @@
   {
     "roleName": "Section Stories",
     "roleDescription": "Regular importance stories, unrelated",
-    "id": "us/stage/regular-stories",
-    "displayName": "Stage",
-    "contentApiQuery": "stage?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
-  },
-  {
-    "roleName": "Section Stories",
-    "roleDescription": "Regular importance stories, unrelated",
     "id": "us/books/regular-stories",
     "displayName": "Books",
     "contentApiQuery": "books?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
@@ -46,6 +39,13 @@
     "id": "us/artanddesign/regular-stories",
     "displayName": "Art and design",
     "contentApiQuery": "artanddesign?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+  },
+  {
+    "roleName": "Section Stories",
+    "roleDescription": "Regular importance stories, unrelated",
+    "id": "us/stage/regular-stories",
+    "displayName": "Stage",
+    "contentApiQuery": "stage?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName": "Section Stories",
