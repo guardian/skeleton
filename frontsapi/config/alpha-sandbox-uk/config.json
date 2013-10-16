@@ -1,0 +1,20 @@
+[
+  {
+    "roleName": "Top stories",
+    "roleDescription": "To stories, unrelated ",
+    "id": "aplha-sandbox-uk/news/regular-stories",
+    "displayName": "Top Stories"
+  },
+  {
+    "roleName": "Special story",
+    "roleDescription": "Special story, related",
+    "id": "aplha-sandbox-uk/news/special-story",
+    "displayName": "Special story"
+  },
+  {
+    "roleName": "Featured stories",
+    "roleDescription": "Featued content drawn from a longer time period, unrelated",
+    "id": "aplha-sandbox-uk/news/feature-stories",
+    "displayName": "Features"
+  }
+]
