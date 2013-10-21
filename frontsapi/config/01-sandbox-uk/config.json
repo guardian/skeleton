@@ -2,21 +2,21 @@
   {
     "roleName": "Top stories",
     "roleDescription": "Top stories, unrelated ",
-    "id": "alpha-sandbox-uk/news/regular-stories",
+    "id": "01-sandbox-uk/news/regular-stories",
     "displayName": "Top Stories",
     "groups": ["small", "medium", "large"]
   },
   {
     "roleName": "Special story",
     "roleDescription": "Special story, related",
-    "id": "alpha-sandbox-uk/news/special-story",
+    "id": "01-sandbox-uk/news/special-story",
     "displayName": "Special story",
     "groups": ["small", "medium", "large"]
   },
   {
     "roleName": "Featured stories",
     "roleDescription": "Featued content drawn from a longer time period, unrelated",
-    "id": "alpha-sandbox-uk/news/feature-stories",
+    "id": "01-sandbox-uk/news/feature-stories",
     "displayName": "Features",
     "groups": ["small", "medium", "large"]
   }
