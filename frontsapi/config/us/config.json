@@ -39,6 +39,6 @@
     "roleName": "Across The Guardian",
     "displayName": "Across The Guardian",
     "id": "us-sandbox/across-the-guardian/feature-stories",
-    "groups": ["news", "comment", "sport", "tech", "culture", "life", "fashion", "football", "economy", "money", "travel", "science & environment", "education"]
+    "groups": ["education", "science & environment", "travel", "money", "economy", "football", "fashion", "life", "culture", "tech", "sport", "comment", "news"]
   }
 ]
