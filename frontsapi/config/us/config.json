@@ -3,7 +3,6 @@
     "roleName": "Special story",
     "roleDescription": "Special story, related",
     "id": "us-sandbox/news/special-story",
-    "displayName": "Special story",
     "groups": ["low", "medium", "high"]
   },
   {
@@ -17,6 +16,6 @@
     "roleName": "Featured stories",
     "roleDescription": "Featued content drawn from a longer time period, unrelated",
     "id": "us-sandbox/news/feature-stories",
-    "displayName": "Features"
+    "displayName": "Featured"
   }
 ]
