@@ -17,7 +17,6 @@
     "roleName": "Featured stories",
     "roleDescription": "Featued content drawn from a longer time period, unrelated",
     "id": "us-sandbox/news/feature-stories",
-    "displayName": "Features",
-    "groups": ["low", "medium", "high"]
+    "displayName": "Features"
   }
 ]
