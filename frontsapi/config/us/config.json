@@ -1,21 +1,44 @@
 [
   {
-    "roleName": "Special story",
-    "roleDescription": "Special story, related",
-    "id": "us-sandbox/news/special-story",
-    "groups": ["low", "medium", "high"]
+    "roleName": "Top Story",
+    "id": "us-sandbox/top-story/special-story",
+    "groups": ["other articles", "main articles", "lead article"]
   },
   {
-    "roleName": "Top stories",
-    "roleDescription": "Top stories, unrelated ",
+    "roleName": "News",
+    "displayName": "News",
     "id": "us-sandbox/news/regular-stories",
-    "displayName": "Top Stories",
-    "groups": ["low", "medium", "high"]
+    "groups": ["other articles", "main articles", "lead articles"]
   },
   {
-    "roleName": "Featured stories",
-    "roleDescription": "Featued content drawn from a longer time period, unrelated",
-    "id": "us-sandbox/news/feature-stories",
-    "displayName": "Featured"
+    "roleName": "Features",
+    "displayName": "Features",
+    "id": "us-sandbox/features/feature-stories"
+  },
+  {
+    "roleName": "Special",
+    "id": "us-sandbox/special/special-story",
+    "groups": ["other articles", "main articles", "lead article"]
+  },
+  {
+    "roleName": "Contributors",
+    "displayName": "Contributors",
+    "id": "us-sandbox/contributors/feature-stories"
+  },
+  {
+    "roleName": "People In The News",
+    "displayName": "People In The News",
+    "id": "us-sandbox/people-in-the-news/feature-stories"
+  },
+  {
+    "roleName": "Readers Contributions",
+    "displayName": "Readers Contributions",
+    "id": "us-sandbox/readers-contributions/feature-stories"
+  },
+  {
+    "roleName": "Across The Guardian",
+    "displayName": "Across The Guardian",
+    "id": "us-sandbox/across-the-guardian/feature-stories",
+    "groups": ["news", "comment", "sport", "tech", "culture", "life", "fashion", "football", "economy", "money", "travel", "science & environment", "education"]
   }
 ]
