@@ -1,76 +1,23 @@
 [
   {
     "roleName": "Top stories",
-    "roleDescription": "Regular importance stories, unrelated",
-    "id": "us/news/regular-stories",
-    "contentApiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-    "displayName": ""
+    "roleDescription": "Top stories, unrelated ",
+    "id": "01-sandbox-uk/news/regular-stories",
+    "displayName": "Top Stories",
+    "groups": ["low", "medium", "high"]
   },
   {
     "roleName": "Special story",
     "roleDescription": "Special story, related",
-    "id": "us/news/special-story"
+    "id": "01-sandbox-uk/news/special-story",
+    "displayName": "Special story",
+    "groups": ["low", "medium", "high"]
   },
   {
     "roleName": "Featured stories",
-    "roleDescription": "Featued content drawn from a longer time period",
-    "id": "us/news/feature-stories",
-    "displayName": "Features"
-  },
-  {
-    "roleName": "Section stories",
-    "roleDescription": "Regular importance stories, unrelated",
-    "id": "us/sport/regular-stories",
-    "contentApiQuery": "sport?page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all&show-story-package=true",
-    "displayName": "Sports"
-  },
-  {
-    "roleName": "Section stories",
-    "roleDescription": "Regular importance stories, unrelated",
-    "id": "us/commentisfree/regular-stories",
-    "contentApiQuery": "commentisfree?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-    "displayName": "Comment is free"
-  },
-  {
-    "roleName": "Section stories",
-    "roleDescription": "Regular importance stories, unrelated",
-    "id": "us/culture/regular-stories",
-    "contentApiQuery": "culture?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-    "displayName": "Culture"
-  },
-  {
-    "roleName": "Section stories",
-    "roleDescription": "Regular importance stories, unrelated",
-    "id": "us/business/regular-stories",
-    "contentApiQuery": "business?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-    "displayName": "Business"
-  },
-  {
-    "roleName": "Section stories",
-    "roleDescription": "Regular importance stories, unrelated",
-    "id": "us/lifeandstyle/regular-stories",
-    "contentApiQuery": "lifeandstyle?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-    "displayName": "Life and style"
-  },
-  {
-    "roleName": "Section stories",
-    "roleDescription": "Regular importance stories, unrelated",
-    "id": "us/technology/regular-stories",
-    "contentApiQuery": "technology?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-    "displayName": "Technology"
-  },
-  {
-    "roleName": "Section stories",
-    "roleDescription": "Regular importance stories, unrelated",
-    "id": "us/money/regular-stories",
-    "contentApiQuery": "money?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-    "displayName": "Money"
-  },
-  {
-    "roleName": "Section stories",
-    "roleDescription": "Regular importance stories, unrelated",
-    "id": "us/travel/regular-stories",
-    "contentApiQuery": "travel?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-    "displayName": "Travel"
+    "roleDescription": "Featued content drawn from a longer time period, unrelated",
+    "id": "01-sandbox-uk/news/feature-stories",
+    "displayName": "Features",
+    "groups": ["low", "medium", "high"]
   }
 ]
