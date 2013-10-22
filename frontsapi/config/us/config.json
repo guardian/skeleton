@@ -1,16 +1,16 @@
 [
   {
-    "roleName": "Top stories",
-    "roleDescription": "Top stories, unrelated ",
-    "id": "us-sandbox/news/regular-stories",
-    "displayName": "Top Stories",
-    "groups": ["low", "medium", "high"]
-  },
-  {
     "roleName": "Special story",
     "roleDescription": "Special story, related",
     "id": "us-sandbox/news/special-story",
     "displayName": "Special story",
+    "groups": ["low", "medium", "high"]
+  },
+  {
+    "roleName": "Top stories",
+    "roleDescription": "Top stories, unrelated ",
+    "id": "us-sandbox/news/regular-stories",
+    "displayName": "Top Stories",
     "groups": ["low", "medium", "high"]
   },
   {
