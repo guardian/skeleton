@@ -1,6 +1,7 @@
 [
   {
     "roleName": "Top Story",
+    "displayName": "",
     "id": "us/top-story/special-story",
     "groups": ["other articles", "main articles", "lead article"]
   },
