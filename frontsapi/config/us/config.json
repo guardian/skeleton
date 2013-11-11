@@ -3,13 +3,13 @@
     "roleName": "Top Story",
     "displayName": "",
     "id": "us/top-story/special-story",
-    "contentApiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
     "groups": ["other articles", "main articles", "lead article"]
   },
   {
     "roleName": "News",
     "displayName": "News",
     "id": "us/news/regular-stories",
+    "contentApiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
     "groups": ["other articles", "main articles", "lead articles"]
   },
   {
