@@ -12,17 +12,17 @@
     "id": "uk/news/special-story"
   },
   {
-    "roleName": "Featured stories",
-    "roleDescription": "Featued content drawn from a longer time period",
-    "id": "uk/news/feature-stories",
-    "displayName": "Features"
-  },
-  {
     "roleName": "Section stories",
     "roleDescription": "Regular importance stories, unrelated",
     "id": "uk/sport/regular-stories",
     "contentApiQuery": "sport?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
     "displayName": "Sport"
+  },
+  {
+    "roleName": "Featured stories",
+    "roleDescription": "Featued content drawn from a longer time period",
+    "id": "uk/news/feature-stories",
+    "displayName": "Features"
   },
   {
     "roleName": "Section stories",
