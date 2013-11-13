@@ -3,14 +3,14 @@
     "roleName": "Top Story",
     "displayName": "",
     "id": "us/top-story/special-story",
-    "groups": ["ordinary", "extraordinary"]
+    "groups": ["other content", "main content", "lead content"]
   },
   {
     "roleName": "News",
     "displayName": "",
     "id": "us/news/regular-stories",
     "contentApiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-    "groups": ["ordinary", "extraordinary"]
+    "groups": ["other content", "main content", "lead content"]
   },
   {
     "roleName": "Features",
@@ -20,7 +20,7 @@
   {
     "roleName": "Special",
     "id": "us/special/special-story",
-    "groups": ["ordinary", "extraordinary"]
+    "groups": ["other content", "main content", "lead content"]
   },
   {
     "roleName": "Contributors",
