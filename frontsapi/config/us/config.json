@@ -12,17 +12,17 @@
     "id": "us/news/special-story"
   },
   {
-    "roleName": "Featured stories",
-    "roleDescription": "Featued content drawn from a longer time period",
-    "id": "us/news/feature-stories",
-    "displayName": "Features"
-  },
-  {
     "roleName": "Section stories",
     "roleDescription": "Regular importance stories, unrelated",
     "id": "us/sport/regular-stories",
     "contentApiQuery": "sport?page-size=20&tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all&show-story-package=true",
     "displayName": "Sports"
+  },
+  {
+    "roleName": "Featured stories",
+    "roleDescription": "Featued content drawn from a longer time period",
+    "id": "us/news/feature-stories",
+    "displayName": "Features"
   },
   {
     "roleName": "Section stories",

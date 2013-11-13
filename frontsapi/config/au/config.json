@@ -12,17 +12,17 @@
     "id": "au/news/special-story"
   },
   {
-    "roleName": "Featured stories",
-    "roleDescription": "Featued content drawn from a longer time period",
-    "id": "au/news/feature-stories",
-    "displayName": "Features"
-  },
-  {
     "roleName": "Section stories",
     "roleDescription": "Regular importance stories, unrelated",
     "id": "au/sport/australia-sport/regular-stories",
     "contentApiQuery": "sport/australia-sport?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
     "displayName": "Australia sport"
+  },
+  {
+    "roleName": "Featured stories",
+    "roleDescription": "Featued content drawn from a longer time period",
+    "id": "au/news/feature-stories",
+    "displayName": "Features"
   },
   {
     "roleName": "Section stories",
