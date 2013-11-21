@@ -48,14 +48,14 @@
 
         "uk/culture" : {
             "collections": [
-                "uk/culture/regular-stories", 
-                "uk/culture/feature-stories", 
-                "uk/film/regular-stories", 
-                "uk/music/regular-stories", 
-                "uk/tv-and-radio/regular-stories", 
-                "uk/books/regular-stories", 
-                "uk/artanddesign/regular-stories", 
-                "uk/stage/regular-stories", 
+                "uk/culture/regular-stories",
+                "uk/culture/feature-stories",
+                "uk/film/regular-stories",
+                "uk/music/regular-stories",
+                "uk/tv-and-radio/regular-stories",
+                "uk/books/regular-stories",
+                "uk/artanddesign/regular-stories",
+                "uk/stage/regular-stories",
                 "uk/technology/games/regular-stories"
             ]
         },
@@ -73,7 +73,7 @@
                 "uk/business/feature-stories"
             ]
         },
-        
+
         "us/sport" : {
             "collections": [
                 "us/sport/regular-stories",
@@ -149,11 +149,11 @@
 
         "au/culture" : {
             "collections": [
-                "au/culture/regular-stories", 
-                "au/culture/feature-stories", 
-                "au/film/regular-stories", 
-                "au/music/regular-stories", 
-                "au/books/regular-stories", 
+                "au/culture/regular-stories",
+                "au/culture/feature-stories",
+                "au/film/regular-stories",
+                "au/music/regular-stories",
+                "au/books/regular-stories",
                 "au/technology/games/regular-stories"
             ]
         },
