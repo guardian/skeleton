@@ -1,24 +1,52 @@
 {
     "fronts": {
         "uk": {
-            "collections": ["uk/news/regular-stories", "uk/news/special-story", "uk/sport/regular-stories", "uk/news/feature-stories",
-                            "uk/commentisfree/regular-stories", "uk/culture/regular-stories", "uk/business/regular-stories",
-                            "uk/lifeandstyle/regular-stories", "uk/technology/regular-stories", "uk/money/regular-stories",
-                            "uk/travel/regular-stories"]
+            "collections": [
+                "uk/news/regular-stories",
+                "uk/news/special-story",
+                "uk/sport/regular-stories",
+                "uk/news/feature-stories",
+                "uk/commentisfree/regular-stories",
+                "uk/culture/regular-stories",
+                "uk/business/regular-stories",
+                "uk/lifeandstyle/regular-stories",
+                "uk/technology/regular-stories",
+                "uk/money/regular-stories",
+                "uk/travel/regular-stories"
+                ]
         },
 
         "us" : {
-            "collections": ["us/news/regular-stories", "us/news/special-story", "us/sport/regular-stories", "us/news/feature-stories",
-                            "us/commentisfree/regular-stories", "us/culture/regular-stories", "us/business/regular-stories",
-                            "us/lifeandstyle/regular-stories", "us/technology/regular-stories", "us/money/regular-stories",
-                            "us/travel/regular-stories"]
+            "collections": [
+                "us/news/regular-stories",
+                "us/news/special-story",
+                "us/sport/regular-stories",
+                "us/news/feature-stories",
+                "us/commentisfree/regular-stories",
+                "us/culture/regular-stories",
+                "us/business/regular-stories",
+                "us/lifeandstyle/regular-stories",
+                "us/technology/regular-stories",
+                "us/money/regular-stories",
+                "us/travel/regular-stories"
+                ]
         },
 
         "au": {
-            "collections": ["au/news/regular-stories", "au/news/special-story", "au/sport/australia-sport/regular-stories", "au/news/feature-stories",
-                            "au/sport/regular-stories", "au/commentisfree/regular-stories", "au/culture/regular-stories", "au/business/regular-stories",
-                            "au/lifeandstyle/regular-stories", "au/technology/regular-stories", "au/money/regular-stories",
-                            "au/travel/regular-stories"]
+            "collections": [
+                "au/news/regular-stories",
+                "au/news/special-story",
+                "au/sport/australia-sport/regular-stories",
+                "au/news/feature-stories",
+                "au/sport/regular-stories",
+                "au/commentisfree/regular-stories",
+                "au/culture/regular-stories",
+                "au/business/regular-stories",
+                "au/lifeandstyle/regular-stories",
+                "au/technology/regular-stories",
+                "au/money/regular-stories",
+                "au/travel/regular-stories"
+                ]
         },
 
         "uk/sport" : {
