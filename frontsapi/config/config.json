@@ -1,0 +1,188 @@
+{
+    "fronts": {
+        "uk": {
+            "collections": ["uk/news/regular-stories", "uk/news/special-story", "uk/sport/regular-stories", "uk/news/feature-stories",
+                            "uk/commentisfree/regular-stories", "uk/culture/regular-stories", ""uk/business/regular-stories",
+                            "uk/lifeandstyle/regular-stories", "uk/technology/regular-stories", "uk/money-regular-stories",
+                            "uk/travel/regular-stories"]
+        },
+
+        "us" : {
+            "collections": ["us/news/regular-stories", "us/news/special-story", "us/sport/regular-stories", "us/news/feature-stories",
+                            "us/commentisfree/regular-stories", "us/culture/regular-stories", ""us/business/regular-stories",
+                            "us/lifeandstyle/regular-stories", "us/technology/regular-stories", "us/money-regular-stories",
+                            "us/travel/regular-stories"]
+        },
+
+        "au": {
+            "collections": ["au/news/regular-stories", "au/news/special-story", "au/sport/australia-sport/regular-stories", "au/news/feature-stories",
+                            "au/sport/regular-stories", "au/commentisfree/regular-stories", "au/culture/regular-stories", ""au/business/regular-stories",
+                            "au/lifeandstyle/regular-stories", "au/technology/regular-stories", "au/money-regular-stories",
+                            "au/travel/regular-stories"]
+        },
+
+        "uk/sport" : {
+            "collections": [
+                "uk/sport/regular-stories",
+                "uk/sport/feature-stories",
+                "uk/football/regular-stories",
+                "uk/sport/cricket/regular-stories",
+                "uk/sport/rugby-union/regular-stories",
+                "uk/sport/motorsports/regular-stories",
+                "uk/sport/tennis/regular-stories",
+                "uk/sport/golf/regular-stories",
+                "uk/sport/horse-racing/regular-stories",
+                "uk/sport/rugbyleague/regular-stories",
+                "uk/sport/us-sport/regular-stories",
+                "uk/sport/boxing/regular-stories",
+                "uk/sport/cycling/regular-stories"
+            ]
+        },
+
+        "uk/money" : {
+            "collections": [
+                "uk/money/regular-stories",
+                "uk/money/feature-stories"
+            ]
+        },
+
+        "uk/culture" : {
+            "collections": [
+                "uk/culture/regular-stories", 
+                "uk/culture/feature-stories", 
+                "uk/film/regular-stories", 
+                "uk/music/regular-stories", 
+                "uk/tv-and-radio/regular-stories", 
+                "uk/books/regular-stories", 
+                "uk/artanddesign/regular-stories", 
+                "uk/stage/regular-stories", 
+                "uk/technology/games/regular-stories"
+            ]
+        },
+
+        "uk/commentisfree" : {
+            "collections": [
+                "uk/commentisfree/regular-stories",
+                "uk/commentisfree/feature-stories"
+            ]
+        },
+
+        "uk/business" : {
+            "collections": [
+                "uk/business/regular-stories",
+                "uk/business/feature-stories"
+            ]
+        },
+        
+        "us/sport" : {
+            "collections": [
+                "us/sport/regular-stories",
+                "us/sport/feature-stories",
+                "us/sport/nfl/regular-stories",
+                "us/sport/mlb/regular-stories",
+                "us/sport/nba/regular-stories",
+                "us/sport/mls/regular-stories",
+                "us/sport/nhl/regular-stories"
+            ]
+        },
+
+        "us/money" : {
+            "collections": [
+                "us/money/regular-stories",
+                "us/money/feature-stories"
+            ]
+        },
+
+        "us/culture" : {
+            "collections": [
+                "us/culture/regular-stories", 
+                "us/culture/feature-stories", 
+                "us/film/regular-stories", 
+                "us/music/regular-stories", 
+                "us/books/regular-stories", 
+                "us/artanddesign/regular-stories", 
+                "us/stage/regular-stories", 
+                "us/technology/games/regular-stories",
+                "us/tv-and-radio/regular-stories"
+            ]
+        },
+
+        "us/commentisfree" : {
+            "collections": [
+                "us/commentisfree/regular-stories",
+                "us/commentisfree/feature-stories"
+            ]
+        },
+
+        "us/business" : {
+            "collections": [
+                "us/business/regular-stories",
+                "us/business/feature-stories"
+            ]
+        },
+        
+        "au/sport" : {
+            "collections": [
+                "au/sport/regular-stories",
+                "au/sport/feature-stories",
+                "au/football/regular-stories",
+                "au/sport/cricket/regular-stories",
+                "au/sport/a-league/regular-stories",
+                "au/sport/tennis/regular-stories",
+                "au/sport/rugbyleague/regular-stories",
+                "au/sport/afl/regular-stories",
+                "au/sport/nrl/regular-stories",
+                "au/sport/golf/regular-stories",
+                "au/sport/motorsports/regular-stories",
+                "au/sport/cycling/regular-stories",
+                "au/sport/us-sport/regular-stories",
+                "au/sport/boxing/regular-stories"
+            ]
+        },
+
+        "au/money" : {
+            "collections": [
+                "au/money/regular-stories",
+                "au/money/feature-stories"
+            ]
+        },
+
+        "au/culture" : {
+            "collections": [
+                "au/culture/regular-stories", 
+                "au/culture/feature-stories", 
+                "au/film/regular-stories", 
+                "au/music/regular-stories", 
+                "au/books/regular-stories", 
+                "au/technology/games/regular-stories"
+            ]
+        },
+
+        "au/commentisfree" : {
+            "collections": [
+                "au/commentisfree/regular-stories",
+                "au/commentisfree/feature-stories"
+            ]
+        },
+
+        "au/business" : {
+            "collections": [
+                "au/business/regular-stories",
+                "au/business/feature-stories"
+            ]
+        },
+    },
+
+    "collections": {
+        "uk/news/topstories" : {
+            "apiQuery": "the query",
+            "groups": ["S", "M", "L"],
+            "displayName": "Foobar"
+        },
+        "au/news/topstories" : {
+            "apiQuery": "the query",
+            "groups": ["S", "M", "L"],
+            "displayName": "Foobar"
+        }    
+    }
+}
