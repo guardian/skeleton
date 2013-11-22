@@ -2,39 +2,39 @@
   {
     "roleName": "Top Story",
     "displayName": "",
-    "id": "uk/top-story/special-story",
+    "id": "au/top-story/special-story",
     "groups": ["other content", "main content", "lead content"]
   },
   {
     "roleName": "News",
     "displayName": "",
-    "id": "uk/news/regular-stories",
-    "contentApiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+    "id": "au/news/regular-stories",
+    "contentApiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
     "groups": ["other content", "main content", "lead content"]
   },
   {
     "roleName": "Features",
     "displayName": "Features",
-    "id": "uk/features/feature-stories"
+    "id": "au/features/feature-stories"
   },
   {
     "roleName": "Special",
-    "id": "uk/special/special-story",
+    "id": "au/special/special-story",
     "groups": ["other content", "main content", "lead content"]
   },
   {
     "roleName": "Contributors",
     "displayName": "Contributors",
-    "id": "uk/contributors/feature-stories"
+    "id": "au/contributors/feature-stories"
   },
   {
     "roleName": "People In The News",
     "displayName": "People In The News",
-    "id": "uk/people-in-the-news/feature-stories"
+    "id": "au/people-in-the-news/feature-stories"
   },
   {
     "roleName": "Readers Contributions",
     "displayName": "Readers Contributions",
-    "id": "uk/readers-contributions/feature-stories"
+    "id": "au/readers-contributions/feature-stories"
   }
 ]
