@@ -405,7 +405,7 @@
             "displayName": "NBA"
         },
         "us/sport/mls/regular-stories": {
-            "apiQuery": "sport/mls?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "football/mls?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
             "displayName": "MLS"
         },
         "us/sport/nhl/regular-stories": {

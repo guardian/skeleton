@@ -38,7 +38,7 @@
     "roleDescription": "Regular importance stories, unrelated",
     "id": "us/sport/mls/regular-stories",
     "displayName": "MLS",
-    "contentApiQuery": "sport/mls?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+    "contentApiQuery": "football/mls?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
   },
   {
     "roleName": "Section Stories",
