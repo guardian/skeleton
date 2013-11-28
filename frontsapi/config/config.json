@@ -214,7 +214,6 @@
             "roleName": "Readers Contributions",
             "displayName": "Readers Contributions"
         },
-
         "us/top-story/special-story": {
             "roleName": "Top Story",
             "displayName": "",
@@ -266,35 +265,11 @@
             "displayName": "Readers Contributions"
         },
 
-
-
         "uk/news/regular-stories": {
             "roleName": "Top Stories",
             "apiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
             "displayName": "",
             "groups": ["other content", "main content", "lead content"]
-        },
-        "uk/news/special-story": {
-
-        },
-        "uk/news/feature-stories": {
-            "roleName": "Featured stories",
-            "displayName": "Features"
-        },
-        "uk/lifeandstyle/regular-stories": {
-            "roleName": "Section stories",
-            "apiQuery": "lifeandstyle?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-            "displayName": "Life and style"
-        },
-        "uk/technology/regular-stories": {
-            "roleName": "Section stories",
-            "apiQuery": "technology?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-            "displayName": "Technology"
-        },
-        "uk/travel/regular-stories": {
-            "roleName": "Section stories",
-            "apiQuery": "travel?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-            "displayName": "Travel"
         },
 
         "us/news/regular-stories": {
@@ -302,62 +277,12 @@
             "apiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
             "displayName": ""
         },
-        "us/news/special-story": {
-
-        },
-        "us/news/feature-stories": {
-            "roleName": "Featured stories",
-            "displayName": "Features"
-        },
-        "us/lifeandstyle/regular-stories": {
-            "roleName": "Section stories",
-            "apiQuery": "lifeandstyle?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-            "displayName": "Life and style"
-        },
-        "us/technology/regular-stories": {
-            "roleName": "Section stories",
-            "apiQuery": "technology?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-            "displayName": "Technology"
-        },
-        "us/travel/regular-stories": {
-            "roleName": "Section stories",
-            "apiQuery": "travel?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-            "displayName": "Travel"
-        },
 
         "au/news/regular-stories": {
             "roleName": "Top stories",
             "apiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
             "displayName": ""
         },
-        "au/news/special-story": {
-
-        },
-        "au/sport/australia-sport/regular-stories": {
-            "roleName": "Section stories",
-            "apiQuery": "sport/australia-sport?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-            "displayName": "Australia Sport"
-        },
-        "au/news/feature-stories": {
-            "roleName": "Featured stories",
-            "displayName": "Features"
-        },
-        "au/lifeandstyle/regular-stories": {
-            "roleName": "Section stories",
-            "apiQuery": "lifeandstyle?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-            "displayName": "Life and style"
-        },
-        "au/technology/regular-stories": {
-            "roleName": "Section stories",
-            "apiQuery": "technology?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-            "displayName": "Technology"
-        },
-        "au/travel/regular-stories": {
-            "roleName": "Section stories",
-            "apiQuery": "travel?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-            "displayName": "Travel"
-        },
-
 
         "uk/sport/regular-stories": {
             "roleName": "Top stories",
