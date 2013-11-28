@@ -2,51 +2,38 @@
     "fronts": {
         "uk": {
             "collections": [
+                "uk/top-story/special-story",
                 "uk/news/regular-stories",
-                "uk/news/special-story",
-                "uk/sport/regular-stories",
-                "uk/news/feature-stories",
-                "uk/commentisfree/regular-stories",
-                "uk/culture/regular-stories",
-                "uk/business/regular-stories",
-                "uk/lifeandstyle/regular-stories",
-                "uk/technology/regular-stories",
-                "uk/money/regular-stories",
-                "uk/travel/regular-stories"
+                "uk/features/feature-stories",
+                "uk/special/special-story",
+                "uk/contributors/feature-stories",
+                "uk/people-in-the-news/feature-stories",
+                "uk/readers-contributions/feature-stories"
                 ]
         },
 
         "us" : {
             "collections": [
+                "us/top-story/special-story",
                 "us/news/regular-stories",
-                "us/news/special-story",
-                "us/sport/regular-stories",
-                "us/news/feature-stories",
-                "us/commentisfree/regular-stories",
-                "us/culture/regular-stories",
-                "us/business/regular-stories",
-                "us/lifeandstyle/regular-stories",
-                "us/technology/regular-stories",
-                "us/money/regular-stories",
-                "us/travel/regular-stories"
+                "us/features/feature-stories",
+                "us/special/special-story",
+                "us/contributors/feature-stories",
+                "us/people-in-the-news/feature-stories",
+                "us/readers-contributions/feature-stories"
                 ]
         },
 
         "au": {
             "collections": [
+                "au/top-story/special-story",
                 "au/news/regular-stories",
-                "au/news/special-story",
-                "au/sport/australia-sport/regular-stories",
-                "au/news/feature-stories",
-                "au/sport/regular-stories",
-                "au/commentisfree/regular-stories",
-                "au/culture/regular-stories",
-                "au/business/regular-stories",
-                "au/lifeandstyle/regular-stories",
-                "au/technology/regular-stories",
-                "au/money/regular-stories",
-                "au/travel/regular-stories"
-                ]
+                "au/features/feature-stories",
+                "au/special/special-story",
+                "au/contributors/feature-stories",
+                "au/people-in-the-news/feature-stories",
+                "au/readers-contributions/feature-stories"
+            ]
         },
 
         "uk/sport" : {
