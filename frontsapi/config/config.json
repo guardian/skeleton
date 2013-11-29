@@ -280,7 +280,7 @@
             "displayName": ""
         },
         "uk/news/special-story": {
-
+            "roleName": "Special Story"
         },
         "uk/news/feature-stories": {
             "roleName": "Featured stories",
@@ -308,7 +308,7 @@
             "displayName": ""
         },
         "us/news/special-story": {
-
+            "roleName": "Special Story"
         },
         "us/news/feature-stories": {
             "roleName": "Featured stories",
@@ -336,7 +336,7 @@
             "displayName": ""
         },
         "au/news/special-story": {
-
+            "roleName": "Special Story"
         },
         "au/sport/australia-sport/regular-stories": {
             "roleName": "Section stories",
