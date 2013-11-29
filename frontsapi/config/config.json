@@ -745,7 +745,8 @@
         },
         "football/latest-news/regular-stories": {
             "roleName": "Latest news",
-            "displayName": "Latest news"
+            "displayName": "Latest news",
+            "apiQuery": "football?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
         },
         "technology/first-container/regular-stories": {
             "roleName": "First container"
@@ -758,7 +759,8 @@
         },
         "technology/latest-news/regular-stories": {
             "roleName": "Latest news",
-            "displayName": "Latest news"
+            "displayName": "Latest news",
+            "apiQuery": "technology?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
         },
         "travel/first-container/regular-stories": {
             "roleName": "First container"
@@ -771,7 +773,8 @@
         },
         "travel/latest-news/regular-stories": {
             "roleName": "Latest news",
-            "displayName": "Latest news"
+            "displayName": "Latest news",
+            "apiQuery": "travel?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
         },
         "film/first-container/regular-stories": {
             "roleName": "First container"
@@ -784,7 +787,8 @@
         },
         "film/latest-news/regular-stories": {
             "roleName": "Latest news",
-            "displayName": "Latest news"
+            "displayName": "Latest news",
+            "apiQuery": "film?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
         },
         "world/the-nsa-files/first-container/regular-stories": {
             "roleName": "First container"
@@ -797,7 +801,8 @@
         },
         "world/the-nsa-files/latest-news/regular-stories": {
             "roleName": "Latest news",
-            "displayName": "Latest news"
+            "displayName": "Latest news",
+            "apiQuery": "world/the-nsa-files?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
         },
         "world/edward-snowden/first-container/regular-stories": {
             "roleName": "First container"
@@ -810,7 +815,8 @@
         },
         "world/edward-snowden/latest-news/regular-stories": {
             "roleName": "Latest news",
-            "displayName": "Latest news"
+            "displayName": "Latest news",
+            "apiQuery": "world/edward-snowden?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
         },
         "football/arsenal/first-container/regular-stories": {
             "roleName": "First container"
@@ -823,7 +829,8 @@
         },
         "football/arsenal/latest-news/regular-stories": {
             "roleName": "Latest news",
-            "displayName": "Latest news"
+            "displayName": "Latest news",
+            "apiQuery": "football/arsenal?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
         },
         "artanddesign/photography/first-container/regular-stories": {
             "roleName": "First container"
@@ -836,7 +843,8 @@
         },
         "artanddesign/photography/latest-news/regular-stories": {
             "roleName": "Latest news",
-            "displayName": "Latest news"
+            "displayName": "Latest news",
+            "apiQuery": "artanddesign/photography?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
         }
     }
 }
