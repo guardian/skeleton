@@ -198,6 +198,78 @@
                 "au/business/regular-stories",
                 "au/business/feature-stories"
             ]
+        },
+
+        "football" : {
+            "collections": [
+                "football/first-container/regular-stories",
+                "football/second-container/regular-stories",
+                "football/third-container/regular-stories",
+                "football/latest-news/regular-stories"
+            ]
+        },
+
+        "technology" : {
+            "collections": [
+                "technology/first-container/regular-stories",
+                "technology/second-container/regular-stories",
+                "technology/third-container/regular-stories",
+                "technology/latest-news/regular-stories"
+            ]
+        },
+
+        "travel" : {
+            "collections": [
+                "travel/first-container/regular-stories",
+                "travel/second-container/regular-stories",
+                "travel/third-container/regular-stories",
+                "travel/latest-news/regular-stories"
+            ]
+        },
+
+        "film" : {
+            "collections": [
+                "film/first-container/regular-stories",
+                "film/second-container/regular-stories",
+                "film/third-container/regular-stories",
+                "film/latest-news/regular-stories"
+            ]
+        },
+
+        "world/the-nsa-files" : {
+            "collections": [
+                "world/the-nsa-files/first-container/regular-stories",
+                "world/the-nsa-files/second-container/regular-stories",
+                "world/the-nsa-files/third-container/regular-stories",
+                "world/the-nsa-files/latest-news/regular-stories"
+            ]
+        },
+
+        "world/edward-snowden" : {
+            "collections": [
+                "world/edward-snowden/first-container/regular-stories",
+                "world/edward-snowden/second-container/regular-stories",
+                "world/edward-snowden/third-container/regular-stories",
+                "world/edward-snowden/latest-news/regular-stories"
+            ]
+        },
+
+        "football/arsenal" : {
+            "collections": [
+                "football/arsenal/first-container/regular-stories",
+                "football/arsenal/second-container/regular-stories",
+                "football/arsenal/third-container/regular-stories",
+                "football/arsenal/latest-news/regular-stories"
+            ]
+        },
+
+        "artanddesign/photography" : {
+            "collections": [
+                "artanddesign/photography/first-container/regular-stories",
+                "artanddesign/photography/second-container/regular-stories",
+                "artanddesign/photography/third-container/regular-stories",
+                "artanddesign/photography/latest-news/regular-stories"
+            ]
         }
     },
 
@@ -660,6 +732,111 @@
         "au/business/feature-stories": {
             "roleName": "Featured stories",
             "displayName": "Features"
+        },
+
+        "football/first-container/regular-stories": {
+            "roleName": "First container"
+        },
+        "football/second-container/regular-stories": {
+            "roleName": "Second container"
+        },
+        "football/third-container/regular-stories": {
+            "roleName": "Third container"
+        },
+        "football/latest-news/regular-stories": {
+            "roleName": "Latest news",
+            "displayName": "Latest news"
+        },
+        "technology/first-container/regular-stories": {
+            "roleName": "First container"
+        },
+        "technology/second-container/regular-stories": {
+            "roleName": "Second container"
+        },
+        "technology/third-container/regular-stories": {
+            "roleName": "Third container"
+        },
+        "technology/latest-news/regular-stories": {
+            "roleName": "Latest news",
+            "displayName": "Latest news"
+        },
+        "travel/first-container/regular-stories": {
+            "roleName": "First container"
+        },
+        "travel/second-container/regular-stories": {
+            "roleName": "Second container"
+        },
+        "travel/third-container/regular-stories": {
+            "roleName": "Third container"
+        },
+        "travel/latest-news/regular-stories": {
+            "roleName": "Latest news",
+            "displayName": "Latest news"
+        },
+        "film/first-container/regular-stories": {
+            "roleName": "First container"
+        },
+        "film/second-container/regular-stories": {
+            "roleName": "Second container"
+        },
+        "film/third-container/regular-stories": {
+            "roleName": "Third container"
+        },
+        "film/latest-news/regular-stories": {
+            "roleName": "Latest news",
+            "displayName": "Latest news"
+        },
+        "world/the-nsa-files/first-container/regular-stories": {
+            "roleName": "First container"
+        },
+        "world/the-nsa-files/second-container/regular-stories": {
+            "roleName": "Second container"
+        },
+        "world/the-nsa-files/third-container/regular-stories": {
+            "roleName": "Third container"
+        },
+        "world/the-nsa-files/latest-news/regular-stories": {
+            "roleName": "Latest news",
+            "displayName": "Latest news"
+        },
+        "world/edward-snowden/first-container/regular-stories": {
+            "roleName": "First container"
+        },
+        "world/edward-snowden/second-container/regular-stories": {
+            "roleName": "Second container"
+        },
+        "world/edward-snowden/third-container/regular-stories": {
+            "roleName": "Third container"
+        },
+        "world/edward-snowden/latest-news/regular-stories": {
+            "roleName": "Latest news",
+            "displayName": "Latest news"
+        },
+        "football/arsenal/first-container/regular-stories": {
+            "roleName": "First container"
+        },
+        "football/arsenal/second-container/regular-stories": {
+            "roleName": "Second container"
+        },
+        "football/arsenal/third-container/regular-stories": {
+            "roleName": "Third container"
+        },
+        "football/arsenal/latest-news/regular-stories": {
+            "roleName": "Latest news",
+            "displayName": "Latest news"
+        },
+        "artanddesign/photography/first-container/regular-stories": {
+            "roleName": "First container"
+        },
+        "artanddesign/photography/second-container/regular-stories": {
+            "roleName": "Second container"
+        },
+        "artanddesign/photography/third-container/regular-stories": {
+            "roleName": "Third container"
+        },
+        "artanddesign/photography/latest-news/regular-stories": {
+            "roleName": "Latest news",
+            "displayName": "Latest news"
         }
     }
 }
