@@ -16,6 +16,18 @@
             ]
         },
 
+        "uk-alpha": {
+            "collections": [
+                "uk/top-story/special-story",
+                "uk/news/regular-stories",
+                "uk/features/feature-stories",
+                "uk/special/special-story",
+                "uk/contributors/feature-stories",
+                "uk/people-in-the-news/feature-stories",
+                "uk/readers-contributions/feature-stories"
+            ]
+        },
+
         "us" : {
             "collections": [
                 "us/news/regular-stories",
@@ -282,6 +294,31 @@
     },
 
     "collections": {
+        "uk/top-story/special-story": {
+            "roleName": "Top Story",
+            "displayName": "",
+            "groups": ["other content", "main content", "lead content"]
+        },
+        "uk/features/feature-stories": {
+            "roleName": "Features",
+            "displayName": "Features"
+        },
+        "uk/special/special-story": {
+            "roleName": "Special",
+            "groups": ["other content", "main content", "lead content"]
+        },
+        "uk/contributors/feature-stories": {
+            "roleName": "Contributors",
+            "displayName": "Contributors"
+        },
+        "uk/people-in-the-news/feature-stories": {
+            "roleName": "People In The News",
+            "displayName": "People In The News"
+        },
+        "uk/readers-contributions/feature-stories": {
+            "roleName": "Readers Contributions",
+            "displayName": "Readers Contributions"
+        },
         "uk/news/regular-stories": {
             "roleName": "Top Stories",
             "apiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
