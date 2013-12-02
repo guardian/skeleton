@@ -1,25 +1,39 @@
 Configuration files for NextGen fronts
 ======================================
 
-The `config.json` file in this repo determines which fronts have which article collections on them. To mirror this to S3, do the following.
+The `config.json` file in this repo determines which fronts have which article collections on them.
 
-Install [s3cmd](http://s3tools.org/s3cmd) (e.g. [Ubuntu](http://s3tools.org/repositories#note-deb) install notes). You will need an AWS key and secret-key before you run this:
-```
-s3cmd --configure
-```
+Requirements
+------------
 
-From the repo's root folder, check that `config.json` is valid:
-```
-node validate.js
-```
+ * [Node.js](http://nodejs.org/)
+ * [Grunt CLI](https://github.com/gruntjs/grunt-cli)
 
-To upload the configuration file, sync it up to S3. From the repo's root folder (replace DEV/CODE/PROD as appropriate):
-```
-s3cmd sync --acl-public ./frontsapi/config/ s3://aws-frontend-store/DEV/frontsapi/config/
-```
+Setup
+-----
+
+    $ npm install
+
+Usage
+-----
+
+To upload changed (to `DEV` by default)
+
+    $ grunt upload
+
+To a specific env
+
+    $ ENVIRONMENT=code grunt upload
+
+Requires env variables `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY`
 
 Edit front pages contents
 ======================================
+
+Requirements
+------------
+
+ * [S3cmd](http://s3tools.org/s3cmd)
 
 If the fronts tool is inaccesible or broken, you can edit the contents of fronts by modifying files stored on S3, as follows.
 
@@ -65,4 +79,4 @@ s3cmd sync s3://aws-frontend-store/PROD/frontsapi/collection ./
 ```
 (You could just upload individual files; up to you.)
 
-**Important** be careful to throw away your local copy of these collections. These are rapidly edited, and you risk overwriting later edits by holding on to them. 
+**Important** be careful to throw away your local copy of these collections. These are rapidly edited, and you risk overwriting later edits by holding on to them.
