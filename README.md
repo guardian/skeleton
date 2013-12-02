@@ -65,4 +65,4 @@ s3cmd sync s3://aws-frontend-store/PROD/frontsapi/collection ./
 ```
 (You could just upload individual files; up to you.)
 
-**Important** be careful to throw away your local copy of these collections. These are rapidly edited, and you risk overwriting later editd by holding on to them. 
+**Important** be careful to throw away your local copy of these collections. These are rapidly edited, and you risk overwriting later edits by holding on to them. 
