@@ -388,7 +388,7 @@
         "uk/sport/regular-stories": {
             "roleName": "Top stories",
             "apiQuery": "sport?tag=type/gallery|type/article|type/video|type/sudoku|type/interactive&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-            "displayName": "Sport"
+            "displayName": "Sport",
             "type": "sport"
         },
         "uk/sport/feature-stories": {
@@ -538,7 +538,7 @@
         "us/sport/regular-stories": {
             "roleName": "Top stories",
             "apiQuery": "sport?tag=type/gallery|type/article|type/video|type/sudoku|type/interactive&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
-            "displayName": "Sports"
+            "displayName": "Sports",
             "type": "sport"
         },
         "us/sport/feature-stories": {
