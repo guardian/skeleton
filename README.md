@@ -3,11 +3,6 @@ Configuration files for NextGen fronts
 
 The files in this repo (each called `config.json`) determine which fronts have which article collections on them. To mirror these to S3, do the following.
 
-Install jslint for JSON validation - a HIGHLY recommended precaution:
-```
-sudo npm install -g jslint
-```
-
 Install [s3cmd](http://s3tools.org/s3cmd) (e.g. [Ubuntu](http://s3tools.org/repositories#note-deb) install notes). You will need an AWS key and secret-key before you run this:
 ```
 s3cmd --configure
@@ -25,6 +20,11 @@ s3cmd sync --acl-public ./frontsapi/config/ s3://aws-frontend-store/DEV/frontsap
 
 Edit front pages contents
 ======================================
+Install jslint for generic JSON validation - a HIGHLY recommended precaution:
+```
+sudo npm install -g jslint
+```
+
 If the fronts tool is inaccesible or broken, you can edit the contents of fronts by modifying files stored on S3, as follows.
 
 (1) For the particular page you want to edit, first find the relevant `config.json` file - in this repo. For instance:
@@ -76,6 +76,4 @@ Finally, upload the collection files:
 ```
 s3cmd sync s3://aws-frontend-store/PROD/frontsapi/collection ./
 ```
-(You could just upload individual files; up to you.)
-
-That's it. Wait a minute or two for the fronts application to rebuild your page.
+You could just upload individual files; up to you.
