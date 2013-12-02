@@ -270,6 +270,14 @@
                 "artanddesign/photography/third-container/regular-stories",
                 "artanddesign/photography/latest-news/regular-stories"
             ]
+        },
+
+        "google-news" : {
+            "collections": [
+                "uk/google-news/editors-picks",
+                "us/google-news/editors-picks",
+                "au/google-news/editors-picks"
+            ]
         }
     },
 
@@ -845,6 +853,16 @@
             "roleName": "Latest news",
             "displayName": "Latest news",
             "apiQuery": "artanddesign/photography?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all"
+        },
+
+        "uk/google-news/editors-picks": {
+            "displayName": "UK editors picks"
+        },
+        "us/google-news/editors-picks": {
+            "displayName": "US editors picks"
+        },
+        "au/google-news/editors-picks": {
+            "displayName": "AU editors picks"
         }
     }
 }
