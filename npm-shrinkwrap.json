@@ -2,9 +2,13 @@
   "name": "skeleton",
   "version": "0.1.0",
   "dependencies": {
+    "grunt-jslint": {
+      "version": "1.1.1",
+      "from": "grunt-jslint@"
+    },
     "grunt-s3": {
       "version": "0.2.0-alpha.3",
-      "from": "grunt-s3@~0.2.0-alpha.3",
+      "from": "grunt-s3@",
       "dependencies": {
         "underscore.deferred": {
           "version": "0.1.5",
@@ -56,13 +60,9 @@
         }
       }
     },
-    "grunt-jslint": {
-      "version": "1.1.1",
-      "from": "grunt-jslint@~1.1.1"
-    },
     "grunt": {
       "version": "0.4.2",
-      "from": "grunt@~0.4.2",
+      "from": "grunt@",
       "dependencies": {
         "async": {
           "version": "0.1.22",
