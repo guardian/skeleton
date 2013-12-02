@@ -1,13 +1,3 @@
-/*
-If a collection has a displayName, and a config hasn't, copy it into the config
-
-Usage
-$ node copy-displayName-from-collection-to-config.js {config_dir} {collections_dir}
-
-e.g.
-$ node copy-displayName-from-collection-to-config.js frontsapi/config/ frontsapi/collection/
-*/
-
 var fs = require('fs'),
     config = require('./frontsapi/config/config.json'),
 
