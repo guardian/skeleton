@@ -17,7 +17,10 @@ module.exports = function (grunt) {
                 sync: [{
                     src: 'frontsapi/config/**/*.json',
                     dest: '<%= process.env.ENVIRONMENT ? process.env.ENVIRONMENT.toUpperCase() : "DEV" %>/frontsapi/config/',
-                    rel : 'frontsapi/config'
+                    rel : 'frontsapi/config',
+                    options: {
+                        verify: true
+                    }
                 }]
             }
         }
