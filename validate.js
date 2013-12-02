@@ -1,5 +1,4 @@
-var fs = require('fs'),
-    config = require('./frontsapi/config/config.json'),
+var config = require('./frontsapi/config/config.json'),
 
     frontsLen,
     collectionsLen,
