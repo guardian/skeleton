@@ -978,7 +978,6 @@
         "artanddesign/photography/latest-news/regular-stories": {
             "roleName": "Latest news",
             "displayName": "Latest news",
-<<<<<<< HEAD
             "apiQuery": "artanddesign/photography?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
             "tone": "feature"
         },
