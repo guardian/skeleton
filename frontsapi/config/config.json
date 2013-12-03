@@ -19,7 +19,7 @@
         "uk-alpha": {
             "collections": [
                 "uk/top-story/special-story",
-                "uk/news/regular-stories",
+                "uk/top-stories/regular-stories",
                 "uk/features/feature-stories",
                 "uk/special/special-story",
                 "uk/contributors/feature-stories",
@@ -298,6 +298,11 @@
             "roleName": "Top Story",
             "displayName": "",
             "groups": ["other content", "main content", "lead content"],
+            "tone": "news"
+        },
+        "uk/top-stories/regular-story": {
+            "roleName": "Top Stories",
+            "displayName": "",
             "tone": "news"
         },
         "uk/features/feature-stories": {
