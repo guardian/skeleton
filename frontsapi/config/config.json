@@ -23,8 +23,7 @@
                 "uk-alpha/features/feature-stories",
                 "uk-alpha/special/special-story",
                 "uk-alpha/contributors/feature-stories",
-                "uk-alpha/people-in-the-news/feature-stories",
-                "uk-alpha/readers-contributions/feature-stories"
+                "uk-alpha/people-in-the-news/feature-stories"
             ]
         },
 
@@ -324,11 +323,6 @@
             "roleName": "People In The News",
             "displayName": "People In The News",
             "tone": "news"
-        },
-        "uk-alpha/readers-contributions/feature-stories": {
-            "roleName": "Readers Contributions",
-            "displayName": "Readers Contributions",
-            "tone": "feature"
         },
         "uk/news/regular-stories": {
             "roleName": "Top Stories",
