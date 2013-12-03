@@ -2,9 +2,15 @@
 module.exports = function (grunt) {
     grunt.initConfig({
 
-        jslint: {
+        jshint: {
             config: {
                 src: ['frontsapi/config/**/*.json']
+            }
+        },
+
+        execute: {
+            validate: {
+                src: ['validate.js']
             }
         },
 
@@ -28,9 +34,10 @@ module.exports = function (grunt) {
     });
 
     // Load the plugins
+    grunt.loadNpmTasks('grunt-execute');
+    grunt.loadNpmTasks('grunt-contrib-jshint');
     grunt.loadNpmTasks('grunt-s3');
-    grunt.loadNpmTasks('grunt-jslint');
 
     // Tasks
-    grunt.registerTask('upload', ['jslint:config', 's3:config']);
+    grunt.registerTask('upload', ['jshint:config', 'execute:validate', 's3:config']);
 };

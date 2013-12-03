@@ -6,7 +6,8 @@ var config = require('./frontsapi/config/config.json'),
     front,
     collections,
     collection,
-    output = '';
+    output = '',
+    errOutput = '';
 
 if(config && config.fronts && config.collections) {
 
@@ -27,7 +28,7 @@ if(config && config.fronts && config.collections) {
                 if(typeof collection === 'object' && collection !== null) {
                     referencedCollections[collectionId] = true;
                 } else {
-                    output += 'ERROR : front  "' + frontId + '" refers to non-existant collection "' + collectionId + '"\n';
+                    errOutput += 'ERROR : front  "' + frontId + '" refers to non-existant collection "' + collectionId + '"\n';
                 }
             });
         } else {
@@ -42,12 +43,19 @@ if(config && config.fronts && config.collections) {
                 output += 'Info  : collection "' + collectionId + '" is not referenced by any front (possibly on purpose)\n';
             }
         } else {
-            output += 'ERROR : collection "' + collectionId + '" is malformed\n';
+            errOutput += 'ERROR : collection "' + collectionId + '" is malformed\n';
         }
     }
 
 } else {
-    output += 'ERROR : invalid config.json!';
+    errOutput += 'ERROR : invalid config.json!';
 }
 
-console.log(output || 'OK');
+console.log(output);
+console.log(errOutput || 'OK');
+
+if (errOutput) {
+    process.exit(1);
+}
+
+
