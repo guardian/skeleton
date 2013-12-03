@@ -2,13 +2,63 @@
   "name": "skeleton",
   "version": "0.1.0",
   "dependencies": {
-    "grunt-jslint": {
-      "version": "1.1.1",
-      "from": "grunt-jslint@"
+    "grunt-contrib-jshint": {
+      "version": "0.7.2",
+      "from": "grunt-contrib-jshint@~0.7.2",
+      "dependencies": {
+        "jshint": {
+          "version": "2.3.0",
+          "from": "jshint@~2.3.0",
+          "dependencies": {
+            "shelljs": {
+              "version": "0.1.4",
+              "from": "shelljs@0.1.x"
+            },
+            "underscore": {
+              "version": "1.4.4",
+              "from": "underscore@1.4.x"
+            },
+            "cli": {
+              "version": "0.4.5",
+              "from": "cli@0.4.x",
+              "dependencies": {
+                "glob": {
+                  "version": "3.2.7",
+                  "from": "glob@>= 3.1.4",
+                  "dependencies": {
+                    "inherits": {
+                      "version": "2.0.1",
+                      "from": "inherits@2"
+                    }
+                  }
+                }
+              }
+            },
+            "minimatch": {
+              "version": "0.2.12",
+              "from": "minimatch@0.x.x",
+              "dependencies": {
+                "lru-cache": {
+                  "version": "2.5.0",
+                  "from": "lru-cache@2"
+                },
+                "sigmund": {
+                  "version": "1.0.0",
+                  "from": "sigmund@~1.0.0"
+                }
+              }
+            },
+            "console-browserify": {
+              "version": "0.1.6",
+              "from": "console-browserify@0.1.x"
+            }
+          }
+        }
+      }
     },
     "grunt-s3": {
       "version": "0.2.0-alpha.3",
-      "from": "grunt-s3@",
+      "from": "grunt-s3@~0.2.0-alpha.3",
       "dependencies": {
         "underscore.deferred": {
           "version": "0.1.5",
@@ -62,7 +112,7 @@
     },
     "grunt": {
       "version": "0.4.2",
-      "from": "grunt@",
+      "from": "grunt@~0.4.2",
       "dependencies": {
         "async": {
           "version": "0.1.22",
@@ -195,6 +245,11 @@
           "from": "getobject@~0.1.0"
         }
       }
+    },
+    "grunt-execute": {
+      "version": "0.1.5",
+      "from": "grunt-execute@",
+      "resolved": "https://registry.npmjs.org/grunt-execute/-/grunt-execute-0.1.5.tgz"
     }
   }
 }
