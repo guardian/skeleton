@@ -301,7 +301,7 @@
             "tone": "news"
         },
         "uk-alpha/news/regular-stories": {
-            "roleName": "Top Stories",
+            "roleName": "News",
             "displayName": "",
             "tone": "news"
         },
