@@ -1025,13 +1025,13 @@
         },
 
         "uk/google-news/editors-picks": {
-            "displayName": "UK editors picks"
+            "displayName": "UK editors' picks"
         },
         "us/google-news/editors-picks": {
-            "displayName": "US editors picks"
+            "displayName": "US editors' picks"
         },
         "au/google-news/editors-picks": {
-            "displayName": "AU editors picks"
+            "displayName": "Australia editors' picks"
         }
     }
 }
