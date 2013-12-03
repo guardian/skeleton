@@ -2,7 +2,7 @@
 module.exports = function (grunt) {
     grunt.initConfig({
 
-        jslint: {
+        jshint: {
             config: {
                 src: ['frontsapi/config/**/*.json']
             }
@@ -29,8 +29,8 @@ module.exports = function (grunt) {
 
     // Load the plugins
     grunt.loadNpmTasks('grunt-s3');
-    grunt.loadNpmTasks('grunt-jslint');
+    grunt.loadNpmTasks('grunt-contrib-jshint');
 
     // Tasks
-    grunt.registerTask('upload', ['jslint:config', 's3:config']);
+    grunt.registerTask('upload', ['jshint:config', 's3:config']);
 };

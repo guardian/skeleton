@@ -2,7 +2,7 @@
   "name": "skeleton",
   "version": "0.1.0",
   "dependencies": {
-    "grunt-jslint": "~1.1.1",
+    "grunt-contrib-jshint": "~0.7.2",
     "grunt-s3": "~0.2.0-alpha.3",
     "grunt": "~0.4.2"
   }
