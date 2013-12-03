@@ -245,6 +245,11 @@
           "from": "getobject@~0.1.0"
         }
       }
+    },
+    "grunt-execute": {
+      "version": "0.1.5",
+      "from": "grunt-execute@",
+      "resolved": "https://registry.npmjs.org/grunt-execute/-/grunt-execute-0.1.5.tgz"
     }
   }
 }
