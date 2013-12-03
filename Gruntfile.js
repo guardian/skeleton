@@ -8,6 +8,12 @@ module.exports = function (grunt) {
             }
         },
 
+        execute: {
+            validate: {
+                src: ['validate.js']
+            }
+        },
+
         s3: {
             options: {
                 bucket: 'aws-frontend-store',
@@ -28,9 +34,10 @@ module.exports = function (grunt) {
     });
 
     // Load the plugins
-    grunt.loadNpmTasks('grunt-s3');
+    grunt.loadNpmTasks('grunt-execute');
     grunt.loadNpmTasks('grunt-contrib-jshint');
+    grunt.loadNpmTasks('grunt-s3');
 
     // Tasks
-    grunt.registerTask('upload', ['jshint:config', 's3:config']);
+    grunt.registerTask('upload', ['jshint:config', 'execute:validate', 's3:config']);
 };
