@@ -300,7 +300,7 @@
             "groups": ["other content", "main content", "lead content"],
             "tone": "news"
         },
-        "uk/top-stories/regular-story": {
+        "uk/top-stories/regular-stories": {
             "roleName": "Top Stories",
             "displayName": "",
             "tone": "news"
