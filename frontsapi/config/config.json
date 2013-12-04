@@ -23,7 +23,8 @@
                 "uk-alpha/features/feature-stories",
                 "uk-alpha/special/special-story",
                 "uk-alpha/contributors/feature-stories",
-                "uk-alpha/people-in-the-news/feature-stories"
+                "uk-alpha/people-in-the-news/feature-stories",
+                "uk-alpha/special-other/special-story"
             ]
         },
 
@@ -322,6 +323,10 @@
         "uk-alpha/people-in-the-news/feature-stories": {
             "roleName": "People in the news",
             "displayName": "People in the news",
+            "tone": "news"
+        },
+        "uk-alpha/special-other/special-story": {
+            "roleName": "Special (other)",
             "tone": "news"
         },
         "uk/news/regular-stories": {
