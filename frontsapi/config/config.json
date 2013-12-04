@@ -633,7 +633,7 @@
         },
         "us/sport/mls/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/mls?edition=US",
+            "apiQuery": "football/mls?edition=US",
             "displayName": "MLS",
             "tone": "news"
         },
