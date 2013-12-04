@@ -326,7 +326,7 @@
         },
         "uk/news/regular-stories": {
             "roleName": "Top Stories",
-            "apiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "?edition=UK",
             "displayName": "",
             "tone": "news"
         },
@@ -341,26 +341,26 @@
         },
         "uk/lifeandstyle/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "lifeandstyle?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "lifeandstyle?edition=UK",
             "displayName": "Life and style",
             "tone": "feature"
         },
         "uk/technology/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "technology?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "technology?edition=UK",
             "displayName": "Technology",
             "tone": "news"
         },
         "uk/travel/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "travel?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "travel?edition=UK",
             "displayName": "Travel",
             "tone": "feature"
         },
 
         "us/news/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "?edition=US",
             "displayName": "",
             "tone": "news"
         },
@@ -375,26 +375,26 @@
         },
         "us/lifeandstyle/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "lifeandstyle?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "lifeandstyle?edition=US",
             "displayName": "Life and style",
             "tone": "feature"
         },
         "us/technology/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "technology?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "technology?edition=US",
             "displayName": "Technology",
             "tone": "news"
         },
         "us/travel/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "travel?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "travel?edition=US",
             "displayName": "Travel",
             "tone": "feature"
         },
 
         "au/news/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "?edition=AU",
             "displayName": "",
             "tone": "news"
         },
@@ -404,7 +404,7 @@
         },
         "au/sport/australia-sport/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/australia-sport?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/australia-sport?edition=AU",
             "displayName": "Australia Sport",
             "tone": "news"
         },
@@ -415,19 +415,19 @@
         },
         "au/lifeandstyle/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "lifeandstyle?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "lifeandstyle?edition=AU",
             "displayName": "Life and style",
             "tone": "feature"
         },
         "au/technology/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "technology?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "technology?edition=AU",
             "displayName": "Technology",
             "tone": "news"
         },
         "au/travel/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "travel?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "travel?edition=AU",
             "displayName": "Travel",
             "tone": "feature"
         },
@@ -435,7 +435,7 @@
 
         "uk/sport/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "sport?tag=type/gallery|type/article|type/video|type/sudoku|type/interactive&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport?edition=UK",
             "displayName": "Sport",
             "tone": "news"
         },
@@ -446,73 +446,73 @@
         },
         "uk/football/regular-stories": {
             "roleName": "Section Stories",
-            "apiQuery": "football?tag=type/gallery|type/article|type/video|type/sudoku|type/interactive&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "football?edition=UK",
             "displayName": "Football",
             "tone": "news"
         },
         "uk/sport/cricket/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/cricket?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/cricket?edition=UK",
             "displayName": "Cricket",
             "tone": "news"
         },
         "uk/sport/rugby-union/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/rugby-union?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/rugby-union?edition=UK",
             "displayName": "Rugby union",
             "tone": "news"
         },
         "uk/sport/motorsports/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/motorsports?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/motorsports?edition=UK",
             "displayName": "Motorsports",
             "tone": "news"
         },
         "uk/sport/tennis/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/tennis?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/tennis?edition=UK",
             "displayName": "Tennis",
             "tone": "news"
         },
         "uk/sport/golf/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/golf?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/golf?edition=UK",
             "displayName": "Golf",
             "tone": "news"
         },
         "uk/sport/horse-racing/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/horse-racing?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/horse-racing?edition=UK",
             "displayName": "Horse racing",
             "tone": "news"
         },
         "uk/sport/rugbyleague/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/rugbyleague?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/rugbyleague?edition=UK",
             "displayName": "Rugby league",
             "tone": "news"
         },
         "uk/sport/us-sport/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/us-sport?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/us-sport?edition=UK",
             "displayName": "US sport",
             "tone": "news"
         },
         "uk/sport/boxing/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/boxing?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/boxing?edition=UK",
             "displayName": "Boxing",
             "tone": "news"
         },
         "uk/sport/cycling/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/cycling?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/cycling?edition=UK",
             "displayName": "Cycling",
             "tone": "news"
         },
         "uk/money/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "money?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "money?edition=UK",
             "displayName": "Money",
             "tone": "news"
         },
@@ -523,7 +523,7 @@
         },
         "uk/culture/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "culture?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "culture?edition=UK",
             "displayName": "Culture",
             "tone": "feature"
         },
@@ -534,49 +534,49 @@
         },
         "uk/film/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "film?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "film?edition=UK",
             "displayName": "Film",
             "tone": "feature"
         },
         "uk/music/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "music?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "music?edition=UK",
             "displayName": "Music",
             "tone": "feature"
         },
         "uk/tv-and-radio/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "tv-and-radio?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "tv-and-radio?edition=UK",
             "displayName": "TV and radio",
             "tone": "feature"
         },
         "uk/books/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "books?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "books?edition=UK",
             "displayName": "Books",
             "tone": "feature"
         },
         "uk/artanddesign/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "artanddesign?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "artanddesign?edition=UK",
             "displayName": "Art and design",
             "tone": "feature"
         },
         "uk/stage/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "stage?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "stage?edition=UK",
             "displayName": "Stage",
             "tone": "feature"
         },
         "uk/technology/games/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "technology/games?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "technology/games?edition=UK",
             "displayName": "Games",
             "tone": "news"
         },
         "uk/commentisfree/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "commentisfree?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "commentisfree?edition=UK",
             "displayName": "Comment is free",
             "tone": "comment"
         },
@@ -587,7 +587,7 @@
         },
         "uk/business/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "business?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=UK&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "business?edition=UK",
             "displayName": "Business",
             "tone": "news"
         },
@@ -600,7 +600,7 @@
 
         "us/sport/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "sport?tag=type/gallery|type/article|type/video|type/sudoku|type/interactive&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport?edition=US",
             "displayName": "Sports",
             "tone": "news"
         },
@@ -611,37 +611,37 @@
         },
         "us/sport/nfl/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/nfl?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/nfl?edition=US",
             "displayName": "NFL",
             "tone": "news"
         },
         "us/sport/mlb/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/mlb?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/mlb?edition=US",
             "displayName": "MLB",
             "tone": "news"
         },
         "us/sport/nba/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/nba?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/nba?edition=US",
             "displayName": "NBA",
             "tone": "news"
         },
         "us/sport/mls/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/mls?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/mls?edition=US",
             "displayName": "MLS",
             "tone": "news"
         },
         "us/sport/nhl/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/nhl?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/nhl?edition=US",
             "displayName": "NHL",
             "tone": "news"
         },
         "us/money/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "money?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "money?edition=US",
             "displayName": "Money",
             "tone": "news"
         },
@@ -652,7 +652,7 @@
         },
         "us/culture/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "culture?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "culture?edition=US",
             "displayName": "Culture",
             "tone": "feature"
         },
@@ -663,49 +663,49 @@
         },
         "us/film/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "film?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "film?edition=US",
             "displayName": "Film",
             "tone": "feature"
         },
         "us/music/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "music?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "music?edition=US",
             "displayName": "Music",
             "tone": "feature"
         },
         "us/books/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "books?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "books?edition=US",
             "displayName": "Books",
             "tone": "feature"
         },
         "us/artanddesign/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "artanddesign?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "artanddesign?edition=US",
             "displayName": "Art and design",
             "tone": "feature"
         },
         "us/stage/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "stage?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "stage?edition=US",
             "displayName": "Stage",
             "tone": "feature"
         },
         "us/technology/games/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "technology/games?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "technology/games?edition=US",
             "displayName": "Games",
             "tone": "news"
         },
         "us/tv-and-radio/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "tv-and-radio?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "tv-and-radio?edition=US",
             "displayName": "TV and radio",
             "tone": "feature"
         },
         "us/commentisfree/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "commentisfree?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "commentisfree?edition=US",
             "displayName": "Comment is free",
             "tone": "comment"
         },
@@ -716,7 +716,7 @@
         },
         "us/business/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "business?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=US&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "business?edition=US",
             "displayName": "Business",
             "tone": "news"
         },
@@ -729,7 +729,7 @@
 
         "au/sport/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "sport?tag=type/gallery|type/article|type/video|type/sudoku|type/interactive&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport?edition=AU",
             "displayName": "Sport",
             "tone": "news"
         },
@@ -740,79 +740,79 @@
         },
         "au/football/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "football?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "football?edition=AU",
             "displayName": "Football",
             "tone": "news"
         },
         "au/sport/cricket/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/cricket?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/cricket?edition=AU",
             "displayName": "Cricket",
             "tone": "news"
         },
         "au/sport/a-league/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "football/a-league?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "football/a-league?edition=AU",
             "displayName": "A-League",
             "tone": "news"
         },
         "au/sport/tennis/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/tennis?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/tennis?edition=AU",
             "displayName": "Tennis",
             "tone": "news"
         },
         "au/sport/rugbyleague/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/rugbyleague?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/rugbyleague?edition=AU",
             "displayName": "Rugby league",
             "tone": "news"
         },
         "au/sport/afl/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/afl?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/afl?edition=AU",
             "displayName": "AFL",
             "tone": "news"
         },
         "au/sport/nrl/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/nrl?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/nrl?edition=AU",
             "displayName": "NRL",
             "tone": "news"
         },
         "au/sport/golf/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/golf?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/golf?edition=AU",
             "displayName": "Golf",
             "tone": "news"
         },
         "au/sport/motorsports/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/motorsports?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/motorsports?edition=AU",
             "displayName": "Motorsports",
             "tone": "news"
         },
         "au/sport/cycling/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/cycling?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/cycling?edition=AU",
             "displayName": "Cycling",
             "tone": "news"
         },
         "au/sport/us-sport/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/us-sport?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/us-sport?edition=AU",
             "displayName": "US Sport",
             "tone": "news"
         },
         "au/sport/boxing/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/boxing?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "sport/boxing?edition=AU",
             "displayName": "Boxing",
             "tone": "news"
         },
         "au/money/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "money?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "money?edition=AU",
             "displayName": "Money",
             "tone": "news"
         },
@@ -823,7 +823,7 @@
         },
         "au/culture/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "culture?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "culture?edition=AU",
             "displayName": "Culture",
             "tone": "feature"
         },
@@ -834,31 +834,31 @@
         },
         "au/film/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "film?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "film?edition=AU",
             "displayName": "Film",
             "tone": "feature"
         },
         "au/music/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "music?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "music?edition=AU",
             "displayName": "Music",
             "tone": "feature"
         },
         "au/books/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "books?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "books?edition=AU",
             "displayName": "Books",
             "tone": "feature"
         },
         "au/technology/games/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "technology/games?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "technology/games?edition=AU",
             "displayName": "Games",
             "tone": "news"
         },
         "au/commentisfree/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "commentisfree?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "commentisfree?edition=AU",
             "displayName": "Comment is free",
             "tone": "comment"
         },
@@ -869,7 +869,7 @@
         },
         "au/business/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "business?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&edition=AU&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "business?edition=AU",
             "displayName": "Business",
             "tone": "news"
         },
@@ -894,7 +894,7 @@
         "football/latest-news/regular-stories": {
             "roleName": "Latest news",
             "displayName": "Latest news",
-            "apiQuery": "football?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "football",
             "tone": "news"
         },
         "technology/first-container/regular-stories": {
@@ -912,7 +912,7 @@
         "technology/latest-news/regular-stories": {
             "roleName": "Latest news",
             "displayName": "Latest news",
-            "apiQuery": "technology?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "technology",
             "tone": "news"
         },
         "travel/first-container/regular-stories": {
@@ -930,7 +930,7 @@
         "travel/latest-news/regular-stories": {
             "roleName": "Latest news",
             "displayName": "Latest news",
-            "apiQuery": "travel?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "travel",
             "tone": "features"
         },
         "film/first-container/regular-stories": {
@@ -948,7 +948,7 @@
         "film/latest-news/regular-stories": {
             "roleName": "Latest news",
             "displayName": "Latest news",
-            "apiQuery": "film?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "film",
             "tone": "feature"
         },
         "world/nsa/first-container/regular-stories": {
@@ -966,7 +966,7 @@
         "world/nsa/latest-news/regular-stories": {
             "roleName": "Latest news",
             "displayName": "Latest news",
-            "apiQuery": "world/nsa?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "world/nsa",
             "tone": "news"
         },
         "world/edward-snowden/first-container/regular-stories": {
@@ -984,7 +984,7 @@
         "world/edward-snowden/latest-news/regular-stories": {
             "roleName": "Latest news",
             "displayName": "Latest news",
-            "apiQuery": "world/edward-snowden?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "world/edward-snowden",
             "tone": "news"
         },
         "football/arsenal/first-container/regular-stories": {
@@ -1002,7 +1002,7 @@
         "football/arsenal/latest-news/regular-stories": {
             "roleName": "Latest news",
             "displayName": "Latest news",
-            "apiQuery": "football/arsenal?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "football/arsenal",
             "tone": "news"
         },
         "artanddesign/photography/first-container/regular-stories": {
@@ -1020,7 +1020,7 @@
         "artanddesign/photography/latest-news/regular-stories": {
             "roleName": "Latest news",
             "displayName": "Latest news",
-            "apiQuery": "artanddesign/photography?tag=type/gallery|type/article|type/video|type/sudoku&show-editors-picks=true&show-fields=headline,trail-text,liveBloggingNow,thumbnail,hasStoryPackage,wordcount,shortUrl&show-elements=all",
+            "apiQuery": "artanddesign/photography",
             "tone": "feature"
         },
 
