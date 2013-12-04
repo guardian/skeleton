@@ -5,7 +5,7 @@
                 "uk/news/regular-stories",
                 "uk/news/special-story",
                 "uk/sport/regular-stories",
-                "uk/news/feature-stories",
+                "uk/tone/features/feature-stories",
                 "uk/commentisfree/regular-stories",
                 "uk/culture/regular-stories",
                 "uk/business/regular-stories",
@@ -18,7 +18,6 @@
 
         "uk-alpha": {
             "collections": [
-                "uk-alpha/top-story/special-story",
                 "uk-alpha/news/regular-stories",
                 "uk-alpha/features/feature-stories",
                 "uk-alpha/special/special-story",
@@ -33,7 +32,7 @@
                 "us/news/regular-stories",
                 "us/news/special-story",
                 "us/sport/regular-stories",
-                "us/news/feature-stories",
+                "us/tone/features/feature-stories",
                 "us/commentisfree/regular-stories",
                 "us/culture/regular-stories",
                 "us/business/regular-stories",
@@ -50,7 +49,7 @@
                 "au/news/special-story",
                 "au/sport/australia-sport/regular-stories",
                 "au/sport/regular-stories",
-                "au/news/feature-stories",
+                "au/tone/features/feature-stories",
                 "au/commentisfree/regular-stories",
                 "au/culture/regular-stories",
                 "au/business/regular-stories",
