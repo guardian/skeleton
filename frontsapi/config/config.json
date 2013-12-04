@@ -338,7 +338,7 @@
             "roleName": "Special Story",
             "tone": "news"
         },
-        "uk/news/feature-stories": {
+        "uk/tone/features/feature-stories": {
             "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
@@ -372,7 +372,7 @@
             "roleName": "Special Story",
             "tone": "news"
         },
-        "us/news/feature-stories": {
+        "us/tone/features/feature-stories": {
             "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
@@ -412,7 +412,7 @@
             "displayName": "Australia Sport",
             "tone": "news"
         },
-        "au/news/feature-stories": {
+        "au/tone/features/feature-stories": {
             "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
