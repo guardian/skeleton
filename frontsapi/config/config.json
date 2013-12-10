@@ -331,8 +331,8 @@
             "tone": "news"
         },
         "uk-alpha/contributors/feature-stories": {
-            "roleName": "Contributors",
-            "displayName": "Contributors",
+            "roleName": "Comment and debate",
+            "displayName": "Comment and debate",
             "tone": "comment"
         },
         "uk-alpha/people-in-the-news/feature-stories": {
