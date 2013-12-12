@@ -336,8 +336,8 @@
             "tone": "comment"
         },
         "uk-alpha/people-in-the-news/feature-stories": {
-            "roleName": "People in the news",
-            "displayName": "People in the news",
+            "roleName": "People",
+            "displayName": "People",
             "tone": "news"
         },
         "uk-alpha/special-other/special-story": {
