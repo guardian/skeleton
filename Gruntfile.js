@@ -3,6 +3,8 @@ module.exports = function (grunt) {
 
     grunt.initConfig({
 
+        s3cfg: grunt.file.read(process.env.HOME + '/.s3cfg'),
+
         jshint: {
             config: {
                 src: ['frontsapi/config/**/*.json']
@@ -17,6 +19,8 @@ module.exports = function (grunt) {
 
         s3: {
             options: {
+                key: '<% return /access_key\\s*=\\s*([^\\s]*)/.exec(s3cfg)[1] %>',
+                secret: '<% return /secret_key\\s*=\\s*([^\\s]*)/.exec(s3cfg)[1] %>',
                 bucket: 'aws-frontend-store',
                 access: 'public-read'
             },

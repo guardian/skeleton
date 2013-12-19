@@ -25,7 +25,7 @@ To a specific env
 
     $ ENVIRONMENT=code grunt upload
 
-Requires env variables `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY`
+To upload to S3, it will look for `access_key` and `secret_key` in your `~/.s3cfg` file. See [here](http://s3tools.org/s3cmd) for creating one.
 
 Edit front pages contents
 ======================================
