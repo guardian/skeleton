@@ -19,9 +19,11 @@
         "uk-alpha": {
             "collections": [
                 "uk-alpha/news/regular-stories",
+                "uk-alpha/special-1/special-story",
                 "uk-alpha/features/feature-stories",
                 "uk-alpha/special/special-story",
                 "uk-alpha/contributors/feature-stories",
+                "uk-alpha/special-2/special-story",
                 "uk-alpha/people-in-the-news/feature-stories",
                 "uk-alpha/special-other/special-story"
             ]
@@ -46,9 +48,11 @@
         "us-alpha": {
             "collections": [
                 "us-alpha/news/regular-stories",
+                "us-alpha/special-1/special-story",
                 "us-alpha/features/feature-stories",
                 "us-alpha/special/special-story",
                 "us-alpha/contributors/feature-stories",
+                "us-alpha/special-2/special-story",
                 "us-alpha/people-in-the-news/feature-stories",
                 "us-alpha/special-other/special-story"
             ]
@@ -74,9 +78,11 @@
         "au-alpha": {
             "collections": [
                 "au-alpha/news/regular-stories",
+                "au-alpha/special-1/special-story",
                 "au-alpha/features/feature-stories",
                 "au-alpha/special/special-story",
                 "au-alpha/contributors/feature-stories",
+                "au-alpha/special-2/special-story",
                 "au-alpha/people-in-the-news/feature-stories",
                 "au-alpha/special-other/special-story"
             ]
@@ -321,6 +327,11 @@
             "groups": ["other content", "main content", "lead content"],
             "tone": "news"
         },
+        "uk-alpha/special-1/special-story": {
+            "roleName": "Special",
+            "groups": ["other content", "main content", "lead content"],
+            "tone": "news"
+        },
         "uk-alpha/features/feature-stories": {
             "roleName": "Features",
             "displayName": "Features",
@@ -336,18 +347,28 @@
             "displayName": "Comment and debate",
             "tone": "comment"
         },
+        "uk-alpha/special-2/special-story": {
+            "roleName": "Special",
+            "groups": ["other content", "main content", "lead content"],
+            "tone": "news"
+        },
         "uk-alpha/people-in-the-news/feature-stories": {
             "roleName": "People",
             "displayName": "People",
             "tone": "news"
         },
         "uk-alpha/special-other/special-story": {
-            "roleName": "Special (other)",
+            "roleName": "Special",
             "tone": "news"
         },
         "us-alpha/news/regular-stories": {
             "roleName": "News",
             "displayName": "",
+            "tone": "news"
+        },
+        "us-alpha/special-1/special-story": {
+            "roleName": "Special",
+            "groups": ["other content", "main content", "lead content"],
             "tone": "news"
         },
         "us-alpha/features/feature-stories": {
@@ -365,18 +386,28 @@
             "displayName": "On the issues",
             "tone": "comment"
         },
+        "us-alpha/special-2/special-story": {
+            "roleName": "Special",
+            "groups": ["other content", "main content", "lead content"],
+            "tone": "news"
+        },
         "us-alpha/people-in-the-news/feature-stories": {
             "roleName": "People in the news",
             "displayName": "People in the news",
             "tone": "news"
         },
         "us-alpha/special-other/special-story": {
-            "roleName": "Special (other)",
+            "roleName": "Special",
             "tone": "news"
         },
         "au-alpha/news/regular-stories": {
             "roleName": "News",
             "displayName": "",
+            "tone": "news"
+        },
+        "au-alpha/special-1/special-story": {
+            "roleName": "Special",
+            "groups": ["other content", "main content", "lead content"],
             "tone": "news"
         },
         "au-alpha/features/feature-stories": {
@@ -394,13 +425,18 @@
             "displayName": "Contributors",
             "tone": "comment"
         },
+        "au-alpha/special-2/special-story": {
+            "roleName": "Special",
+            "groups": ["other content", "main content", "lead content"],
+            "tone": "news"
+        },
         "au-alpha/people-in-the-news/feature-stories": {
             "roleName": "People in the news",
             "displayName": "People in the news",
             "tone": "news"
         },
         "au-alpha/special-other/special-story": {
-            "roleName": "Special (other)",
+            "roleName": "Special",
             "tone": "news"
         },
 
