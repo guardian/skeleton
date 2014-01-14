@@ -12,7 +12,8 @@
                 "uk/lifeandstyle/regular-stories",
                 "uk/technology/regular-stories",
                 "uk/money/regular-stories",
-                "uk/travel/regular-stories"
+                "uk/travel/regular-stories",
+                "uk/most-viewed/regular-stories"
             ]
         },
 
@@ -21,6 +22,7 @@
                 "uk-alpha/news/regular-stories",
                 "uk-alpha/special-1/special-story",
                 "uk-alpha/features/feature-stories",
+                "uk/most-viewed/regular-stories",
                 "uk-alpha/special/special-story",
                 "uk-alpha/contributors/feature-stories",
                 "uk-alpha/special-2/special-story",
@@ -41,7 +43,8 @@
                 "us/lifeandstyle/regular-stories",
                 "us/technology/regular-stories",
                 "us/money/regular-stories",
-                "us/travel/regular-stories"
+                "us/travel/regular-stories",
+                "us/most-viewed/regular-stories"
             ]
         },
 
@@ -50,6 +53,7 @@
                 "us-alpha/news/regular-stories",
                 "us-alpha/special-1/special-story",
                 "us-alpha/features/feature-stories",
+                "us/most-viewed/regular-stories",
                 "us-alpha/special/special-story",
                 "us-alpha/contributors/feature-stories",
                 "us-alpha/special-2/special-story",
@@ -71,7 +75,8 @@
                 "au/lifeandstyle/regular-stories",
                 "au/technology/regular-stories",
                 "au/money/regular-stories",
-                "au/travel/regular-stories"
+                "au/travel/regular-stories",
+                "au/most-viewed/regular-stories"
             ]
         },
 
@@ -84,7 +89,8 @@
                 "au-alpha/contributors/feature-stories",
                 "au-alpha/special-2/special-story",
                 "au-alpha/people-in-the-news/feature-stories",
-                "au-alpha/special-other/special-story"
+                "au-alpha/special-other/special-story",
+                "au/most-viewed/regular-stories"
             ]
         },
 
@@ -102,14 +108,16 @@
                 "uk/sport/rugbyleague/regular-stories",
                 "uk/sport/us-sport/regular-stories",
                 "uk/sport/boxing/regular-stories",
-                "uk/sport/cycling/regular-stories"
+                "uk/sport/cycling/regular-stories",
+                "uk/sport/most-viewed/regular-stories"
             ]
         },
 
         "uk/money" : {
             "collections": [
                 "uk/money/regular-stories",
-                "uk/money/feature-stories"
+                "uk/money/feature-stories",
+                "uk/money/most-viewed/regular-stories"
             ]
         },
 
@@ -123,21 +131,24 @@
                 "uk/books/regular-stories",
                 "uk/artanddesign/regular-stories",
                 "uk/stage/regular-stories",
-                "uk/technology/games/regular-stories"
+                "uk/technology/games/regular-stories",
+                "uk/culture/most-viewed/regular-stories"
             ]
         },
 
         "uk/commentisfree" : {
             "collections": [
                 "uk/commentisfree/regular-stories",
-                "uk/commentisfree/feature-stories"
+                "uk/commentisfree/feature-stories",
+                "uk/commentisfree/most-viewed/regular-stories"
             ]
         },
 
         "uk/business" : {
             "collections": [
                 "uk/business/regular-stories",
-                "uk/business/feature-stories"
+                "uk/business/feature-stories",
+                "uk/business/most-viewed/regular-stories"
             ]
         },
 
@@ -149,14 +160,16 @@
                 "us/sport/mlb/regular-stories",
                 "us/sport/nba/regular-stories",
                 "us/sport/mls/regular-stories",
-                "us/sport/nhl/regular-stories"
+                "us/sport/nhl/regular-stories",
+                "us/sport/most-viewed/regular-stories"
             ]
         },
 
         "us/money" : {
             "collections": [
                 "us/money/regular-stories",
-                "us/money/feature-stories"
+                "us/money/feature-stories",
+                "us/money/most-viewed/regular-stories"
             ]
         },
 
@@ -170,21 +183,24 @@
                 "us/artanddesign/regular-stories",
                 "us/stage/regular-stories",
                 "us/technology/games/regular-stories",
-                "us/tv-and-radio/regular-stories"
+                "us/tv-and-radio/regular-stories",
+                "us/culture/most-viewed/regular-stories"
             ]
         },
 
         "us/commentisfree" : {
             "collections": [
                 "us/commentisfree/regular-stories",
-                "us/commentisfree/feature-stories"
+                "us/commentisfree/feature-stories",
+                "us/commentisfree/most-viewed/regular-stories"
             ]
         },
 
         "us/business" : {
             "collections": [
                 "us/business/regular-stories",
-                "us/business/feature-stories"
+                "us/business/feature-stories",
+                "us/business/most-viewed/regular-stories"
             ]
         },
 
@@ -203,14 +219,16 @@
                 "au/sport/motorsports/regular-stories",
                 "au/sport/cycling/regular-stories",
                 "au/sport/us-sport/regular-stories",
-                "au/sport/boxing/regular-stories"
+                "au/sport/boxing/regular-stories",
+                "au/sport/most-viewed/regular-stories"
             ]
         },
 
         "au/money" : {
             "collections": [
                 "au/money/regular-stories",
-                "au/money/feature-stories"
+                "au/money/feature-stories",
+                "au/money/most-viewed/regular-stories"
             ]
         },
 
@@ -221,21 +239,24 @@
                 "au/film/regular-stories",
                 "au/music/regular-stories",
                 "au/books/regular-stories",
-                "au/technology/games/regular-stories"
+                "au/technology/games/regular-stories",
+                "au/culture/most-viewed/regular-stories"
             ]
         },
 
         "au/commentisfree" : {
             "collections": [
                 "au/commentisfree/regular-stories",
-                "au/commentisfree/feature-stories"
+                "au/commentisfree/feature-stories",
+                "au/commentisfree/most-viewed/regular-stories"
             ]
         },
 
         "au/business" : {
             "collections": [
                 "au/business/regular-stories",
-                "au/business/feature-stories"
+                "au/business/feature-stories",
+                "au/business/most-viewed/regular-stories"
             ]
         },
 
@@ -244,7 +265,8 @@
                 "football/first-container/regular-stories",
                 "football/second-container/regular-stories",
                 "football/third-container/regular-stories",
-                "football/latest-news/regular-stories"
+                "football/latest-news/regular-stories",
+                "football/most-viewed/regular-stories"
             ]
         },
 
@@ -253,7 +275,8 @@
                 "technology/first-container/regular-stories",
                 "technology/second-container/regular-stories",
                 "technology/third-container/regular-stories",
-                "technology/latest-news/regular-stories"
+                "technology/latest-news/regular-stories",
+                "technology/most-viewed/regular-stories"
             ]
         },
 
@@ -262,7 +285,8 @@
                 "travel/first-container/regular-stories",
                 "travel/second-container/regular-stories",
                 "travel/third-container/regular-stories",
-                "travel/latest-news/regular-stories"
+                "travel/latest-news/regular-stories",
+                "travel/most-viewed/regular-stories"
             ]
         },
 
@@ -271,7 +295,8 @@
                 "film/first-container/regular-stories",
                 "film/second-container/regular-stories",
                 "film/third-container/regular-stories",
-                "film/latest-news/regular-stories"
+                "film/latest-news/regular-stories",
+                "film/most-viewed/regular-stories"
             ]
         },
 
@@ -280,7 +305,8 @@
                 "world/nsa/first-container/regular-stories",
                 "world/nsa/second-container/regular-stories",
                 "world/nsa/third-container/regular-stories",
-                "world/nsa/latest-news/regular-stories"
+                "world/nsa/latest-news/regular-stories",
+                "world/nsa/most-viewed/regular-stories"
             ]
         },
 
@@ -289,7 +315,8 @@
                 "world/edward-snowden/first-container/regular-stories",
                 "world/edward-snowden/second-container/regular-stories",
                 "world/edward-snowden/third-container/regular-stories",
-                "world/edward-snowden/latest-news/regular-stories"
+                "world/edward-snowden/latest-news/regular-stories",
+                "world/edward-snowden/most-viewed/regular-stories"
             ]
         },
 
@@ -298,7 +325,8 @@
                 "football/arsenal/first-container/regular-stories",
                 "football/arsenal/second-container/regular-stories",
                 "football/arsenal/third-container/regular-stories",
-                "football/arsenal/latest-news/regular-stories"
+                "football/arsenal/latest-news/regular-stories",
+                "football/arsenal/most-viewed/regular-stories"
             ]
         },
 
@@ -307,7 +335,8 @@
                 "artanddesign/photography/first-container/regular-stories",
                 "artanddesign/photography/second-container/regular-stories",
                 "artanddesign/photography/third-container/regular-stories",
-                "artanddesign/photography/latest-news/regular-stories"
+                "artanddesign/photography/latest-news/regular-stories",
+                "artanddesign/photography/most-viewed/regular-stories"
             ]
         },
 
@@ -479,6 +508,13 @@
             "tone": "feature",
             "href": "travel"
         },
+        "uk/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "uk?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
+        },
 
         "us/news/regular-stories": {
             "roleName": "Top stories",
@@ -517,6 +553,13 @@
             "displayName": "Travel",
             "tone": "feature",
             "href": "travel"
+        },
+        "us/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "us?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
 
         "au/news/regular-stories": {
@@ -563,6 +606,13 @@
             "displayName": "Travel",
             "tone": "feature",
             "href": "travel"
+        },
+        "au/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "au?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
 
 
@@ -655,6 +705,13 @@
             "tone": "news",
             "href": "sport/cycling"
         },
+        "uk/sport/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "uk/sport?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
+        },
         "uk/money/regular-stories": {
             "roleName": "Top stories",
             "apiQuery": "money?edition=UK",
@@ -666,6 +723,13 @@
             "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
+        },
+        "uk/money/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "uk/money?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "uk/culture/regular-stories": {
             "roleName": "Top stories",
@@ -728,6 +792,13 @@
             "tone": "news",
             "href": "technology/games"
         },
+        "uk/culture/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "uk/culture?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
+        },
         "uk/commentisfree/regular-stories": {
             "roleName": "Top stories",
             "apiQuery": "commentisfree?edition=UK",
@@ -740,6 +811,13 @@
             "displayName": "Features",
             "tone": "feature"
         },
+        "uk/commentisfree/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "uk/commentisfree?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
+        },
         "uk/business/regular-stories": {
             "roleName": "Top stories",
             "apiQuery": "business?edition=UK",
@@ -751,6 +829,13 @@
             "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
+        },
+        "uk/business/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "uk/business?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
 
 
@@ -801,6 +886,13 @@
             "tone": "news",
             "href": "sport/nhl"
         },
+        "us/sport/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "us/sport?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
+        },
         "us/money/regular-stories": {
             "roleName": "Top stories",
             "apiQuery": "money?edition=US",
@@ -812,6 +904,13 @@
             "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
+        },
+        "us/money/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "us/money?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "us/culture/regular-stories": {
             "roleName": "Top stories",
@@ -874,6 +973,13 @@
             "tone": "feature",
             "href": "tv-and-radio"
         },
+        "us/culture/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "us/culture?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
+        },
         "us/commentisfree/regular-stories": {
             "roleName": "Top stories",
             "apiQuery": "commentisfree?edition=US",
@@ -886,6 +992,13 @@
             "displayName": "Features",
             "tone": "feature"
         },
+        "us/commentisfree/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "us/commentisfree?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
+        },
         "us/business/regular-stories": {
             "roleName": "Top stories",
             "apiQuery": "business?edition=US",
@@ -897,6 +1010,13 @@
             "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
+        },
+        "us/business/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "us/business?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
 
 
@@ -996,6 +1116,13 @@
             "tone": "news",
             "href": "sport/boxing"
         },
+        "au/sport/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "au/sport?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
+        },
         "au/money/regular-stories": {
             "roleName": "Top stories",
             "apiQuery": "money?edition=AU",
@@ -1007,6 +1134,13 @@
             "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
+        },
+        "au/money/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "au/money?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "au/culture/regular-stories": {
             "roleName": "Top stories",
@@ -1048,6 +1182,13 @@
             "tone": "news",
             "href": "technology/games"
         },
+        "au/culture/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "au/culture?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
+        },
         "au/commentisfree/regular-stories": {
             "roleName": "Top stories",
             "apiQuery": "commentisfree?edition=AU",
@@ -1060,6 +1201,13 @@
             "displayName": "Features",
             "tone": "feature"
         },
+        "au/commentisfree/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "au/commentisfree?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
+        },
         "au/business/regular-stories": {
             "roleName": "Top stories",
             "apiQuery": "business?edition=AU",
@@ -1071,6 +1219,13 @@
             "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
+        },
+        "au/business/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "au/business?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
 
         "football/first-container/regular-stories": {
@@ -1091,6 +1246,13 @@
             "apiQuery": "football",
             "tone": "news"
         },
+        "football/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "football?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
+        },
         "technology/first-container/regular-stories": {
             "roleName": "First container",
             "tone": "news"
@@ -1108,6 +1270,13 @@
             "displayName": "Latest news",
             "apiQuery": "technology",
             "tone": "news"
+        },
+        "technology/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "technology?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "travel/first-container/regular-stories": {
             "roleName": "First container",
@@ -1127,6 +1296,13 @@
             "apiQuery": "travel",
             "tone": "features"
         },
+        "travel/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "travel?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
+        },
         "film/first-container/regular-stories": {
             "roleName": "First container",
             "tone": "news"
@@ -1144,6 +1320,13 @@
             "displayName": "Latest news",
             "apiQuery": "film",
             "tone": "feature"
+        },
+        "film/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "film?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "world/nsa/first-container/regular-stories": {
             "roleName": "First container",
@@ -1163,6 +1346,13 @@
             "apiQuery": "world/nsa",
             "tone": "news"
         },
+        "world/nsa/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "world/nsa?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
+        },
         "world/edward-snowden/first-container/regular-stories": {
             "roleName": "First container",
             "tone": "news"
@@ -1180,6 +1370,13 @@
             "displayName": "Latest news",
             "apiQuery": "world/edward-snowden",
             "tone": "news"
+        },
+        "world/edward-snowden/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "world/edward-snowden?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "football/arsenal/first-container/regular-stories": {
             "roleName": "First container",
@@ -1199,6 +1396,13 @@
             "apiQuery": "football/arsenal",
             "tone": "news"
         },
+        "football/arsenal/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "football/arsenal?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
+        },
         "artanddesign/photography/first-container/regular-stories": {
             "roleName": "First container",
             "tone": "news"
@@ -1216,6 +1420,13 @@
             "displayName": "Latest news",
             "apiQuery": "artanddesign/photography",
             "tone": "feature"
+        },
+        "artanddesign/photography/most-viewed/regular-stories": {
+            "roleName": "Most viewed",
+            "displayName": "Most popular",
+            "tone": "news",
+            "uneditable": true,
+            "apiQuery": "artanddesign/photography?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
 
         "uk/google-news/editors-picks": {
