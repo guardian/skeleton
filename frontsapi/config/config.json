@@ -368,7 +368,7 @@
         },
         "uk-alpha/special/special-story": {
             "roleName": "Special",
-            "groups": ["other content", "main content", "lead content"],
+            "groups": ["lead content", "main content", "other content"],
             "tone": "news"
         },
         "uk-alpha/contributors/feature-stories": {
@@ -407,7 +407,7 @@
         },
         "us-alpha/special/special-story": {
             "roleName": "Special",
-            "groups": ["other content", "main content", "lead content"],
+            "groups": ["lead content", "main content", "other content"],
             "tone": "news"
         },
         "us-alpha/contributors/feature-stories": {
@@ -446,7 +446,7 @@
         },
         "au-alpha/special/special-story": {
             "roleName": "Special",
-            "groups": ["other content", "main content", "lead content"],
+            "groups": ["lead content", "main content", "other content"],
             "tone": "news"
         },
         "au-alpha/contributors/feature-stories": {
