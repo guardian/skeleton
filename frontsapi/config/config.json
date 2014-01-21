@@ -472,7 +472,7 @@
 
         "uk/news/regular-stories": {
             "roleName": "Top Stories",
-            "apiQuery": "?edition=UK",
+            "apiQuery": "?edition=uk",
             "displayName": "",
             "tone": "news",
             "href": ""
@@ -489,21 +489,21 @@
         },
         "uk/lifeandstyle/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "lifeandstyle?edition=UK",
+            "apiQuery": "lifeandstyle?edition=uk",
             "displayName": "Life and style",
             "tone": "feature",
             "href": "lifeandstyle"
         },
         "uk/technology/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "technology?edition=UK",
+            "apiQuery": "technology?edition=uk",
             "displayName": "Technology",
             "tone": "news",
             "href": "technology"
         },
         "uk/travel/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "travel?edition=UK",
+            "apiQuery": "travel?edition=uk",
             "displayName": "Travel",
             "tone": "feature",
             "href": "travel"
@@ -518,7 +518,7 @@
 
         "us/news/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "?edition=US",
+            "apiQuery": "?edition=us",
             "displayName": "",
             "tone": "news",
             "href": ""
@@ -535,21 +535,21 @@
         },
         "us/lifeandstyle/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "lifeandstyle?edition=US",
+            "apiQuery": "lifeandstyle?edition=us",
             "displayName": "Life and style",
             "tone": "feature",
             "href": "lifeandstyle"
         },
         "us/technology/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "technology?edition=US",
+            "apiQuery": "technology?edition=us",
             "displayName": "Technology",
             "tone": "news",
             "href": "technology"
         },
         "us/travel/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "travel?edition=US",
+            "apiQuery": "travel?edition=us",
             "displayName": "Travel",
             "tone": "feature",
             "href": "travel"
@@ -564,7 +564,7 @@
 
         "au/news/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "?edition=AU",
+            "apiQuery": "?edition=au",
             "displayName": "",
             "tone": "news",
             "href": ""
@@ -575,7 +575,7 @@
         },
         "au/sport/australia-sport/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/australia-sport?edition=AU",
+            "apiQuery": "sport/australia-sport?edition=au",
             "displayName": "Australia Sport",
             "tone": "news",
             "href": "sport/australia-sport"
@@ -588,21 +588,21 @@
         },
         "au/lifeandstyle/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "lifeandstyle?edition=AU",
+            "apiQuery": "lifeandstyle?edition=au",
             "displayName": "Life and style",
             "tone": "feature",
             "href": "lifeandstyle"
         },
         "au/technology/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "technology?edition=AU",
+            "apiQuery": "technology?edition=au",
             "displayName": "Technology",
             "tone": "news",
             "href": "technology"
         },
         "au/travel/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "travel?edition=AU",
+            "apiQuery": "travel?edition=au",
             "displayName": "Travel",
             "tone": "feature",
             "href": "travel"
@@ -618,7 +618,7 @@
 
         "uk/sport/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "sport?edition=UK",
+            "apiQuery": "sport?edition=uk",
             "displayName": "Sport",
             "tone": "news",
             "href": "sport"
@@ -630,77 +630,77 @@
         },
         "uk/football/regular-stories": {
             "roleName": "Section Stories",
-            "apiQuery": "football?edition=UK",
+            "apiQuery": "football?edition=uk",
             "displayName": "Football",
             "tone": "news",
             "href": "football"
         },
         "uk/sport/cricket/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/cricket?edition=UK",
+            "apiQuery": "sport/cricket?edition=uk",
             "displayName": "Cricket",
             "tone": "news",
             "href": "sport/cricket"
         },
         "uk/sport/rugby-union/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/rugby-union?edition=UK",
+            "apiQuery": "sport/rugby-union?edition=uk",
             "displayName": "Rugby union",
             "tone": "news",
             "href": "sport/rugby-union"
         },
         "uk/sport/motorsports/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/motorsports?edition=UK",
+            "apiQuery": "sport/motorsports?edition=uk",
             "displayName": "Motorsports",
             "tone": "news",
             "href": "sport/motorsports"
         },
         "uk/sport/tennis/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/tennis?edition=UK",
+            "apiQuery": "sport/tennis?edition=uk",
             "displayName": "Tennis",
             "tone": "news",
             "href": "sport/tennis"
         },
         "uk/sport/golf/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/golf?edition=UK",
+            "apiQuery": "sport/golf?edition=uk",
             "displayName": "Golf",
             "tone": "news",
             "href": "sport/golf"
         },
         "uk/sport/horse-racing/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/horse-racing?edition=UK",
+            "apiQuery": "sport/horse-racing?edition=uk",
             "displayName": "Horse racing",
             "tone": "news",
             "href": "sport/horse-racing"
         },
         "uk/sport/rugbyleague/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/rugbyleague?edition=UK",
+            "apiQuery": "sport/rugbyleague?edition=uk",
             "displayName": "Rugby league",
             "tone": "news",
             "href": "sport/rugbyleague"
         },
         "uk/sport/us-sport/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/us-sport?edition=UK",
+            "apiQuery": "sport/us-sport?edition=uk",
             "displayName": "US sport",
             "tone": "news",
             "href": "sport/us-sport"
         },
         "uk/sport/boxing/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/boxing?edition=UK",
+            "apiQuery": "sport/boxing?edition=uk",
             "displayName": "Boxing",
             "tone": "news",
             "href": "sport/boxing"
         },
         "uk/sport/cycling/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/cycling?edition=UK",
+            "apiQuery": "sport/cycling?edition=uk",
             "displayName": "Cycling",
             "tone": "news",
             "href": "sport/cycling"
@@ -714,7 +714,7 @@
         },
         "uk/money/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "money?edition=UK",
+            "apiQuery": "money?edition=uk",
             "displayName": "Money",
             "tone": "news",
             "href": "money"
@@ -733,7 +733,7 @@
         },
         "uk/culture/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "culture?edition=UK",
+            "apiQuery": "culture?edition=uk",
             "displayName": "Culture",
             "tone": "feature",
             "href": "culture"
@@ -745,49 +745,49 @@
         },
         "uk/film/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "film?edition=UK",
+            "apiQuery": "film?edition=uk",
             "displayName": "Film",
             "tone": "feature",
             "href": "film"
         },
         "uk/music/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "music?edition=UK",
+            "apiQuery": "music?edition=uk",
             "displayName": "Music",
             "tone": "feature",
             "href": "music"
         },
         "uk/tv-and-radio/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "tv-and-radio?edition=UK",
+            "apiQuery": "tv-and-radio?edition=uk",
             "displayName": "TV and radio",
             "tone": "feature",
             "href": "tv-and-radio"
         },
         "uk/books/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "books?edition=UK",
+            "apiQuery": "books?edition=uk",
             "displayName": "Books",
             "tone": "feature",
             "href": "books"
         },
         "uk/artanddesign/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "artanddesign?edition=UK",
+            "apiQuery": "artanddesign?edition=uk",
             "displayName": "Art and design",
             "tone": "feature",
             "href": "artanddesign"
         },
         "uk/stage/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "stage?edition=UK",
+            "apiQuery": "stage?edition=uk",
             "displayName": "Stage",
             "tone": "feature",
             "href": "stage"
         },
         "uk/technology/games/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "technology/games?edition=UK",
+            "apiQuery": "technology/games?edition=uk",
             "displayName": "Games",
             "tone": "news",
             "href": "technology/games"
@@ -801,7 +801,7 @@
         },
         "uk/commentisfree/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "commentisfree?edition=UK",
+            "apiQuery": "commentisfree?edition=uk",
             "displayName": "Comment is free",
             "tone": "comment",
             "href": "commentisfree"
@@ -820,7 +820,7 @@
         },
         "uk/business/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "business?edition=UK",
+            "apiQuery": "business?edition=uk",
             "displayName": "Business",
             "tone": "news",
             "href": "business"
@@ -841,7 +841,7 @@
 
         "us/sport/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "sport?edition=US",
+            "apiQuery": "sport?edition=us",
             "displayName": "Sports",
             "tone": "news",
             "href": "sport"
@@ -853,35 +853,35 @@
         },
         "us/sport/nfl/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/nfl?edition=US",
+            "apiQuery": "sport/nfl?edition=us",
             "displayName": "NFL",
             "tone": "news",
             "href": "sport/nfl"
         },
         "us/sport/mlb/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/mlb?edition=US",
+            "apiQuery": "sport/mlb?edition=us",
             "displayName": "MLB",
             "tone": "news",
             "href": "sport/mlb"
         },
         "us/sport/nba/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/nba?edition=US",
+            "apiQuery": "sport/nba?edition=us",
             "displayName": "NBA",
             "tone": "news",
             "href": "sport/nba"
         },
         "us/sport/mls/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "football/mls?edition=US",
+            "apiQuery": "football/mls?edition=us",
             "displayName": "MLS",
             "tone": "news",
             "href": "sport/mls"
         },
         "us/sport/nhl/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/nhl?edition=US",
+            "apiQuery": "sport/nhl?edition=us",
             "displayName": "NHL",
             "tone": "news",
             "href": "sport/nhl"
@@ -895,7 +895,7 @@
         },
         "us/money/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "money?edition=US",
+            "apiQuery": "money?edition=us",
             "displayName": "Money",
             "tone": "news",
             "href": "money"
@@ -914,7 +914,7 @@
         },
         "us/culture/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "culture?edition=US",
+            "apiQuery": "culture?edition=us",
             "displayName": "Culture",
             "tone": "feature",
             "href": "culture"
@@ -926,49 +926,49 @@
         },
         "us/film/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "film?edition=US",
+            "apiQuery": "film?edition=us",
             "displayName": "Film",
             "tone": "feature",
             "href": "film"
         },
         "us/music/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "music?edition=US",
+            "apiQuery": "music?edition=us",
             "displayName": "Music",
             "tone": "feature",
             "href": "music"
         },
         "us/books/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "books?edition=US",
+            "apiQuery": "books?edition=us",
             "displayName": "Books",
             "tone": "feature",
             "href": "books"
         },
         "us/artanddesign/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "artanddesign?edition=US",
+            "apiQuery": "artanddesign?edition=us",
             "displayName": "Art and design",
             "tone": "feature",
             "href": "artanddesign"
         },
         "us/stage/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "stage?edition=US",
+            "apiQuery": "stage?edition=us",
             "displayName": "Stage",
             "tone": "feature",
             "href": "stage"
         },
         "us/technology/games/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "technology/games?edition=US",
+            "apiQuery": "technology/games?edition=us",
             "displayName": "Games",
             "tone": "news",
             "href": "technology/games"
         },
         "us/tv-and-radio/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "tv-and-radio?edition=US",
+            "apiQuery": "tv-and-radio?edition=us",
             "displayName": "TV and radio",
             "tone": "feature",
             "href": "tv-and-radio"
@@ -982,7 +982,7 @@
         },
         "us/commentisfree/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "commentisfree?edition=US",
+            "apiQuery": "commentisfree?edition=us",
             "displayName": "Comment is free",
             "tone": "comment",
             "href": "commentisfree"
@@ -1001,7 +1001,7 @@
         },
         "us/business/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "business?edition=US",
+            "apiQuery": "business?edition=us",
             "displayName": "Business",
             "tone": "news",
             "href": "business"
@@ -1022,7 +1022,7 @@
 
         "au/sport/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "sport?edition=AU",
+            "apiQuery": "sport?edition=au",
             "displayName": "Sport",
             "tone": "news",
             "href": "sport"
@@ -1034,84 +1034,84 @@
         },
         "au/football/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "football?edition=AU",
+            "apiQuery": "football?edition=au",
             "displayName": "Football",
             "tone": "news",
             "href": "football"
         },
         "au/sport/cricket/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/cricket?edition=AU",
+            "apiQuery": "sport/cricket?edition=au",
             "displayName": "Cricket",
             "tone": "news",
             "href": "sport/cricket"
         },
         "au/sport/a-league/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "football/a-league?edition=AU",
+            "apiQuery": "football/a-league?edition=au",
             "displayName": "A-League",
             "tone": "news",
             "href": "sport/a-league"
         },
         "au/sport/tennis/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/tennis?edition=AU",
+            "apiQuery": "sport/tennis?edition=au",
             "displayName": "Tennis",
             "tone": "news",
             "href": "sport/tennis"
         },
         "au/sport/rugbyleague/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/rugbyleague?edition=AU",
+            "apiQuery": "sport/rugbyleague?edition=au",
             "displayName": "Rugby league",
             "tone": "news",
             "href": "sport/rugbyleague"
         },
         "au/sport/afl/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/afl?edition=AU",
+            "apiQuery": "sport/afl?edition=au",
             "displayName": "AFL",
             "tone": "news",
             "href": "sport/afl"
         },
         "au/sport/nrl/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/nrl?edition=AU",
+            "apiQuery": "sport/nrl?edition=au",
             "displayName": "NRL",
             "tone": "news",
             "href": "sport/nrl"
         },
         "au/sport/golf/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/golf?edition=AU",
+            "apiQuery": "sport/golf?edition=au",
             "displayName": "Golf",
             "tone": "news",
             "href": "sport/golf"
         },
         "au/sport/motorsports/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/motorsports?edition=AU",
+            "apiQuery": "sport/motorsports?edition=au",
             "displayName": "Motorsports",
             "tone": "news",
             "href": "sport/motorsports"
         },
         "au/sport/cycling/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/cycling?edition=AU",
+            "apiQuery": "sport/cycling?edition=au",
             "displayName": "Cycling",
             "tone": "news",
             "href": "sport/cycling"
         },
         "au/sport/us-sport/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/us-sport?edition=AU",
+            "apiQuery": "sport/us-sport?edition=au",
             "displayName": "US Sport",
             "tone": "news",
             "href": "sport/us-sport"
         },
         "au/sport/boxing/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "sport/boxing?edition=AU",
+            "apiQuery": "sport/boxing?edition=au",
             "displayName": "Boxing",
             "tone": "news",
             "href": "sport/boxing"
@@ -1125,7 +1125,7 @@
         },
         "au/money/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "money?edition=AU",
+            "apiQuery": "money?edition=au",
             "displayName": "Money",
             "tone": "news",
             "href": "money"
@@ -1144,7 +1144,7 @@
         },
         "au/culture/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "culture?edition=AU",
+            "apiQuery": "culture?edition=au",
             "displayName": "Culture",
             "tone": "feature",
             "href": "culture"
@@ -1156,28 +1156,28 @@
         },
         "au/film/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "film?edition=AU",
+            "apiQuery": "film?edition=au",
             "displayName": "Film",
             "tone": "feature",
             "href": "film"
         },
         "au/music/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "music?edition=AU",
+            "apiQuery": "music?edition=au",
             "displayName": "Music",
             "tone": "feature",
             "href": "music"
         },
         "au/books/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "books?edition=AU",
+            "apiQuery": "books?edition=au",
             "displayName": "Books",
             "tone": "feature",
             "href": "books"
         },
         "au/technology/games/regular-stories": {
             "roleName": "Section stories",
-            "apiQuery": "technology/games?edition=AU",
+            "apiQuery": "technology/games?edition=au",
             "displayName": "Games",
             "tone": "news",
             "href": "technology/games"
@@ -1191,7 +1191,7 @@
         },
         "au/commentisfree/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "commentisfree?edition=AU",
+            "apiQuery": "commentisfree?edition=au",
             "displayName": "Comment is free",
             "tone": "comment",
             "href": "commentisfree"
@@ -1210,7 +1210,7 @@
         },
         "au/business/regular-stories": {
             "roleName": "Top stories",
-            "apiQuery": "business?edition=AU",
+            "apiQuery": "business?edition=au",
             "displayName": "Business",
             "tone": "news",
             "href": "business"
