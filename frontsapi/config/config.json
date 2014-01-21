@@ -31,6 +31,23 @@
             ]
         },
 
+        "uk-beta": {
+            "collections": [
+                "uk/news/regular-stories",
+                "uk/news/special-story",
+                "uk/sport/regular-stories",
+                "uk/tone/features/feature-stories",
+                "uk/commentisfree/regular-stories",
+                "uk/culture/regular-stories",
+                "uk/business/regular-stories",
+                "uk/lifeandstyle/regular-stories",
+                "uk/technology/regular-stories",
+                "uk/money/regular-stories",
+                "uk/travel/regular-stories",
+                "uk/most-viewed/regular-stories"
+            ]
+        },
+
         "us" : {
             "collections": [
                 "us/news/regular-stories",
