@@ -353,12 +353,12 @@
         "uk-alpha/news/regular-stories": {
             "roleName": "News",
             "displayName": "",
-            "groups": ["standard", "big", "very big", "huge"],
+            "groups": ["standard", "big", "very big"],
             "tone": "news"
         },
         "uk-alpha/special-1/special-story": {
             "roleName": "Special",
-            "groups": ["standard", "big", "very big", "huge"],
+            "groups": ["standard", "big", "very big"],
             "tone": "news"
         },
         "uk-alpha/features/feature-stories": {
@@ -368,7 +368,7 @@
         },
         "uk-alpha/special/special-story": {
             "roleName": "Special",
-            "groups": ["standard", "big", "very big", "huge"],
+            "groups": ["standard", "big", "very big"],
             "tone": "news"
         },
         "uk-alpha/contributors/feature-stories": {
@@ -378,7 +378,7 @@
         },
         "uk-alpha/special-2/special-story": {
             "roleName": "Special",
-            "groups": ["standard", "big", "very big", "huge"],
+            "groups": ["standard", "big", "very big"],
             "tone": "news"
         },
         "uk-alpha/people-in-the-news/feature-stories": {
@@ -397,7 +397,7 @@
         },
         "us-alpha/special-1/special-story": {
             "roleName": "Special",
-            "groups": ["standard", "big", "very big", "huge"],
+            "groups": ["standard", "big", "very big"],
             "tone": "news"
         },
         "us-alpha/features/feature-stories": {
@@ -407,7 +407,7 @@
         },
         "us-alpha/special/special-story": {
             "roleName": "Special",
-            "groups": ["standard", "big", "very big", "huge"],
+            "groups": ["standard", "big", "very big"],
             "tone": "news"
         },
         "us-alpha/contributors/feature-stories": {
@@ -417,7 +417,7 @@
         },
         "us-alpha/special-2/special-story": {
             "roleName": "Special",
-            "groups": ["standard", "big", "very big", "huge"],
+            "groups": ["standard", "big", "very big"],
             "tone": "news"
         },
         "us-alpha/people-in-the-news/feature-stories": {
@@ -436,7 +436,7 @@
         },
         "au-alpha/special-1/special-story": {
             "roleName": "Special",
-            "groups": ["standard", "big", "very big", "huge"],
+            "groups": ["standard", "big", "very big"],
             "tone": "news"
         },
         "au-alpha/features/feature-stories": {
@@ -446,7 +446,7 @@
         },
         "au-alpha/special/special-story": {
             "roleName": "Special",
-            "groups": ["standard", "big", "very big", "huge"],
+            "groups": ["standard", "big", "very big"],
             "tone": "news"
         },
         "au-alpha/contributors/feature-stories": {
@@ -456,7 +456,7 @@
         },
         "au-alpha/special-2/special-story": {
             "roleName": "Special",
-            "groups": ["standard", "big", "very big", "huge"],
+            "groups": ["standard", "big", "very big"],
             "tone": "news"
         },
         "au-alpha/people-in-the-news/feature-stories": {
