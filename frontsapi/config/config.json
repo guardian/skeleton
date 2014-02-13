@@ -5,7 +5,7 @@
                 "uk/news/regular-stories",
                 "uk/news/special-story",
                 "uk/sport/regular-stories",
-                "uk/tone/features/feature-stories",
+                "uk-alpha/features/feature-stories",
                 "uk/commentisfree/regular-stories",
                 "uk/culture/regular-stories",
                 "uk/business/regular-stories",
@@ -283,7 +283,8 @@
         "uk-alpha/features/feature-stories": {
             "roleName": "Features",
             "displayName": "Features",
-            "tone": "feature"
+            "tone": "feature",
+            "href": "tone/features"
         },
         "uk-alpha/special/special-story": {
             "roleName": "Special",
@@ -393,12 +394,6 @@
         "uk/news/special-story": {
             "roleName": "Special Story",
             "tone": "news"
-        },
-        "uk/tone/features/feature-stories": {
-            "roleName": "Featured stories",
-            "displayName": "Features",
-            "tone": "feature",
-            "href": "tone/features"
         },
         "uk/lifeandstyle/regular-stories": {
             "roleName": "Section stories",
