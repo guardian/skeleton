@@ -266,6 +266,14 @@
                 "us/google-news/editors-picks",
                 "au/google-news/editors-picks"
             ]
+        },
+
+        "testcard" : {
+            "collections": [
+                "testcard-1",
+                "testcard-2",
+                "testcard-3"
+            ]
         }
     },
 
@@ -1008,6 +1016,20 @@
         },
         "au/google-news/editors-picks": {
             "displayName": "Australia editors' picks"
+        },
+
+        "testcard-1": {
+            "displayName": "Testcard tone: news",
+            "tone": "news"
+        },
+        "testcard-2": {
+            "displayName": "Testcard tone: feature ",
+            "tone": "feature"
+        },
+        "testcard-3": {
+            "displayName": "Testcard tone: comment",
+            "tone": "comment"
         }
+
     }
 }
