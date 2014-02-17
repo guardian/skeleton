@@ -272,7 +272,7 @@
     "collections": {
         "uk-alpha/news/regular-stories": {
             "displayName": "News",
-            "groups": ["standard", "big", "very big"],
+            "groups": ["standard", "big", "very big", "huge"],
             "tone": "news"
         },
         "uk-alpha/special-1/special-story": {
@@ -302,7 +302,7 @@
         },
         "us-alpha/news/regular-stories": {
             "displayName": "News",
-            "groups": ["standard", "big", "very big"],
+            "groups": ["standard", "big", "very big", "huge"],
             "tone": "news"
         },
         "us-alpha/special-1/special-story": {
@@ -331,7 +331,7 @@
         },
         "au-alpha/news/regular-stories": {
             "displayName": "News",
-            "groups": ["standard", "big", "very big"],
+            "groups": ["standard", "big", "very big", "huge"],
             "tone": "news"
         },
         "au-alpha/special-1/special-story": {
