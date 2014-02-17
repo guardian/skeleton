@@ -271,153 +271,123 @@
 
     "collections": {
         "uk-alpha/news/regular-stories": {
-            "roleName": "News",
-            "displayName": "",
+            "displayName": "News",
             "groups": ["standard", "big", "very big"],
             "tone": "news"
         },
         "uk-alpha/special-1/special-story": {
-            "roleName": "Special",
             "tone": "news"
         },
         "uk-alpha/features/feature-stories": {
-            "roleName": "Features",
             "displayName": "Features",
             "tone": "feature",
             "href": "tone/features"
         },
         "uk-alpha/special/special-story": {
-            "roleName": "Special",
             "tone": "news"
         },
         "uk-alpha/contributors/feature-stories": {
-            "roleName": "Comment and debate",
             "displayName": "Comment and debate",
             "tone": "comment"
         },
         "uk-alpha/special-2/special-story": {
-            "roleName": "Special",
             "tone": "news"
         },
         "uk-alpha/people-in-the-news/feature-stories": {
-            "roleName": "People",
             "displayName": "People",
             "tone": "news"
         },
         "uk-alpha/special-other/special-story": {
-            "roleName": "Special",
             "tone": "news"
         },
         "us-alpha/news/regular-stories": {
-            "roleName": "News",
-            "displayName": "",
+            "displayName": "News",
             "groups": ["standard", "big", "very big"],
             "tone": "news"
         },
         "us-alpha/special-1/special-story": {
-            "roleName": "Special",
             "tone": "news"
         },
         "us-alpha/features/feature-stories": {
-            "roleName": "Features",
             "displayName": "From the Guardian",
             "tone": "feature"
         },
         "us-alpha/special/special-story": {
-            "roleName": "Special",
             "tone": "news"
         },
         "us-alpha/contributors/feature-stories": {
-            "roleName": "Contributors",
             "displayName": "Comment and debate",
             "tone": "comment"
         },
         "us-alpha/special-2/special-story": {
-            "roleName": "Special",
             "tone": "news"
         },
         "us-alpha/people-in-the-news/feature-stories": {
-            "roleName": "People in the news",
             "displayName": "People in the news",
             "tone": "news"
         },
         "us-alpha/special-other/special-story": {
-            "roleName": "Special",
             "tone": "news"
         },
         "au-alpha/news/regular-stories": {
-            "roleName": "News",
-            "displayName": "",
+            "displayName": "News",
             "groups": ["standard", "big", "very big"],
             "tone": "news"
         },
         "au-alpha/special-1/special-story": {
-            "roleName": "Special",
             "tone": "news"
         },
         "au-alpha/features/feature-stories": {
-            "roleName": "Features",
             "displayName": "Features",
             "tone": "feature"
         },
         "au-alpha/special/special-story": {
-            "roleName": "Special",
             "tone": "news"
         },
         "au-alpha/contributors/feature-stories": {
-            "roleName": "Contributors",
             "displayName": "Contributors",
             "tone": "comment"
         },
         "au-alpha/special-2/special-story": {
-            "roleName": "Special",
             "tone": "news"
         },
         "au-alpha/people-in-the-news/feature-stories": {
-            "roleName": "People in the news",
             "displayName": "People in the news",
             "tone": "news"
         },
         "au-alpha/special-other/special-story": {
-            "roleName": "Special",
             "tone": "news"
         },
 
 
         "uk/news/regular-stories": {
-            "roleName": "Top Stories",
             "apiQuery": "?edition=uk",
-            "displayName": "",
+            "displayName": "News",
             "tone": "news",
             "href": ""
         },
         "uk/news/special-story": {
-            "roleName": "Special Story",
             "tone": "news"
         },
         "uk/lifeandstyle/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "lifeandstyle?edition=uk",
             "displayName": "Life and style",
             "tone": "feature",
             "href": "lifeandstyle"
         },
         "uk/technology/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "technology?edition=uk",
             "displayName": "Technology",
             "tone": "news",
             "href": "technology"
         },
         "uk/travel/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "travel?edition=uk",
             "displayName": "Travel",
             "tone": "feature",
             "href": "travel"
         },
         "uk/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
@@ -425,45 +395,38 @@
         },
 
         "us/news/regular-stories": {
-            "roleName": "Top stories",
             "apiQuery": "?edition=us",
-            "displayName": "",
+            "displayName": "News",
             "tone": "news",
             "href": ""
         },
         "us/news/special-story": {
-            "roleName": "Special Story",
             "tone": "news"
         },
         "us/tone/features/feature-stories": {
-            "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature",
             "href": "tone/features"
         },
         "us/lifeandstyle/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "lifeandstyle?edition=us",
             "displayName": "Life and style",
             "tone": "feature",
             "href": "lifeandstyle"
         },
         "us/technology/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "technology?edition=us",
             "displayName": "Technology",
             "tone": "news",
             "href": "technology"
         },
         "us/travel/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "travel?edition=us",
             "displayName": "Travel",
             "tone": "feature",
             "href": "travel"
         },
         "us/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
@@ -471,52 +434,44 @@
         },
 
         "au/news/regular-stories": {
-            "roleName": "Top stories",
             "apiQuery": "?edition=au",
-            "displayName": "",
+            "displayName": "News",
             "tone": "news",
             "href": ""
         },
         "au/news/special-story": {
-            "roleName": "Special Story",
             "tone": "news"
         },
         "au/sport/australia-sport/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/australia-sport?edition=au",
             "displayName": "Australia Sport",
             "tone": "news",
             "href": "sport/australia-sport"
         },
         "au/tone/features/feature-stories": {
-            "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature",
             "href": "tone/features"
         },
         "au/lifeandstyle/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "lifeandstyle?edition=au",
             "displayName": "Life and style",
             "tone": "feature",
             "href": "lifeandstyle"
         },
         "au/technology/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "technology?edition=au",
             "displayName": "Technology",
             "tone": "news",
             "href": "technology"
         },
         "au/travel/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "travel?edition=au",
             "displayName": "Travel",
             "tone": "feature",
             "href": "travel"
         },
         "au/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
@@ -525,221 +480,188 @@
 
 
         "uk/sport/regular-stories": {
-            "roleName": "Top stories",
             "apiQuery": "sport?edition=uk",
             "displayName": "Sport",
             "tone": "news",
             "href": "sport"
         },
         "uk/sport/feature-stories": {
-            "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
         },
         "uk/football/regular-stories": {
-            "roleName": "Section Stories",
             "apiQuery": "football?edition=uk",
             "displayName": "Football",
             "tone": "news",
             "href": "football"
         },
         "uk/sport/cricket/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/cricket?edition=uk",
             "displayName": "Cricket",
             "tone": "news",
             "href": "sport/cricket"
         },
         "uk/sport/rugby-union/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/rugby-union?edition=uk",
             "displayName": "Rugby union",
             "tone": "news",
             "href": "sport/rugby-union"
         },
         "uk/sport/motorsports/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/motorsports?edition=uk",
             "displayName": "Motorsports",
             "tone": "news",
             "href": "sport/motorsports"
         },
         "uk/sport/tennis/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/tennis?edition=uk",
             "displayName": "Tennis",
             "tone": "news",
             "href": "sport/tennis"
         },
         "uk/sport/golf/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/golf?edition=uk",
             "displayName": "Golf",
             "tone": "news",
             "href": "sport/golf"
         },
         "uk/sport/horse-racing/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/horse-racing?edition=uk",
             "displayName": "Horse racing",
             "tone": "news",
             "href": "sport/horse-racing"
         },
         "uk/sport/rugbyleague/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/rugbyleague?edition=uk",
             "displayName": "Rugby league",
             "tone": "news",
             "href": "sport/rugbyleague"
         },
         "uk/sport/us-sport/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/us-sport?edition=uk",
             "displayName": "US sport",
             "tone": "news",
             "href": "sport/us-sport"
         },
         "uk/sport/boxing/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/boxing?edition=uk",
             "displayName": "Boxing",
             "tone": "news",
             "href": "sport/boxing"
         },
         "uk/sport/cycling/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/cycling?edition=uk",
             "displayName": "Cycling",
             "tone": "news",
             "href": "sport/cycling"
         },
         "uk/sport/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
             "apiQuery": "uk/sport?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "uk/money/regular-stories": {
-            "roleName": "Top stories",
             "apiQuery": "money?edition=uk",
             "displayName": "Money",
             "tone": "news",
             "href": "money"
         },
         "uk/money/feature-stories": {
-            "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
         },
         "uk/money/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
             "apiQuery": "uk/money?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "uk/culture/regular-stories": {
-            "roleName": "Top stories",
             "apiQuery": "culture?edition=uk",
             "displayName": "Culture",
             "tone": "feature",
             "href": "culture"
         },
         "uk/culture/feature-stories": {
-            "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
         },
         "uk/film/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "film?edition=uk",
             "displayName": "Film",
             "tone": "feature",
             "href": "film"
         },
         "uk/music/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "music?edition=uk",
             "displayName": "Music",
             "tone": "feature",
             "href": "music"
         },
         "uk/tv-and-radio/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "tv-and-radio?edition=uk",
             "displayName": "TV and radio",
             "tone": "feature",
             "href": "tv-and-radio"
         },
         "uk/books/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "books?edition=uk",
             "displayName": "Books",
             "tone": "feature",
             "href": "books"
         },
         "uk/artanddesign/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "artanddesign?edition=uk",
             "displayName": "Art and design",
             "tone": "feature",
             "href": "artanddesign"
         },
         "uk/stage/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "stage?edition=uk",
             "displayName": "Stage",
             "tone": "feature",
             "href": "stage"
         },
         "uk/technology/games/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "technology/games?edition=uk",
             "displayName": "Games",
             "tone": "news",
             "href": "technology/games"
         },
         "uk/culture/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
             "apiQuery": "uk/culture?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "uk/commentisfree/regular-stories": {
-            "roleName": "Top stories",
             "apiQuery": "commentisfree?edition=uk",
             "displayName": "Comment is free",
             "tone": "comment",
             "href": "commentisfree"
         },
         "uk/commentisfree/feature-stories": {
-            "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
         },
         "uk/commentisfree/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
             "apiQuery": "uk/commentisfree?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "uk/business/regular-stories": {
-            "roleName": "Top stories",
             "apiQuery": "business?edition=uk",
             "displayName": "Business",
             "tone": "news",
             "href": "business"
         },
         "uk/business/feature-stories": {
-            "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
         },
         "uk/business/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
@@ -748,179 +670,152 @@
 
 
         "us/sport/regular-stories": {
-            "roleName": "Top stories",
             "apiQuery": "sport?edition=us",
             "displayName": "Sports",
             "tone": "news",
             "href": "sport"
         },
         "us/sport/feature-stories": {
-            "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
         },
         "us/sport/nfl/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/nfl?edition=us",
             "displayName": "NFL",
             "tone": "news",
             "href": "sport/nfl"
         },
         "us/sport/mlb/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/mlb?edition=us",
             "displayName": "MLB",
             "tone": "news",
             "href": "sport/mlb"
         },
         "us/sport/nba/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/nba?edition=us",
             "displayName": "NBA",
             "tone": "news",
             "href": "sport/nba"
         },
         "us/sport/mls/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "football/mls?edition=us",
             "displayName": "MLS",
             "tone": "news",
             "href": "sport/mls"
         },
         "us/sport/nhl/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/nhl?edition=us",
             "displayName": "NHL",
             "tone": "news",
             "href": "sport/nhl"
         },
         "us/sport/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
             "apiQuery": "us/sport?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "us/money/regular-stories": {
-            "roleName": "Top stories",
             "apiQuery": "money?edition=us",
             "displayName": "Money",
             "tone": "news",
             "href": "money"
         },
         "us/money/feature-stories": {
-            "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
         },
         "us/money/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
             "apiQuery": "us/money?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "us/culture/regular-stories": {
-            "roleName": "Top stories",
             "apiQuery": "culture?edition=us",
             "displayName": "Culture",
             "tone": "feature",
             "href": "culture"
         },
         "us/culture/feature-stories": {
-            "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
         },
         "us/film/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "film?edition=us",
             "displayName": "Film",
             "tone": "feature",
             "href": "film"
         },
         "us/music/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "music?edition=us",
             "displayName": "Music",
             "tone": "feature",
             "href": "music"
         },
         "us/books/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "books?edition=us",
             "displayName": "Books",
             "tone": "feature",
             "href": "books"
         },
         "us/artanddesign/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "artanddesign?edition=us",
             "displayName": "Art and design",
             "tone": "feature",
             "href": "artanddesign"
         },
         "us/stage/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "stage?edition=us",
             "displayName": "Stage",
             "tone": "feature",
             "href": "stage"
         },
         "us/technology/games/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "technology/games?edition=us",
             "displayName": "Games",
             "tone": "news",
             "href": "technology/games"
         },
         "us/tv-and-radio/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "tv-and-radio?edition=us",
             "displayName": "TV and radio",
             "tone": "feature",
             "href": "tv-and-radio"
         },
         "us/culture/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
             "apiQuery": "us/culture?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "us/commentisfree/regular-stories": {
-            "roleName": "Top stories",
             "apiQuery": "commentisfree?edition=us",
             "displayName": "Comment is free",
             "tone": "comment",
             "href": "commentisfree"
         },
         "us/commentisfree/feature-stories": {
-            "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
         },
         "us/commentisfree/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
             "apiQuery": "us/commentisfree?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "us/business/regular-stories": {
-            "roleName": "Top stories",
             "apiQuery": "business?edition=us",
             "displayName": "Business",
             "tone": "news",
             "href": "business"
         },
         "us/business/feature-stories": {
-            "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
         },
         "us/business/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
@@ -929,207 +824,176 @@
 
 
         "au/sport/regular-stories": {
-            "roleName": "Top stories",
             "apiQuery": "sport?edition=au",
             "displayName": "Sport",
             "tone": "news",
             "href": "sport"
         },
         "au/sport/feature-stories": {
-            "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
         },
         "au/football/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "football?edition=au",
             "displayName": "Football",
             "tone": "news",
             "href": "football"
         },
         "au/sport/cricket/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/cricket?edition=au",
             "displayName": "Cricket",
             "tone": "news",
             "href": "sport/cricket"
         },
         "au/sport/a-league/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "football/a-league?edition=au",
             "displayName": "A-League",
             "tone": "news",
             "href": "sport/a-league"
         },
         "au/sport/tennis/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/tennis?edition=au",
             "displayName": "Tennis",
             "tone": "news",
             "href": "sport/tennis"
         },
         "au/sport/rugbyleague/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/rugbyleague?edition=au",
             "displayName": "Rugby league",
             "tone": "news",
             "href": "sport/rugbyleague"
         },
         "au/sport/afl/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/afl?edition=au",
             "displayName": "AFL",
             "tone": "news",
             "href": "sport/afl"
         },
         "au/sport/nrl/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/nrl?edition=au",
             "displayName": "NRL",
             "tone": "news",
             "href": "sport/nrl"
         },
         "au/sport/golf/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/golf?edition=au",
             "displayName": "Golf",
             "tone": "news",
             "href": "sport/golf"
         },
         "au/sport/motorsports/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/motorsports?edition=au",
             "displayName": "Motorsports",
             "tone": "news",
             "href": "sport/motorsports"
         },
         "au/sport/cycling/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/cycling?edition=au",
             "displayName": "Cycling",
             "tone": "news",
             "href": "sport/cycling"
         },
         "au/sport/us-sport/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/us-sport?edition=au",
             "displayName": "US Sport",
             "tone": "news",
             "href": "sport/us-sport"
         },
         "au/sport/boxing/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "sport/boxing?edition=au",
             "displayName": "Boxing",
             "tone": "news",
             "href": "sport/boxing"
         },
         "au/sport/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
             "apiQuery": "au/sport?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "au/money/regular-stories": {
-            "roleName": "Top stories",
             "apiQuery": "money?edition=au",
             "displayName": "Money",
             "tone": "news",
             "href": "money"
         },
         "au/money/feature-stories": {
-            "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
         },
         "au/money/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
             "apiQuery": "au/money?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "au/culture/regular-stories": {
-            "roleName": "Top stories",
             "apiQuery": "culture?edition=au",
             "displayName": "Culture",
             "tone": "feature",
             "href": "culture"
         },
         "au/culture/feature-stories": {
-            "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
         },
         "au/film/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "film?edition=au",
             "displayName": "Film",
             "tone": "feature",
             "href": "film"
         },
         "au/music/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "music?edition=au",
             "displayName": "Music",
             "tone": "feature",
             "href": "music"
         },
         "au/books/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "books?edition=au",
             "displayName": "Books",
             "tone": "feature",
             "href": "books"
         },
         "au/technology/games/regular-stories": {
-            "roleName": "Section stories",
             "apiQuery": "technology/games?edition=au",
             "displayName": "Games",
             "tone": "news",
             "href": "technology/games"
         },
         "au/culture/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
             "apiQuery": "au/culture?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "au/commentisfree/regular-stories": {
-            "roleName": "Top stories",
             "apiQuery": "commentisfree?edition=au",
             "displayName": "Comment is free",
             "tone": "comment",
             "href": "commentisfree"
         },
         "au/commentisfree/feature-stories": {
-            "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
         },
         "au/commentisfree/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
             "apiQuery": "au/commentisfree?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true"
         },
         "au/business/regular-stories": {
-            "roleName": "Top stories",
             "apiQuery": "business?edition=au",
             "displayName": "Business",
             "tone": "news",
             "href": "business"
         },
         "au/business/feature-stories": {
-            "roleName": "Featured stories",
             "displayName": "Features",
             "tone": "feature"
         },
         "au/business/most-viewed/regular-stories": {
-            "roleName": "Most viewed",
             "displayName": "Most popular",
             "tone": "news",
             "uneditable": true,
