@@ -289,7 +289,8 @@
         "uk-alpha/features/feature-stories": {
             "displayName": "Features",
             "tone": "feature",
-            "href": "tone/features"
+            "href": "tone/features",
+            "type": "features"
         },
         "uk-alpha/special/special-story": {
             "tone": "news"
@@ -376,7 +377,7 @@
         },
         "uk/news/special-story": {
             "tone": "news",
-            "type": "news/special"
+            "type": "news/section"
         },
         "uk/lifeandstyle/regular-stories": {
             "apiQuery": "lifeandstyle?edition=uk",
@@ -415,7 +416,7 @@
         },
         "us/news/special-story": {
             "tone": "news",
-            "type": "news/special"
+            "type": "news/section"
         },
         "us/tone/features/feature-stories": {
             "displayName": "Features",
@@ -460,7 +461,7 @@
         },
         "au/news/special-story": {
             "tone": "news",
-            "type": "news/special"
+            "type": "news/section"
         },
         "au/sport/australia-sport/regular-stories": {
             "apiQuery": "sport/australia-sport?edition=au",
@@ -510,7 +511,7 @@
             "displayName": "Sport",
             "tone": "news",
             "href": "sport",
-            "type": "news"
+            "type": "news/sport"
         },
         "uk/sport/feature-stories": {
             "displayName": "Features",
@@ -625,7 +626,7 @@
             "displayName": "Culture",
             "tone": "feature",
             "href": "culture",
-            "type": "features/section"
+            "type": "features"
         },
         "uk/culture/feature-stories": {
             "displayName": "Features",
@@ -693,7 +694,7 @@
             "displayName": "Comment is free",
             "tone": "comment",
             "href": "commentisfree",
-            "type": "comment/commentisfree"
+            "type": "comment"
         },
         "uk/commentisfree/feature-stories": {
             "displayName": "Features",
@@ -733,7 +734,7 @@
             "displayName": "Sports",
             "tone": "news",
             "href": "sport",
-            "type": "news"
+            "type": "news/sport"
         },
         "us/sport/feature-stories": {
             "displayName": "Features",
@@ -806,7 +807,7 @@
             "displayName": "Culture",
             "tone": "feature",
             "href": "culture",
-            "type": "news"
+            "type": "features"
         },
         "us/culture/feature-stories": {
             "displayName": "Features",
@@ -874,7 +875,7 @@
             "displayName": "Comment is free",
             "tone": "comment",
             "href": "commentisfree",
-            "type": "news"
+            "type": "comment"
         },
         "us/commentisfree/feature-stories": {
             "displayName": "Features",
@@ -914,7 +915,7 @@
             "displayName": "Sport",
             "tone": "news",
             "href": "sport",
-            "type": "news"
+            "type": "news/sport"
         },
         "au/sport/feature-stories": {
             "displayName": "Features",
@@ -1036,7 +1037,7 @@
             "displayName": "Culture",
             "tone": "feature",
             "href": "culture",
-            "type": "features/section"
+            "type": "features"
         },
         "au/culture/feature-stories": {
             "displayName": "Features",
@@ -1083,7 +1084,7 @@
             "displayName": "Comment is free",
             "tone": "comment",
             "href": "commentisfree",
-            "type": "news"
+            "type": "comment"
         },
         "au/commentisfree/feature-stories": {
             "displayName": "Features",
