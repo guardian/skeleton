@@ -371,8 +371,7 @@
         "uk/news/regular-stories": {
             "apiQuery": "?edition=uk",
             "displayName": "News",
-            "tone": "news",
-            "href": ""
+            "tone": "news"
         },
         "uk/news/special-story": {
             "tone": "news"
@@ -405,8 +404,7 @@
         "us/news/regular-stories": {
             "apiQuery": "?edition=us",
             "displayName": "News",
-            "tone": "news",
-            "href": ""
+            "tone": "news"
         },
         "us/news/special-story": {
             "tone": "news"
@@ -444,8 +442,7 @@
         "au/news/regular-stories": {
             "apiQuery": "?edition=au",
             "displayName": "News",
-            "tone": "news",
-            "href": ""
+            "tone": "news"
         },
         "au/news/special-story": {
             "tone": "news"
