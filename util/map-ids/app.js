@@ -13,7 +13,7 @@ var fs = require('fs'),
     tally = {};
 
 function deepGet(obj, props) {
-    props = (props + '').split( '.' );
+    props = (props + '').split(/\.+/).filter(function(str) {return str;});
     while (obj && props.length) {
       obj = obj[props.shift()];
     }
