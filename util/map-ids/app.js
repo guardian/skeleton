@@ -10,7 +10,6 @@ var fs = require('fs'),
     recurseDir = require('recursive-readdir'),
 
     iccPrefix = "internal-code/content/",
-    filesCompleted = 0,
     tally = {};
 
 function deepGet(obj, props) {
@@ -24,7 +23,6 @@ function deepGet(obj, props) {
 function setTally(key, doDecrement) {
     tally[key] = tally[key] || 0;
     tally[key] += doDecrement ? -1 : 1;
-    filesCompleted += (tally[key] === 1 ? 1 : (tally[key] === 0 ? -1 : 0))
 }
 
 function getTally(key) {
