@@ -5,7 +5,7 @@
       "webTitle" : "Latest financial, market and economic news and analysis"
     },
     "testcard" : {
-      "collections" : [ "5e60-6ec0-22e8-8d1a" ],
+      "collections" : [ "5236-20ac-2c18-6634", "608e-145e-e48a-e3f7", "1626-1252-b53f-2afa", "6076-7e22-53c7-1292", "ed35-b216-d679-0480", "a116-350f-7099-27c4", "40d3-41c6-e819-f2cf", "1805-7fbf-6711-e80f", "2974-f1f5-ac63-09f9" ],
       "webTitle" : "Testcard"
     },
     "lifeandstyle/home-and-garden" : {
@@ -864,9 +864,6 @@
       "apiQuery" : "sport/blog?section=football",
       "type" : "comment/comment-and-debate"
     },
-    "5e60-6ec0-22e8-8d1a" : {
-      "displayName" : "test1"
-    },
     "au/sport/golf/regular-stories" : {
       "displayName" : "Golf",
       "apiQuery" : "sport/golf?edition=au",
@@ -912,6 +909,47 @@
       "apiQuery" : "au/sport?show-most-viewed=true&show-editors-picks=false&hide-recent-content=true",
       "type" : "news/most-popular",
       "uneditable" : true
+    },
+    "5236-20ac-2c18-6634" : {
+      "displayName" : "Baguette",
+      "type" : "news",
+      "groups" : [ "standard", "big", "very big", "huge" ]
+    },
+    "608e-145e-e48a-e3f7" : {
+      "displayName" : "Fromage - Volume 2",
+      "type" : "news",
+      "groups" : [ "standard", "big", "very big", "huge" ]
+    },
+    "1626-1252-b53f-2afa" : {
+      "displayName" : "Fromage - Volume 1",
+      "type" : "news",
+      "groups" : [ "standard", "big", "very big", "huge" ]
+    },
+    "6076-7e22-53c7-1292" : {
+      "displayName" : "Fromage - Volume 0",
+      "type" : "news",
+      "groups" : [ "standard", "big", "very big", "huge" ]
+    },
+    "ed35-b216-d679-0480" : {
+      "displayName" : "Image hide",
+      "type" : "news",
+      "groups" : [ "standard", "big", "very big", "huge" ]
+    },
+    "a116-350f-7099-27c4" : {
+      "displayName" : "Most popular",
+      "type" : "news/most-popular"
+    },
+    "40d3-41c6-e819-f2cf" : {
+      "displayName" : "Features",
+      "type" : "features"
+    },
+    "1805-7fbf-6711-e80f" : {
+      "displayName" : "Comment",
+      "type" : "comment/comment-and-debate"
+    },
+    "2974-f1f5-ac63-09f9" : {
+      "displayName" : "People",
+      "type" : "news/people"
     }
   }
 }
