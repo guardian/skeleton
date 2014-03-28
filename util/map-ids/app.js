@@ -34,7 +34,7 @@ function transformId(item, data, filename) {
 
     setTally(filename);
 
-    http.get("http://concierge.content.guardianapis.com/" + item.id + "?show-fields=all", function(res) {
+    http.get("http://internal.content.guardianapis.com/" + item.id + "?show-fields=all", function(res) {
         var str = '';
 
         res.on('data', function(chunk) { str += chunk; });
@@ -43,10 +43,12 @@ function transformId(item, data, filename) {
 
             setTally(filename, true);
 
-            console.log("Mapped " + icc + " <- " + item.id + " (" + getTally(filename) + ")");
+            //console.log("Mapped " + icc + " <- " + item.id + " (" + getTally(filename) + ")");
 
             if (icc) {
                 item.id = iccPrefix + icc;
+            } else {
+                console.log("WARNING: no ICC for " + item.id + " in " + filename);
             }
 
             if (getTally(filename) === 0) {
@@ -54,7 +56,7 @@ function transformId(item, data, filename) {
                     if(err) {
                         console.log(err);
                     } else {
-                        console.log("Transformed: " + filename );
+                        console.log("Done: " + filename );
                     }
                 });
             }
