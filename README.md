@@ -75,7 +75,7 @@ find ./ -name *.json | xargs jslint
 
 Finally, upload the collection files:
 ```
-s3cmd sync --acl-public s3://aws-frontend-store/PROD/frontsapi/collection ./
+ s3cmd sync --acl-public ./collection s3://aws-frontend-store/PROD/frontsapi/
 ```
 (You could just upload individual files; up to you.)
 
