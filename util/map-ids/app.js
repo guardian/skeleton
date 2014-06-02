@@ -10,6 +10,7 @@ var fs = require('fs'),
     recurseDir = require('recursive-readdir'),
 
     iccPrefix = "internal-code/content/",
+    snapRegex = new RegExp(/^snap\/\d+$/),
     tally = {};
 
 function deepGet(obj, props) {
@@ -30,8 +31,6 @@ function getTally(key) {
 }
 
 function transformId(item, data, filename) {
-    if (item.id.indexOf(iccPrefix) === 0) { return; }
-
     setTally(filename);
 
     http.get("http://internal.content.guardianapis.com/" + item.id + "?show-fields=all", function(res) {
@@ -81,7 +80,15 @@ recurseDir(__dirname + "/collection", function (err, files) {
             [data.live, data.draft]
             .filter(function(list) { return list; })
             .forEach(function(list) {
-                list.forEach(function(item) {
+                list
+                // omit items with missing ids 
+                .filter(function(item) { return item.id; })
+                // omit already-transformed items 
+                .filter(function(item) { return item.id.indexOf(iccPrefix) !== 0; })
+                // omit snaps 
+                .filter(function(item) { return !item.id.match(snapRegex); })
+                // transform items
+                .forEach(function(item) {
                     transformId(item, data, file);
                     (deepGet(item, 'meta.supporting') || []).forEach(function(item) {
                         transformId(item, data, file);
